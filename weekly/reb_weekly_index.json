@@ -153,15 +153,6 @@
     "period_desc": "2026-07-27"
   },
   {
-    "region_name": "중부산권",
-    "region_full_name": "부산>중부산권",
-    "item_name": "지수",
-    "value": 99.9468309329824,
-    "unit": "지수",
-    "period_id": "202631",
-    "period_desc": "2026-07-27"
-  },
-  {
     "region_name": "중구",
     "region_full_name": "부산>중부산권>중구",
     "item_name": "지수",
@@ -211,6 +202,15 @@
     "region_full_name": "경기>경부1권",
     "item_name": "지수",
     "value": 100.941733249935,
+    "unit": "지수",
+    "period_id": "202631",
+    "period_desc": "2026-07-27"
+  },
+  {
+    "region_name": "중부산권",
+    "region_full_name": "부산>중부산권",
+    "item_name": "지수",
+    "value": 99.9468309329824,
     "unit": "지수",
     "period_id": "202631",
     "period_desc": "2026-07-27"
@@ -1197,19 +1197,19 @@
     "period_desc": "2026-07-27"
   },
   {
-    "region_name": "용인시",
-    "region_full_name": "경기>경부2권>용인시",
+    "region_name": "중랑구",
+    "region_full_name": "서울>강북지역>동북권>중랑구",
     "item_name": "지수",
-    "value": 101.180885701363,
+    "value": 101.307753991321,
     "unit": "지수",
     "period_id": "202631",
     "period_desc": "2026-07-27"
   },
   {
-    "region_name": "경원권",
-    "region_full_name": "경기>경원권",
+    "region_name": "기흥구",
+    "region_full_name": "경기>경부2권>용인시>기흥구",
     "item_name": "지수",
-    "value": 100.130243571624,
+    "value": 101.535169142003,
     "unit": "지수",
     "period_id": "202631",
     "period_desc": "2026-07-27"
@@ -1242,19 +1242,19 @@
     "period_desc": "2026-07-27"
   },
   {
-    "region_name": "중랑구",
-    "region_full_name": "서울>강북지역>동북권>중랑구",
+    "region_name": "경원권",
+    "region_full_name": "경기>경원권",
     "item_name": "지수",
-    "value": 101.307753991321,
+    "value": 100.130243571624,
     "unit": "지수",
     "period_id": "202631",
     "period_desc": "2026-07-27"
   },
   {
-    "region_name": "기흥구",
-    "region_full_name": "경기>경부2권>용인시>기흥구",
+    "region_name": "용인시",
+    "region_full_name": "경기>경부2권>용인시",
     "item_name": "지수",
-    "value": 101.535169142003,
+    "value": 101.180885701363,
     "unit": "지수",
     "period_id": "202631",
     "period_desc": "2026-07-27"
@@ -1467,10 +1467,19 @@
     "period_desc": "2026-07-27"
   },
   {
-    "region_name": "권선구",
-    "region_full_name": "경기>경부2권>수원시>권선구",
+    "region_name": "도봉구",
+    "region_full_name": "서울>강북지역>동북권>도봉구",
     "item_name": "지수",
-    "value": 100.871965118669,
+    "value": 100.787038713167,
+    "unit": "지수",
+    "period_id": "202631",
+    "period_desc": "2026-07-27"
+  },
+  {
+    "region_name": "안산시",
+    "region_full_name": "경기>서해안권>안산시",
+    "item_name": "지수",
+    "value": 100.073935254516,
     "unit": "지수",
     "period_id": "202631",
     "period_desc": "2026-07-27"
@@ -1494,19 +1503,10 @@
     "period_desc": "2026-07-27"
   },
   {
-    "region_name": "도봉구",
-    "region_full_name": "서울>강북지역>동북권>도봉구",
+    "region_name": "권선구",
+    "region_full_name": "경기>경부2권>수원시>권선구",
     "item_name": "지수",
-    "value": 100.787038713167,
-    "unit": "지수",
-    "period_id": "202631",
-    "period_desc": "2026-07-27"
-  },
-  {
-    "region_name": "안산시",
-    "region_full_name": "경기>서해안권>안산시",
-    "item_name": "지수",
-    "value": 100.073935254516,
+    "value": 100.871965118669,
     "unit": "지수",
     "period_id": "202631",
     "period_desc": "2026-07-27"
@@ -1530,28 +1530,10 @@
     "period_desc": "2026-07-27"
   },
   {
-    "region_name": "시흥시",
-    "region_full_name": "경기>서해안권>시흥시",
-    "item_name": "지수",
-    "value": 100.017607730735,
-    "unit": "지수",
-    "period_id": "202631",
-    "period_desc": "2026-07-27"
-  },
-  {
     "region_name": "팔달구",
     "region_full_name": "경기>경부2권>수원시>팔달구",
     "item_name": "지수",
     "value": 100.69475940974,
-    "unit": "지수",
-    "period_id": "202631",
-    "period_desc": "2026-07-27"
-  },
-  {
-    "region_name": "동래구",
-    "region_full_name": "부산>동부산권>동래구",
-    "item_name": "지수",
-    "value": 100.074432987794,
     "unit": "지수",
     "period_id": "202631",
     "period_desc": "2026-07-27"
@@ -1575,19 +1557,19 @@
     "period_desc": "2026-07-27"
   },
   {
-    "region_name": "광명시",
-    "region_full_name": "경기>서해안권>광명시",
+    "region_name": "동래구",
+    "region_full_name": "부산>동부산권>동래구",
     "item_name": "지수",
-    "value": 101.25885379461,
+    "value": 100.074432987794,
     "unit": "지수",
     "period_id": "202631",
     "period_desc": "2026-07-27"
   },
   {
-    "region_name": "부산",
-    "region_full_name": "부산",
+    "region_name": "시흥시",
+    "region_full_name": "경기>서해안권>시흥시",
     "item_name": "지수",
-    "value": 99.9508710487394,
+    "value": 100.017607730735,
     "unit": "지수",
     "period_id": "202631",
     "period_desc": "2026-07-27"
@@ -1602,10 +1584,28 @@
     "period_desc": "2026-07-27"
   },
   {
+    "region_name": "광명시",
+    "region_full_name": "경기>서해안권>광명시",
+    "item_name": "지수",
+    "value": 101.25885379461,
+    "unit": "지수",
+    "period_id": "202631",
+    "period_desc": "2026-07-27"
+  },
+  {
     "region_name": "은평구",
     "region_full_name": "서울>강북지역>서북권>은평구",
     "item_name": "지수",
     "value": 100.831595231482,
+    "unit": "지수",
+    "period_id": "202631",
+    "period_desc": "2026-07-27"
+  },
+  {
+    "region_name": "부산",
+    "region_full_name": "부산",
+    "item_name": "지수",
+    "value": 99.9508710487394,
     "unit": "지수",
     "period_id": "202631",
     "period_desc": "2026-07-27"
@@ -1782,19 +1782,19 @@
     "period_desc": "2026-07-27"
   },
   {
-    "region_name": "사하구",
-    "region_full_name": "부산>서부산권>사하구",
+    "region_name": "세종",
+    "region_full_name": "세종",
     "item_name": "지수",
-    "value": 99.8978811373884,
+    "value": 99.9739298725608,
     "unit": "지수",
     "period_id": "202631",
     "period_desc": "2026-07-27"
   },
   {
-    "region_name": "세종",
-    "region_full_name": "세종",
+    "region_name": "사하구",
+    "region_full_name": "부산>서부산권>사하구",
     "item_name": "지수",
-    "value": 99.9739298725608,
+    "value": 99.8978811373884,
     "unit": "지수",
     "period_id": "202631",
     "period_desc": "2026-07-27"
@@ -3591,10 +3591,19 @@
     "period_desc": "2026-08-03"
   },
   {
-    "region_name": "권선구",
-    "region_full_name": "경기>경부2권>수원시>권선구",
+    "region_name": "도봉구",
+    "region_full_name": "서울>강북지역>동북권>도봉구",
     "item_name": "지수",
-    "value": 101.083157433859,
+    "value": 101.030979616883,
+    "unit": "지수",
+    "period_id": "202632",
+    "period_desc": "2026-08-03"
+  },
+  {
+    "region_name": "안산시",
+    "region_full_name": "경기>서해안권>안산시",
+    "item_name": "지수",
+    "value": 100.098180530241,
     "unit": "지수",
     "period_id": "202632",
     "period_desc": "2026-08-03"
@@ -3618,19 +3627,10 @@
     "period_desc": "2026-08-03"
   },
   {
-    "region_name": "도봉구",
-    "region_full_name": "서울>강북지역>동북권>도봉구",
+    "region_name": "권선구",
+    "region_full_name": "경기>경부2권>수원시>권선구",
     "item_name": "지수",
-    "value": 101.030979616883,
-    "unit": "지수",
-    "period_id": "202632",
-    "period_desc": "2026-08-03"
-  },
-  {
-    "region_name": "안산시",
-    "region_full_name": "경기>서해안권>안산시",
-    "item_name": "지수",
-    "value": 100.098180530241,
+    "value": 101.083157433859,
     "unit": "지수",
     "period_id": "202632",
     "period_desc": "2026-08-03"
@@ -3906,19 +3906,19 @@
     "period_desc": "2026-08-03"
   },
   {
-    "region_name": "사하구",
-    "region_full_name": "부산>서부산권>사하구",
+    "region_name": "세종",
+    "region_full_name": "세종",
     "item_name": "지수",
-    "value": 99.8903057944755,
+    "value": 99.9733901927247,
     "unit": "지수",
     "period_id": "202632",
     "period_desc": "2026-08-03"
   },
   {
-    "region_name": "세종",
-    "region_full_name": "세종",
+    "region_name": "사하구",
+    "region_full_name": "부산>서부산권>사하구",
     "item_name": "지수",
-    "value": 99.9733901927247,
+    "value": 99.8903057944755,
     "unit": "지수",
     "period_id": "202632",
     "period_desc": "2026-08-03"
@@ -5103,19 +5103,19 @@
     "period_desc": "2026-08-10"
   },
   {
-    "region_name": "남원시",
-    "region_full_name": "전북>남원시",
+    "region_name": "광양시",
+    "region_full_name": "전남광주>전남>광양시",
     "item_name": "지수",
-    "value": 100.077569205098,
+    "value": 99.6292230876793,
     "unit": "지수",
     "period_id": "202633",
     "period_desc": "2026-08-10"
   },
   {
-    "region_name": "구미시",
-    "region_full_name": "경북>구미시",
+    "region_name": "분당구",
+    "region_full_name": "경기>경부1권>성남시>분당구",
     "item_name": "지수",
-    "value": 100.00479902944,
+    "value": 102.163915647481,
     "unit": "지수",
     "period_id": "202633",
     "period_desc": "2026-08-10"
@@ -5175,10 +5175,10 @@
     "period_desc": "2026-08-10"
   },
   {
-    "region_name": "광양시",
-    "region_full_name": "전남광주>전남>광양시",
+    "region_name": "남원시",
+    "region_full_name": "전북>남원시",
     "item_name": "지수",
-    "value": 99.6292230876793,
+    "value": 100.077569205098,
     "unit": "지수",
     "period_id": "202633",
     "period_desc": "2026-08-10"
@@ -5256,19 +5256,19 @@
     "period_desc": "2026-08-10"
   },
   {
-    "region_name": "분당구",
-    "region_full_name": "경기>경부1권>성남시>분당구",
+    "region_name": "구미시",
+    "region_full_name": "경북>구미시",
     "item_name": "지수",
-    "value": 102.163915647481,
+    "value": 100.00479902944,
     "unit": "지수",
     "period_id": "202633",
     "period_desc": "2026-08-10"
   },
   {
-    "region_name": "김제시",
-    "region_full_name": "전북>김제시",
+    "region_name": "무안군",
+    "region_full_name": "전남광주>전남>무안군",
     "item_name": "지수",
-    "value": 99.9966550420888,
+    "value": 100.66809888215,
     "unit": "지수",
     "period_id": "202633",
     "period_desc": "2026-08-10"
@@ -5310,19 +5310,19 @@
     "period_desc": "2026-08-10"
   },
   {
-    "region_name": "무안군",
-    "region_full_name": "전남광주>전남>무안군",
+    "region_name": "김제시",
+    "region_full_name": "전북>김제시",
     "item_name": "지수",
-    "value": 100.66809888215,
+    "value": 99.9966550420888,
     "unit": "지수",
     "period_id": "202633",
     "period_desc": "2026-08-10"
   },
   {
-    "region_name": "안성시",
-    "region_full_name": "경기>경부2권>안성시",
+    "region_name": "처인구",
+    "region_full_name": "경기>경부2권>용인시>처인구",
     "item_name": "지수",
-    "value": 100.009345300319,
+    "value": 100.252794825207,
     "unit": "지수",
     "period_id": "202633",
     "period_desc": "2026-08-10"
@@ -5382,10 +5382,10 @@
     "period_desc": "2026-08-10"
   },
   {
-    "region_name": "처인구",
-    "region_full_name": "경기>경부2권>용인시>처인구",
+    "region_name": "안성시",
+    "region_full_name": "경기>경부2권>안성시",
     "item_name": "지수",
-    "value": 100.252794825207,
+    "value": 100.009345300319,
     "unit": "지수",
     "period_id": "202633",
     "period_desc": "2026-08-10"
@@ -6372,10 +6372,10 @@
     "period_desc": "2026-08-10"
   },
   {
-    "region_name": "창원시",
-    "region_full_name": "경남>창원시",
+    "region_name": "포항시",
+    "region_full_name": "경북>포항시",
     "item_name": "지수",
-    "value": 100.20276361042,
+    "value": 99.1042016910623,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -6385,6 +6385,24 @@
     "region_full_name": "경기>경부1권>안양시>만안구",
     "item_name": "지수",
     "value": 101.598065505554,
+    "unit": "지수",
+    "period_id": "202634",
+    "period_desc": "2026-08-17"
+  },
+  {
+    "region_name": "창원시",
+    "region_full_name": "경남>창원시",
+    "item_name": "지수",
+    "value": 100.20276361042,
+    "unit": "지수",
+    "period_id": "202634",
+    "period_desc": "2026-08-17"
+  },
+  {
+    "region_name": "의창구",
+    "region_full_name": "경남>창원시>의창구",
+    "item_name": "지수",
+    "value": 99.9662526561984,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -6403,6 +6421,24 @@
     "region_full_name": "인천>제물포구",
     "item_name": "지수",
     "value": 100.07465650641,
+    "unit": "지수",
+    "period_id": "202634",
+    "period_desc": "2026-08-17"
+  },
+  {
+    "region_name": "동구",
+    "region_full_name": "대전>동구",
+    "item_name": "지수",
+    "value": 99.8962084507345,
+    "unit": "지수",
+    "period_id": "202634",
+    "period_desc": "2026-08-17"
+  },
+  {
+    "region_name": "중구",
+    "region_full_name": "울산>중구",
+    "item_name": "지수",
+    "value": 100.310696205331,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -6489,42 +6525,6 @@
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "포항시",
-    "region_full_name": "경북>포항시",
-    "item_name": "지수",
-    "value": 99.1042016910623,
-    "unit": "지수",
-    "period_id": "202634",
-    "period_desc": "2026-08-17"
-  },
-  {
-    "region_name": "남구",
-    "region_full_name": "경북>포항시>남구",
-    "item_name": "지수",
-    "value": 99.5077259599281,
-    "unit": "지수",
-    "period_id": "202634",
-    "period_desc": "2026-08-17"
-  },
-  {
-    "region_name": "중부산권",
-    "region_full_name": "부산>중부산권",
-    "item_name": "지수",
-    "value": 99.908233083804,
-    "unit": "지수",
-    "period_id": "202634",
-    "period_desc": "2026-08-17"
-  },
-  {
-    "region_name": "과천시",
-    "region_full_name": "경기>경부1권>과천시",
-    "item_name": "지수",
-    "value": 100.012805257971,
-    "unit": "지수",
-    "period_id": "202634",
-    "period_desc": "2026-08-17"
-  },
-  {
     "region_name": "중구",
     "region_full_name": "부산>중부산권>중구",
     "item_name": "지수",
@@ -6538,24 +6538,6 @@
     "region_full_name": "대구>중구",
     "item_name": "지수",
     "value": 100.378623003974,
-    "unit": "지수",
-    "period_id": "202634",
-    "period_desc": "2026-08-17"
-  },
-  {
-    "region_name": "동구",
-    "region_full_name": "대전>동구",
-    "item_name": "지수",
-    "value": 99.8962084507345,
-    "unit": "지수",
-    "period_id": "202634",
-    "period_desc": "2026-08-17"
-  },
-  {
-    "region_name": "중구",
-    "region_full_name": "울산>중구",
-    "item_name": "지수",
-    "value": 100.310696205331,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -6597,6 +6579,15 @@
     "period_desc": "2026-08-17"
   },
   {
+    "region_name": "중부산권",
+    "region_full_name": "부산>중부산권",
+    "item_name": "지수",
+    "value": 99.908233083804,
+    "unit": "지수",
+    "period_id": "202634",
+    "period_desc": "2026-08-17"
+  },
+  {
     "region_name": "종로구",
     "region_full_name": "서울>강북지역>도심권>종로구",
     "item_name": "지수",
@@ -6606,10 +6597,37 @@
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "의창구",
-    "region_full_name": "경남>창원시>의창구",
+    "region_name": "과천시",
+    "region_full_name": "경기>경부1권>과천시",
     "item_name": "지수",
-    "value": 99.9662526561984,
+    "value": 100.012805257971,
+    "unit": "지수",
+    "period_id": "202634",
+    "period_desc": "2026-08-17"
+  },
+  {
+    "region_name": "남구",
+    "region_full_name": "경북>포항시>남구",
+    "item_name": "지수",
+    "value": 99.5077259599281,
+    "unit": "지수",
+    "period_id": "202634",
+    "period_desc": "2026-08-17"
+  },
+  {
+    "region_name": "북구",
+    "region_full_name": "경북>포항시>북구",
+    "item_name": "지수",
+    "value": 98.8770937312147,
+    "unit": "지수",
+    "period_id": "202634",
+    "period_desc": "2026-08-17"
+  },
+  {
+    "region_name": "동안구",
+    "region_full_name": "경기>경부1권>안양시>동안구",
+    "item_name": "지수",
+    "value": 101.469992575889,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -6624,10 +6642,10 @@
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "동안구",
-    "region_full_name": "경기>경부1권>안양시>동안구",
+    "region_name": "서귀포시",
+    "region_full_name": "제주>서귀포시",
     "item_name": "지수",
-    "value": 101.469992575889,
+    "value": 99.4448966262017,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -6646,6 +6664,24 @@
     "region_full_name": "인천>영종구",
     "item_name": "지수",
     "value": 99.9580788081433,
+    "unit": "지수",
+    "period_id": "202634",
+    "period_desc": "2026-08-17"
+  },
+  {
+    "region_name": "광주",
+    "region_full_name": "전남광주>광주",
+    "item_name": "지수",
+    "value": 100.32664111485,
+    "unit": "지수",
+    "period_id": "202634",
+    "period_desc": "2026-08-17"
+  },
+  {
+    "region_name": "중구",
+    "region_full_name": "대전>중구",
+    "item_name": "지수",
+    "value": 99.9094488637722,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -6732,24 +6768,6 @@
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "북구",
-    "region_full_name": "경북>포항시>북구",
-    "item_name": "지수",
-    "value": 98.8770937312147,
-    "unit": "지수",
-    "period_id": "202634",
-    "period_desc": "2026-08-17"
-  },
-  {
-    "region_name": "경주시",
-    "region_full_name": "경북>경주시",
-    "item_name": "지수",
-    "value": 100.097917758992,
-    "unit": "지수",
-    "period_id": "202634",
-    "period_desc": "2026-08-17"
-  },
-  {
     "region_name": "서구",
     "region_full_name": "부산>중부산권>서구",
     "item_name": "지수",
@@ -6772,24 +6790,6 @@
     "region_full_name": "대구>동구",
     "item_name": "지수",
     "value": 99.9515662625183,
-    "unit": "지수",
-    "period_id": "202634",
-    "period_desc": "2026-08-17"
-  },
-  {
-    "region_name": "광주",
-    "region_full_name": "전남광주>광주",
-    "item_name": "지수",
-    "value": 100.32664111485,
-    "unit": "지수",
-    "period_id": "202634",
-    "period_desc": "2026-08-17"
-  },
-  {
-    "region_name": "중구",
-    "region_full_name": "대전>중구",
-    "item_name": "지수",
-    "value": 99.9094488637722,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -6849,19 +6849,19 @@
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "서귀포시",
-    "region_full_name": "제주>서귀포시",
+    "region_name": "경주시",
+    "region_full_name": "경북>경주시",
     "item_name": "지수",
-    "value": 99.4448966262017,
+    "value": 100.097917758992,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "마산합포구",
-    "region_full_name": "경남>창원시>마산합포구",
+    "region_name": "김천시",
+    "region_full_name": "경북>김천시",
     "item_name": "지수",
-    "value": 100.220302916683,
+    "value": 100.170453125595,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -6876,10 +6876,28 @@
     "period_desc": "2026-08-17"
   },
   {
+    "region_name": "통영시",
+    "region_full_name": "경남>통영시",
+    "item_name": "지수",
+    "value": 99.6498572337534,
+    "unit": "지수",
+    "period_id": "202634",
+    "period_desc": "2026-08-17"
+  },
+  {
     "region_name": "미추홀구",
     "region_full_name": "인천>미추홀구",
     "item_name": "지수",
     "value": 100.070769268401,
+    "unit": "지수",
+    "period_id": "202634",
+    "period_desc": "2026-08-17"
+  },
+  {
+    "region_name": "서구",
+    "region_full_name": "대전>서구",
+    "item_name": "지수",
+    "value": 100.471229232772,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -6948,15 +6966,6 @@
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "김천시",
-    "region_full_name": "경북>김천시",
-    "item_name": "지수",
-    "value": 100.170453125595,
-    "unit": "지수",
-    "period_id": "202634",
-    "period_desc": "2026-08-17"
-  },
-  {
     "region_name": "동구",
     "region_full_name": "부산>중부산권>동구",
     "item_name": "지수",
@@ -6979,15 +6988,6 @@
     "region_full_name": "대구>서구",
     "item_name": "지수",
     "value": 99.7507059768909,
-    "unit": "지수",
-    "period_id": "202634",
-    "period_desc": "2026-08-17"
-  },
-  {
-    "region_name": "서구",
-    "region_full_name": "대전>서구",
-    "item_name": "지수",
-    "value": 100.471229232772,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -7038,19 +7038,28 @@
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "통영시",
-    "region_full_name": "경남>통영시",
+    "region_name": "마산합포구",
+    "region_full_name": "경남>창원시>마산합포구",
     "item_name": "지수",
-    "value": 99.6498572337534,
+    "value": 100.220302916683,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "마산회원구",
-    "region_full_name": "경남>창원시>마산회원구",
+    "region_name": "안동시",
+    "region_full_name": "경북>안동시",
     "item_name": "지수",
-    "value": 100.248539158189,
+    "value": 100.230736836975,
+    "unit": "지수",
+    "period_id": "202634",
+    "period_desc": "2026-08-17"
+  },
+  {
+    "region_name": "중원구",
+    "region_full_name": "경기>경부1권>성남시>중원구",
+    "item_name": "지수",
+    "value": 102.565447218188,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -7060,6 +7069,15 @@
     "region_full_name": "경남>사천시",
     "item_name": "지수",
     "value": 99.6523664867409,
+    "unit": "지수",
+    "period_id": "202634",
+    "period_desc": "2026-08-17"
+  },
+  {
+    "region_name": "유성구",
+    "region_full_name": "대전>유성구",
+    "item_name": "지수",
+    "value": 99.9802205832178,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -7128,15 +7146,6 @@
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "안동시",
-    "region_full_name": "경북>안동시",
-    "item_name": "지수",
-    "value": 100.230736836975,
-    "unit": "지수",
-    "period_id": "202634",
-    "period_desc": "2026-08-17"
-  },
-  {
     "region_name": "연수구",
     "region_full_name": "인천>연수구",
     "item_name": "지수",
@@ -7159,15 +7168,6 @@
     "region_full_name": "대구>남구",
     "item_name": "지수",
     "value": 99.8922072287295,
-    "unit": "지수",
-    "period_id": "202634",
-    "period_desc": "2026-08-17"
-  },
-  {
-    "region_name": "유성구",
-    "region_full_name": "대전>유성구",
-    "item_name": "지수",
-    "value": 99.9802205832178,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -7218,19 +7218,19 @@
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "중원구",
-    "region_full_name": "경기>경부1권>성남시>중원구",
+    "region_name": "마산회원구",
+    "region_full_name": "경남>창원시>마산회원구",
     "item_name": "지수",
-    "value": 102.565447218188,
+    "value": 100.248539158189,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "진해구",
-    "region_full_name": "경남>창원시>진해구",
+    "region_name": "구미시",
+    "region_full_name": "경북>구미시",
     "item_name": "지수",
-    "value": 99.7743574332937,
+    "value": 99.9578712509103,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -7240,6 +7240,24 @@
     "region_full_name": "경기>경부1권>성남시>분당구",
     "item_name": "지수",
     "value": 102.591882975168,
+    "unit": "지수",
+    "period_id": "202634",
+    "period_desc": "2026-08-17"
+  },
+  {
+    "region_name": "김해시",
+    "region_full_name": "경남>김해시",
+    "item_name": "지수",
+    "value": 99.5989068465394,
+    "unit": "지수",
+    "period_id": "202634",
+    "period_desc": "2026-08-17"
+  },
+  {
+    "region_name": "대덕구",
+    "region_full_name": "대전>대덕구",
+    "item_name": "지수",
+    "value": 99.8850511847134,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -7290,15 +7308,6 @@
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "구미시",
-    "region_full_name": "경북>구미시",
-    "item_name": "지수",
-    "value": 99.9578712509103,
-    "unit": "지수",
-    "period_id": "202634",
-    "period_desc": "2026-08-17"
-  },
-  {
     "region_name": "남동구",
     "region_full_name": "인천>남동구",
     "item_name": "지수",
@@ -7321,15 +7330,6 @@
     "region_full_name": "대구>북구",
     "item_name": "지수",
     "value": 100.045996537643,
-    "unit": "지수",
-    "period_id": "202634",
-    "period_desc": "2026-08-17"
-  },
-  {
-    "region_name": "대덕구",
-    "region_full_name": "대전>대덕구",
-    "item_name": "지수",
-    "value": 99.8850511847134,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -7380,10 +7380,19 @@
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "김해시",
-    "region_full_name": "경남>김해시",
+    "region_name": "진해구",
+    "region_full_name": "경남>창원시>진해구",
     "item_name": "지수",
-    "value": 99.5989068465394,
+    "value": 99.7743574332937,
+    "unit": "지수",
+    "period_id": "202634",
+    "period_desc": "2026-08-17"
+  },
+  {
+    "region_name": "영주시",
+    "region_full_name": "경북>영주시",
+    "item_name": "지수",
+    "value": 100.155808566709,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -7434,19 +7443,19 @@
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "영주시",
-    "region_full_name": "경북>영주시",
+    "region_name": "안성시",
+    "region_full_name": "경기>경부2권>안성시",
     "item_name": "지수",
-    "value": 100.155808566709,
+    "value": 99.8994158917045,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "처인구",
-    "region_full_name": "경기>경부2권>용인시>처인구",
+    "region_name": "부평구",
+    "region_full_name": "인천>부평구",
     "item_name": "지수",
-    "value": 100.272917091273,
+    "value": 100.124470100609,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -7497,19 +7506,19 @@
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "안성시",
-    "region_full_name": "경기>경부2권>안성시",
+    "region_name": "처인구",
+    "region_full_name": "경기>경부2권>용인시>처인구",
     "item_name": "지수",
-    "value": 99.8994158917045,
+    "value": 100.272917091273,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "부평구",
-    "region_full_name": "인천>부평구",
+    "region_name": "영천시",
+    "region_full_name": "경북>영천시",
     "item_name": "지수",
-    "value": 100.124470100609,
+    "value": 100.191605709536,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -7519,6 +7528,15 @@
     "region_full_name": "경남>거제시",
     "item_name": "지수",
     "value": 99.7830291189566,
+    "unit": "지수",
+    "period_id": "202634",
+    "period_desc": "2026-08-17"
+  },
+  {
+    "region_name": "동구",
+    "region_full_name": "전남광주>광주>동구",
+    "item_name": "지수",
+    "value": 99.8780866566151,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -7542,10 +7560,19 @@
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "영천시",
-    "region_full_name": "경북>영천시",
+    "region_name": "용인시",
+    "region_full_name": "경기>경부2권>용인시",
     "item_name": "지수",
-    "value": 100.191605709536,
+    "value": 102.0687265457,
+    "unit": "지수",
+    "period_id": "202634",
+    "period_desc": "2026-08-17"
+  },
+  {
+    "region_name": "중랑구",
+    "region_full_name": "서울>강북지역>동북권>중랑구",
+    "item_name": "지수",
+    "value": 102.755843140507,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -7569,19 +7596,10 @@
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "기흥구",
-    "region_full_name": "경기>경부2권>용인시>기흥구",
+    "region_name": "달서구",
+    "region_full_name": "대구>달서구",
     "item_name": "지수",
-    "value": 102.741676533764,
-    "unit": "지수",
-    "period_id": "202634",
-    "period_desc": "2026-08-17"
-  },
-  {
-    "region_name": "동구",
-    "region_full_name": "전남광주>광주>동구",
-    "item_name": "지수",
-    "value": 99.8780866566151,
+    "value": 99.6004546397372,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -7605,28 +7623,19 @@
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "중랑구",
-    "region_full_name": "서울>강북지역>동북권>중랑구",
+    "region_name": "기흥구",
+    "region_full_name": "경기>경부2권>용인시>기흥구",
     "item_name": "지수",
-    "value": 102.755843140507,
+    "value": 102.741676533764,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "용인시",
-    "region_full_name": "경기>경부2권>용인시",
+    "region_name": "상주시",
+    "region_full_name": "경북>상주시",
     "item_name": "지수",
-    "value": 102.0687265457,
-    "unit": "지수",
-    "period_id": "202634",
-    "period_desc": "2026-08-17"
-  },
-  {
-    "region_name": "달서구",
-    "region_full_name": "대구>달서구",
-    "item_name": "지수",
-    "value": 99.6004546397372,
+    "value": 100.271048160464,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -7650,6 +7659,15 @@
     "period_desc": "2026-08-17"
   },
   {
+    "region_name": "서구",
+    "region_full_name": "전남광주>광주>서구",
+    "item_name": "지수",
+    "value": 100.596128222678,
+    "unit": "지수",
+    "period_id": "202634",
+    "period_desc": "2026-08-17"
+  },
+  {
     "region_name": "홍성군",
     "region_full_name": "충남>홍성군",
     "item_name": "지수",
@@ -7659,10 +7677,10 @@
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "상주시",
-    "region_full_name": "경북>상주시",
+    "region_name": "수원시",
+    "region_full_name": "경기>경부2권>수원시",
     "item_name": "지수",
-    "value": 100.271048160464,
+    "value": 101.880925002785,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -7677,19 +7695,10 @@
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "수지구",
-    "region_full_name": "경기>경부2권>용인시>수지구",
+    "region_name": "달성군",
+    "region_full_name": "대구>달성군",
     "item_name": "지수",
-    "value": 102.281150598504,
-    "unit": "지수",
-    "period_id": "202634",
-    "period_desc": "2026-08-17"
-  },
-  {
-    "region_name": "서구",
-    "region_full_name": "전남광주>광주>서구",
-    "item_name": "지수",
-    "value": 100.596128222678,
+    "value": 100.027770507986,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -7713,19 +7722,19 @@
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "수원시",
-    "region_full_name": "경기>경부2권>수원시",
+    "region_name": "수지구",
+    "region_full_name": "경기>경부2권>용인시>수지구",
     "item_name": "지수",
-    "value": 101.880925002785,
+    "value": 102.281150598504,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "달성군",
-    "region_full_name": "대구>달성군",
+    "region_name": "문경시",
+    "region_full_name": "경북>문경시",
     "item_name": "지수",
-    "value": 100.027770507986,
+    "value": 99.8940795402705,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -7749,19 +7758,19 @@
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "예산군",
-    "region_full_name": "충남>예산군",
+    "region_name": "남구",
+    "region_full_name": "전남광주>광주>남구",
     "item_name": "지수",
-    "value": 99.8985842755162,
+    "value": 99.9212266061452,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "문경시",
-    "region_full_name": "경북>문경시",
+    "region_name": "예산군",
+    "region_full_name": "충남>예산군",
     "item_name": "지수",
-    "value": 99.8940795402705,
+    "value": 99.8985842755162,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -7776,10 +7785,10 @@
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "남구",
-    "region_full_name": "전남광주>광주>남구",
+    "region_name": "해운대구",
+    "region_full_name": "부산>동부산권>해운대구",
     "item_name": "지수",
-    "value": 99.9212266061452,
+    "value": 100.210746219915,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -7803,46 +7812,10 @@
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "해운대구",
-    "region_full_name": "부산>동부산권>해운대구",
-    "item_name": "지수",
-    "value": 100.210746219915,
-    "unit": "지수",
-    "period_id": "202634",
-    "period_desc": "2026-08-17"
-  },
-  {
-    "region_name": "당진시",
-    "region_full_name": "충남>당진시",
-    "item_name": "지수",
-    "value": 100.243802273282,
-    "unit": "지수",
-    "period_id": "202634",
-    "period_desc": "2026-08-17"
-  },
-  {
     "region_name": "경산시",
     "region_full_name": "경북>경산시",
     "item_name": "지수",
     "value": 99.9662084970297,
-    "unit": "지수",
-    "period_id": "202634",
-    "period_desc": "2026-08-17"
-  },
-  {
-    "region_name": "안산시",
-    "region_full_name": "경기>서해안권>안산시",
-    "item_name": "지수",
-    "value": 100.145089169696,
-    "unit": "지수",
-    "period_id": "202634",
-    "period_desc": "2026-08-17"
-  },
-  {
-    "region_name": "권선구",
-    "region_full_name": "경기>경부2권>수원시>권선구",
-    "item_name": "지수",
-    "value": 101.928548977355,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -7857,10 +7830,10 @@
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "경기",
-    "region_full_name": "경기",
+    "region_name": "당진시",
+    "region_full_name": "충남>당진시",
     "item_name": "지수",
-    "value": 100.977662436993,
+    "value": 100.243802273282,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -7875,10 +7848,37 @@
     "period_desc": "2026-08-17"
   },
   {
+    "region_name": "안산시",
+    "region_full_name": "경기>서해안권>안산시",
+    "item_name": "지수",
+    "value": 100.145089169696,
+    "unit": "지수",
+    "period_id": "202634",
+    "period_desc": "2026-08-17"
+  },
+  {
     "region_name": "금정구",
     "region_full_name": "부산>동부산권>금정구",
     "item_name": "지수",
     "value": 99.7896475649761,
+    "unit": "지수",
+    "period_id": "202634",
+    "period_desc": "2026-08-17"
+  },
+  {
+    "region_name": "경기",
+    "region_full_name": "경기",
+    "item_name": "지수",
+    "value": 100.977662436993,
+    "unit": "지수",
+    "period_id": "202634",
+    "period_desc": "2026-08-17"
+  },
+  {
+    "region_name": "권선구",
+    "region_full_name": "경기>경부2권>수원시>권선구",
+    "item_name": "지수",
+    "value": 101.928548977355,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -7893,19 +7893,10 @@
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "시흥시",
-    "region_full_name": "경기>서해안권>시흥시",
+    "region_name": "광산구",
+    "region_full_name": "전남광주>광주>광산구",
     "item_name": "지수",
-    "value": 100.076160918823,
-    "unit": "지수",
-    "period_id": "202634",
-    "period_desc": "2026-08-17"
-  },
-  {
-    "region_name": "인천",
-    "region_full_name": "인천",
-    "item_name": "지수",
-    "value": 100.101145034236,
+    "value": 100.640617890983,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -7920,19 +7911,19 @@
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "광산구",
-    "region_full_name": "전남광주>광주>광산구",
+    "region_name": "노원구",
+    "region_full_name": "서울>강북지역>동북권>노원구",
     "item_name": "지수",
-    "value": 100.640617890983,
+    "value": 102.403709223654,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "노원구",
-    "region_full_name": "서울>강북지역>동북권>노원구",
+    "region_name": "인천",
+    "region_full_name": "인천",
     "item_name": "지수",
-    "value": 102.403709223654,
+    "value": 100.101145034236,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -7947,19 +7938,10 @@
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "광명시",
-    "region_full_name": "경기>서해안권>광명시",
+    "region_name": "시흥시",
+    "region_full_name": "경기>서해안권>시흥시",
     "item_name": "지수",
-    "value": 102.562809582813,
-    "unit": "지수",
-    "period_id": "202634",
-    "period_desc": "2026-08-17"
-  },
-  {
-    "region_name": "부산",
-    "region_full_name": "부산",
-    "item_name": "지수",
-    "value": 99.9204640067306,
+    "value": 100.076160918823,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -7974,10 +7956,28 @@
     "period_desc": "2026-08-17"
   },
   {
+    "region_name": "광명시",
+    "region_full_name": "경기>서해안권>광명시",
+    "item_name": "지수",
+    "value": 102.562809582813,
+    "unit": "지수",
+    "period_id": "202634",
+    "period_desc": "2026-08-17"
+  },
+  {
     "region_name": "은평구",
     "region_full_name": "서울>강북지역>서북권>은평구",
     "item_name": "지수",
     "value": 101.603420656317,
+    "unit": "지수",
+    "period_id": "202634",
+    "period_desc": "2026-08-17"
+  },
+  {
+    "region_name": "부산",
+    "region_full_name": "부산",
+    "item_name": "지수",
+    "value": 99.9204640067306,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -7992,28 +7992,19 @@
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "화성시",
-    "region_full_name": "경기>서해안권>화성시",
-    "item_name": "지수",
-    "value": 101.270061809434,
-    "unit": "지수",
-    "period_id": "202634",
-    "period_desc": "2026-08-17"
-  },
-  {
-    "region_name": "북구",
-    "region_full_name": "부산>서부산권>북구",
-    "item_name": "지수",
-    "value": 100.08179031077,
-    "unit": "지수",
-    "period_id": "202634",
-    "period_desc": "2026-08-17"
-  },
-  {
     "region_name": "원미구",
     "region_full_name": "경기>서해안권>부천시>원미구",
     "item_name": "지수",
     "value": 100.961410207704,
+    "unit": "지수",
+    "period_id": "202634",
+    "period_desc": "2026-08-17"
+  },
+  {
+    "region_name": "화성시",
+    "region_full_name": "경기>서해안권>화성시",
+    "item_name": "지수",
+    "value": 101.270061809434,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -8037,28 +8028,10 @@
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "소사구",
-    "region_full_name": "경기>서해안권>부천시>소사구",
+    "region_name": "북구",
+    "region_full_name": "부산>서부산권>북구",
     "item_name": "지수",
-    "value": 100.50471899778,
-    "unit": "지수",
-    "period_id": "202634",
-    "period_desc": "2026-08-17"
-  },
-  {
-    "region_name": "오산시",
-    "region_full_name": "경기>서해안권>오산시",
-    "item_name": "지수",
-    "value": 100.56254916643,
-    "unit": "지수",
-    "period_id": "202634",
-    "period_desc": "2026-08-17"
-  },
-  {
-    "region_name": "마포구",
-    "region_full_name": "서울>강북지역>서북권>마포구",
-    "item_name": "지수",
-    "value": 101.903325694489,
+    "value": 100.08179031077,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -8073,6 +8046,24 @@
     "period_desc": "2026-08-17"
   },
   {
+    "region_name": "소사구",
+    "region_full_name": "경기>서해안권>부천시>소사구",
+    "item_name": "지수",
+    "value": 100.50471899778,
+    "unit": "지수",
+    "period_id": "202634",
+    "period_desc": "2026-08-17"
+  },
+  {
+    "region_name": "마포구",
+    "region_full_name": "서울>강북지역>서북권>마포구",
+    "item_name": "지수",
+    "value": 101.903325694489,
+    "unit": "지수",
+    "period_id": "202634",
+    "period_desc": "2026-08-17"
+  },
+  {
     "region_name": "강서구",
     "region_full_name": "부산>서부산권>강서구",
     "item_name": "지수",
@@ -8082,28 +8073,10 @@
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "오정구",
-    "region_full_name": "경기>서해안권>부천시>오정구",
+    "region_name": "오산시",
+    "region_full_name": "경기>서해안권>오산시",
     "item_name": "지수",
-    "value": 100.06726072709,
-    "unit": "지수",
-    "period_id": "202634",
-    "period_desc": "2026-08-17"
-  },
-  {
-    "region_name": "평택시",
-    "region_full_name": "경기>서해안권>평택시",
-    "item_name": "지수",
-    "value": 99.9807559842641,
-    "unit": "지수",
-    "period_id": "202634",
-    "period_desc": "2026-08-17"
-  },
-  {
-    "region_name": "양천구",
-    "region_full_name": "서울>강남지역>서남권>양천구",
-    "item_name": "지수",
-    "value": 100.8702545726,
+    "value": 100.56254916643,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -8118,6 +8091,24 @@
     "period_desc": "2026-08-17"
   },
   {
+    "region_name": "오정구",
+    "region_full_name": "경기>서해안권>부천시>오정구",
+    "item_name": "지수",
+    "value": 100.06726072709,
+    "unit": "지수",
+    "period_id": "202634",
+    "period_desc": "2026-08-17"
+  },
+  {
+    "region_name": "양천구",
+    "region_full_name": "서울>강남지역>서남권>양천구",
+    "item_name": "지수",
+    "value": 100.8702545726,
+    "unit": "지수",
+    "period_id": "202634",
+    "period_desc": "2026-08-17"
+  },
+  {
     "region_name": "사상구",
     "region_full_name": "부산>서부산권>사상구",
     "item_name": "지수",
@@ -8127,10 +8118,10 @@
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "사하구",
-    "region_full_name": "부산>서부산권>사하구",
+    "region_name": "평택시",
+    "region_full_name": "경기>서해안권>평택시",
     "item_name": "지수",
-    "value": 99.839973995983,
+    "value": 99.9807559842641,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -8140,6 +8131,15 @@
     "region_full_name": "경기>서해안권>안산시>상록구",
     "item_name": "지수",
     "value": 99.7907831000616,
+    "unit": "지수",
+    "period_id": "202634",
+    "period_desc": "2026-08-17"
+  },
+  {
+    "region_name": "남양주시",
+    "region_full_name": "경기>동부1권>남양주시",
+    "item_name": "지수",
+    "value": 101.287775504756,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -8163,10 +8163,10 @@
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "남양주시",
-    "region_full_name": "경기>동부1권>남양주시",
+    "region_name": "사하구",
+    "region_full_name": "부산>서부산권>사하구",
     "item_name": "지수",
-    "value": 101.287775504756,
+    "value": 99.839973995983,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -8316,6 +8316,15 @@
     "period_desc": "2026-08-17"
   },
   {
+    "region_name": "경북",
+    "region_full_name": "경북",
+    "item_name": "지수",
+    "value": 99.7811322953581,
+    "unit": "지수",
+    "period_id": "202634",
+    "period_desc": "2026-08-17"
+  },
+  {
     "region_name": "관악구",
     "region_full_name": "서울>강남지역>서남권>관악구",
     "item_name": "지수",
@@ -8334,15 +8343,6 @@
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "경북",
-    "region_full_name": "경북",
-    "item_name": "지수",
-    "value": 99.7811322953581,
-    "unit": "지수",
-    "period_id": "202634",
-    "period_desc": "2026-08-17"
-  },
-  {
     "region_name": "동탄구",
     "region_full_name": "경기>서해안권>화성시>동탄구",
     "item_name": "지수",
@@ -8352,19 +8352,19 @@
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "서초구",
-    "region_full_name": "서울>강남지역>동남권>서초구",
+    "region_name": "경남",
+    "region_full_name": "경남",
     "item_name": "지수",
-    "value": 100.155227882143,
+    "value": 100.11947043734,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "경남",
-    "region_full_name": "경남",
+    "region_name": "서초구",
+    "region_full_name": "서울>강남지역>동남권>서초구",
     "item_name": "지수",
-    "value": 100.11947043734,
+    "value": 100.155227882143,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -8388,10 +8388,10 @@
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "고양시",
-    "region_full_name": "경기>경의권>고양시",
+    "region_name": "제주",
+    "region_full_name": "제주",
     "item_name": "지수",
-    "value": 100.036541829928,
+    "value": 99.6086680426569,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -8406,19 +8406,28 @@
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "제주",
-    "region_full_name": "제주",
+    "region_name": "일산동구",
+    "region_full_name": "경기>경의권>고양시>일산동구",
     "item_name": "지수",
-    "value": 99.6086680426569,
+    "value": 99.5188898602791,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "일산동구",
-    "region_full_name": "경기>경의권>고양시>일산동구",
+    "region_name": "고양시",
+    "region_full_name": "경기>경의권>고양시",
     "item_name": "지수",
-    "value": 99.5188898602791,
+    "value": 100.036541829928,
+    "unit": "지수",
+    "period_id": "202634",
+    "period_desc": "2026-08-17"
+  },
+  {
+    "region_name": "파주시",
+    "region_full_name": "경기>경의권>파주시",
+    "item_name": "지수",
+    "value": 99.436725177429,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -8442,10 +8451,10 @@
     "period_desc": "2026-08-17"
   },
   {
-    "region_name": "파주시",
-    "region_full_name": "경기>경의권>파주시",
+    "region_name": "강동구",
+    "region_full_name": "서울>강남지역>동남권>강동구",
     "item_name": "지수",
-    "value": 99.436725177429,
+    "value": 101.176721774147,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
@@ -8455,15 +8464,6 @@
     "region_full_name": "경기>경원권>포천시",
     "item_name": "지수",
     "value": 100.058846504546,
-    "unit": "지수",
-    "period_id": "202634",
-    "period_desc": "2026-08-17"
-  },
-  {
-    "region_name": "강동구",
-    "region_full_name": "서울>강남지역>동남권>강동구",
-    "item_name": "지수",
-    "value": 101.176721774147,
     "unit": "지수",
     "period_id": "202634",
     "period_desc": "2026-08-17"
