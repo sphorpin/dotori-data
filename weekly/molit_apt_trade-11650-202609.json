@@ -27,6 +27,45 @@
   },
   {
     "region_code": "11650",
+    "apartment_name": "서초쌍용플래티넘",
+    "dong": "서초동",
+    "jibun": "1445-13",
+    "deal_date": "2026-09-02",
+    "deal_amount_krw": 1040000000,
+    "exclusive_area_m2": 71.9,
+    "floor": 13,
+    "build_year": 2006,
+    "is_canceled": false,
+    "deal_type": "중개거래"
+  },
+  {
+    "region_code": "11650",
+    "apartment_name": "방배1차현대홈타운",
+    "dong": "방배동",
+    "jibun": "1344",
+    "deal_date": "2026-09-04",
+    "deal_amount_krw": 2955000000,
+    "exclusive_area_m2": 84.96,
+    "floor": 15,
+    "build_year": 1999,
+    "is_canceled": false,
+    "deal_type": "중개거래"
+  },
+  {
+    "region_code": "11650",
+    "apartment_name": "삼환바우스",
+    "dong": "서초동",
+    "jibun": "1677-11",
+    "deal_date": "2026-09-04",
+    "deal_amount_krw": 1500000000,
+    "exclusive_area_m2": 84.98,
+    "floor": 11,
+    "build_year": 2006,
+    "is_canceled": false,
+    "deal_type": "중개거래"
+  },
+  {
+    "region_code": "11650",
     "apartment_name": "서초래미안",
     "dong": "서초동",
     "jibun": "1682",
@@ -412,7 +451,7 @@
     "exclusive_area_m2": 71.9,
     "floor": 13,
     "build_year": 2006,
-    "is_canceled": false,
+    "is_canceled": true,
     "deal_type": "중개거래"
   },
   {
@@ -542,6 +581,19 @@
     "exclusive_area_m2": 30.39,
     "floor": 26,
     "build_year": 2006,
+    "is_canceled": false,
+    "deal_type": "중개거래"
+  },
+  {
+    "region_code": "11650",
+    "apartment_name": "아크로리버파크",
+    "dong": "반포동",
+    "jibun": "2-12",
+    "deal_date": "2026-09-10",
+    "deal_amount_krw": 5000000000,
+    "exclusive_area_m2": 84.99,
+    "floor": 17,
+    "build_year": 2016,
     "is_canceled": false,
     "deal_type": "중개거래"
   },
