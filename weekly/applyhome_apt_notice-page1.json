@@ -1,0 +1,902 @@
+[
+  {
+    "house_manage_no": "2026000498",
+    "notice_no": "2026000498",
+    "house_name": "천안 아이파크 시티 2단지(2회차)",
+    "region_name": "충남",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-10-02"
+  },
+  {
+    "house_manage_no": "2026000494",
+    "notice_no": "2026000494",
+    "house_name": "더샵 동인센트리체",
+    "region_name": "대구",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-10-02"
+  },
+  {
+    "house_manage_no": "2026000468",
+    "notice_no": "2026000468",
+    "house_name": "쌍용 더 플래티넘 한강",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-10-02"
+  },
+  {
+    "house_manage_no": "2026000463",
+    "notice_no": "2026000463",
+    "house_name": "향남역 그로브 스위첸",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-10-02"
+  },
+  {
+    "house_manage_no": "2026000444",
+    "notice_no": "2026000444",
+    "house_name": "제주시 이도이동 아이린8차 아파트",
+    "region_name": "제주",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-10-02"
+  },
+  {
+    "house_manage_no": "2026000386",
+    "notice_no": "2026000386",
+    "house_name": "용인 양지 서희스타힐스 하이뷰 (조합원 취소분)",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-10-02"
+  },
+  {
+    "house_manage_no": "2026820010",
+    "notice_no": "2026820010",
+    "house_name": "인천계양 A17블록 신혼희망타운(공공분양)(본청약)",
+    "region_name": "인천",
+    "house_type": "신혼희망타운",
+    "supply_type": "분양주택",
+    "notice_date": "2026-09-30"
+  },
+  {
+    "house_manage_no": "2026820011",
+    "notice_no": "2026820011",
+    "house_name": "시흥하중지구 A-4블록 신혼희망타운(공공분양) 추가입주자모집",
+    "region_name": "경기",
+    "house_type": "신혼희망타운",
+    "supply_type": "분양주택",
+    "notice_date": "2026-09-18"
+  },
+  {
+    "house_manage_no": "2026000453",
+    "notice_no": "2026000453",
+    "house_name": "광명 시티프라디움 에듀하임",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-09-18"
+  },
+  {
+    "house_manage_no": "2026000448",
+    "notice_no": "2026000448",
+    "house_name": "숭의역 노르웨이숲 더 스카이",
+    "region_name": "인천",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-09-18"
+  },
+  {
+    "house_manage_no": "2026000446",
+    "notice_no": "2026000446",
+    "house_name": "진주 판문지구 레이크써밋 웰가",
+    "region_name": "경남",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-09-18"
+  },
+  {
+    "house_manage_no": "2026000445",
+    "notice_no": "2026000445",
+    "house_name": "삼천 하늘채 라비엘",
+    "region_name": "전북",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-09-18"
+  },
+  {
+    "house_manage_no": "2026000443",
+    "notice_no": "2026000443",
+    "house_name": "에코델타시티 금강펜테리움 에코리버",
+    "region_name": "부산",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-09-18"
+  },
+  {
+    "house_manage_no": "2026000436",
+    "notice_no": "2026000436",
+    "house_name": "더샵 시에르네(조합원취소분)(2회차)",
+    "region_name": "울산",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-09-18"
+  },
+  {
+    "house_manage_no": "2026000424",
+    "notice_no": "2026000424",
+    "house_name": "쌍용 더 플래티넘 센텀",
+    "region_name": "부산",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-09-18"
+  },
+  {
+    "house_manage_no": "2026000454",
+    "notice_no": "2026000454",
+    "house_name": "천안 용곡 두산위브(조합원 취소분)",
+    "region_name": "충남",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-09-17"
+  },
+  {
+    "house_manage_no": "2026000449",
+    "notice_no": "2026000449",
+    "house_name": "화서역 호수공원 아너스빌",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-09-11"
+  },
+  {
+    "house_manage_no": "2026000441",
+    "notice_no": "2026000441",
+    "house_name": "문수로 비스타 더파크",
+    "region_name": "울산",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-09-11"
+  },
+  {
+    "house_manage_no": "2026000438",
+    "notice_no": "2026000438",
+    "house_name": "힐스테이트 고덕엘리스트 A65BL 공공분양주택",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-09-11"
+  },
+  {
+    "house_manage_no": "2026000437",
+    "notice_no": "2026000437",
+    "house_name": "힐스테이트 고덕엘리스트 A12BL 공공분양주택",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-09-11"
+  },
+  {
+    "house_manage_no": "2026000103",
+    "notice_no": "2026000103",
+    "house_name": "더샵 분당하이스트",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-09-11"
+  },
+  {
+    "house_manage_no": "2026000314",
+    "notice_no": "2026000314",
+    "house_name": "중동역 다채로움 더원",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-09-10"
+  },
+  {
+    "house_manage_no": "2026000431",
+    "notice_no": "2026000431",
+    "house_name": "오남역 서희스타힐스 여의재 3단지 (조합원 취소분)",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-09-09"
+  },
+  {
+    "house_manage_no": "2026000426",
+    "notice_no": "2026000426",
+    "house_name": "천안 아이파크 시티 4단지",
+    "region_name": "충남",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-09-04"
+  },
+  {
+    "house_manage_no": "2026000423",
+    "notice_no": "2026000423",
+    "house_name": "두정역 푸르지오 그랑피크",
+    "region_name": "충남",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-09-04"
+  },
+  {
+    "house_manage_no": "2026000422",
+    "notice_no": "2026000422",
+    "house_name": "천안 아이파크 시티 3단지",
+    "region_name": "충남",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-09-04"
+  },
+  {
+    "house_manage_no": "2026000420",
+    "notice_no": "2026000420",
+    "house_name": "남울산 노르웨이숲(조합원 취소분)(2회차)",
+    "region_name": "울산",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-09-04"
+  },
+  {
+    "house_manage_no": "2026000393",
+    "notice_no": "2026000393",
+    "house_name": "시흥 은계 에피트(조합원 취소분)",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-09-04"
+  },
+  {
+    "house_manage_no": "2026000394",
+    "notice_no": "2026000394",
+    "house_name": "더샵 여주역더퍼스트",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-09-03"
+  },
+  {
+    "house_manage_no": "2026000202",
+    "notice_no": "2026000202",
+    "house_name": "대전 경남아너스빌 센텀스카이",
+    "region_name": "대전",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-09-03"
+  },
+  {
+    "house_manage_no": "2026000419",
+    "notice_no": "2026000419",
+    "house_name": "올 뉴 챔피언스시티 1차",
+    "region_name": "광주",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-09-02"
+  },
+  {
+    "house_manage_no": "2026000403",
+    "notice_no": "2026000403",
+    "house_name": "그랑라크 에일린의 뜰",
+    "region_name": "울산",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-09-02"
+  },
+  {
+    "house_manage_no": "2026820009",
+    "notice_no": "2026820009",
+    "house_name": "남양주진접2지구 A-4블록 신혼희망타운(공공분양) 잔여세대 추가입주자모집공고",
+    "region_name": "경기",
+    "house_type": "신혼희망타운",
+    "supply_type": "분양주택",
+    "notice_date": "2026-08-31"
+  },
+  {
+    "house_manage_no": "2026000414",
+    "notice_no": "2026000414",
+    "house_name": "인천계양지구 A6블록 공공분양주택(본청약)",
+    "region_name": "인천",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-08-31"
+  },
+  {
+    "house_manage_no": "2026000401",
+    "notice_no": "2026000401",
+    "house_name": "문수데시앙2단지 공가세대 일반공급",
+    "region_name": "울산",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-08-28"
+  },
+  {
+    "house_manage_no": "2026000399",
+    "notice_no": "2026000399",
+    "house_name": "브라운스톤 월곡 센트럴",
+    "region_name": "서울",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-08-28"
+  },
+  {
+    "house_manage_no": "2026000416",
+    "notice_no": "2026000416",
+    "house_name": "양주회천지구 A-26블록 공공분양주택",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-08-27"
+  },
+  {
+    "house_manage_no": "2026000409",
+    "notice_no": "2026000409",
+    "house_name": "의정부우정 A2블록 공공분양주택(본청약)",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-08-26"
+  },
+  {
+    "house_manage_no": "2026000404",
+    "notice_no": "2026000404",
+    "house_name": "검암역 푸르지오 프라베뉴 (B-1BL) 공공분양주택",
+    "region_name": "인천",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-08-21"
+  },
+  {
+    "house_manage_no": "2026000388",
+    "notice_no": "2026000388",
+    "house_name": "시티오씨엘 9단지 오션파크뷰",
+    "region_name": "인천",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-08-21"
+  },
+  {
+    "house_manage_no": "2026000383",
+    "notice_no": "2026000383",
+    "house_name": "포레나힐스테이트 진주",
+    "region_name": "경남",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-08-14"
+  },
+  {
+    "house_manage_no": "2026000372",
+    "notice_no": "2026000372",
+    "house_name": "쌍용 더 플래티넘 서대문",
+    "region_name": "서울",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-08-14"
+  },
+  {
+    "house_manage_no": "2026000368",
+    "notice_no": "2026000368",
+    "house_name": "아르티엠 라 테라스",
+    "region_name": "전북",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-08-14"
+  },
+  {
+    "house_manage_no": "2026000354",
+    "notice_no": "2026000354",
+    "house_name": "상동역 롯데캐슬 시그니처",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-08-14"
+  },
+  {
+    "house_manage_no": "2026000342",
+    "notice_no": "2026000342",
+    "house_name": "제일풍경채 첨단3지구(A6BL)",
+    "region_name": "광주",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-08-14"
+  },
+  {
+    "house_manage_no": "2026000377",
+    "notice_no": "2026000377",
+    "house_name": "의왕역 한신더휴",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-08-13"
+  },
+  {
+    "house_manage_no": "2026000365",
+    "notice_no": "2026000365",
+    "house_name": "오남역 서희스타힐스 여의재 1단지",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-08-13"
+  },
+  {
+    "house_manage_no": "2026000382",
+    "notice_no": "2026000382",
+    "house_name": "두산위브더제니스 부천",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-08-12"
+  },
+  {
+    "house_manage_no": "2026820008",
+    "notice_no": "2026820008",
+    "house_name": "성남복정2 A1블록 신혼희망타운(공공분양)(본청약)",
+    "region_name": "경기",
+    "house_type": "신혼희망타운",
+    "supply_type": "분양주택",
+    "notice_date": "2026-08-10"
+  },
+  {
+    "house_manage_no": "2026820006",
+    "notice_no": "2026820006",
+    "house_name": "시흥거모 A-5블록 신혼희망타운(공공분양)(본청약)",
+    "region_name": "경기",
+    "house_type": "신혼희망타운",
+    "supply_type": "분양주택",
+    "notice_date": "2026-08-07"
+  },
+  {
+    "house_manage_no": "2026000374",
+    "notice_no": "2026000374",
+    "house_name": "더샵 신길센트럴시티(조합원 취소분)",
+    "region_name": "서울",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-08-07"
+  },
+  {
+    "house_manage_no": "2026000371",
+    "notice_no": "2026000371",
+    "house_name": "용인반도체클러스터 동일하이빌 파크밸리(D1-1블록)",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-08-07"
+  },
+  {
+    "house_manage_no": "2026000364",
+    "notice_no": "2026000364",
+    "house_name": "써밋 클라비온",
+    "region_name": "서울",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-08-07"
+  },
+  {
+    "house_manage_no": "2026000358",
+    "notice_no": "2026000358",
+    "house_name": "충정로역자이르네",
+    "region_name": "서울",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-08-07"
+  },
+  {
+    "house_manage_no": "2026000376",
+    "notice_no": "2026000376",
+    "house_name": "달서자이 제니크",
+    "region_name": "대구",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-08-06"
+  },
+  {
+    "house_manage_no": "2026000323",
+    "notice_no": "2026000323",
+    "house_name": "세종 우미 린 센터파크(행정중심복합도시 5-2생활권 S1블록, 글미마을 9단지)",
+    "region_name": "세종",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-07-31"
+  },
+  {
+    "house_manage_no": "2026000367",
+    "notice_no": "2026000367",
+    "house_name": "한강 푸르지오 리버프론트",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-07-30"
+  },
+  {
+    "house_manage_no": "2026000356",
+    "notice_no": "2026000356",
+    "house_name": "두산위브더제니스 대연",
+    "region_name": "부산",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-07-30"
+  },
+  {
+    "house_manage_no": "2026000295",
+    "notice_no": "2026000295",
+    "house_name": "아산테크노밸리 더원 7차 (Ab4BL)",
+    "region_name": "충남",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-07-27"
+  },
+  {
+    "house_manage_no": "2026000331",
+    "notice_no": "2026000331",
+    "house_name": "센트레빌 아스테리움 거제",
+    "region_name": "경남",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-07-24"
+  },
+  {
+    "house_manage_no": "2026000318",
+    "notice_no": "2026000318",
+    "house_name": "더샵 트리센트",
+    "region_name": "부산",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-07-24"
+  },
+  {
+    "house_manage_no": "2026000293",
+    "notice_no": "2026000293",
+    "house_name": "리쉐스302",
+    "region_name": "강원",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-07-24"
+  },
+  {
+    "house_manage_no": "2026820007",
+    "notice_no": "2026820007",
+    "house_name": "수원당수지구 A5블록 신혼희망타운(공공분양) 추가 입주자모집",
+    "region_name": "경기",
+    "house_type": "신혼희망타운",
+    "supply_type": "분양주택",
+    "notice_date": "2026-07-23"
+  },
+  {
+    "house_manage_no": "2026000355",
+    "notice_no": "2026000355",
+    "house_name": "월계 중흥S-클래스 리비에르",
+    "region_name": "서울",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-07-16"
+  },
+  {
+    "house_manage_no": "2026000327",
+    "notice_no": "2026000327",
+    "house_name": "역북 서희스타힐스 프라임시티(조합원 취소분)",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-07-16"
+  },
+  {
+    "house_manage_no": "2026000291",
+    "notice_no": "2026000291",
+    "house_name": "이천 휴먼빌 클래스원",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-07-16"
+  },
+  {
+    "house_manage_no": "2026000282",
+    "notice_no": "2026000282",
+    "house_name": "창원 한신더휴 메가센텀",
+    "region_name": "경남",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-07-16"
+  },
+  {
+    "house_manage_no": "2026000316",
+    "notice_no": "2026000316",
+    "house_name": "오산헤리티지자이 2단지",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-07-10"
+  },
+  {
+    "house_manage_no": "2026000315",
+    "notice_no": "2026000315",
+    "house_name": "오산헤리티지자이 1단지",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-07-10"
+  },
+  {
+    "house_manage_no": "2026000312",
+    "notice_no": "2026000312",
+    "house_name": "춘천 리버뷰 아이파크",
+    "region_name": "강원",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-07-10"
+  },
+  {
+    "house_manage_no": "2026000308",
+    "notice_no": "2026000308",
+    "house_name": "부산 장안지구 B-2블록 중흥S-클래스(본청약)",
+    "region_name": "부산",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-07-10"
+  },
+  {
+    "house_manage_no": "2026000301",
+    "notice_no": "2026000301",
+    "house_name": "의왕역 SK VIEW",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-07-10"
+  },
+  {
+    "house_manage_no": "2026000276",
+    "notice_no": "2026000276",
+    "house_name": "업성 푸르지오 레이크시티 2단지",
+    "region_name": "충남",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-07-10"
+  },
+  {
+    "house_manage_no": "2026000336",
+    "notice_no": "2026000336",
+    "house_name": "평택역 더센트럴45",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-07-09"
+  },
+  {
+    "house_manage_no": "2026000329",
+    "notice_no": "2026000329",
+    "house_name": "호반써밋 풍무Ⅲ",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-07-09"
+  },
+  {
+    "house_manage_no": "2026000310",
+    "notice_no": "2026000310",
+    "house_name": "남양주 진접 서한이다음(S1BL)",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-07-09"
+  },
+  {
+    "house_manage_no": "2026000253",
+    "notice_no": "2026000253",
+    "house_name": "거제 푸르지오 마린피스",
+    "region_name": "경남",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-07-07"
+  },
+  {
+    "house_manage_no": "2026000328",
+    "notice_no": "2026000328",
+    "house_name": "센텀 엘카사",
+    "region_name": "울산",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-07-03"
+  },
+  {
+    "house_manage_no": "2026000290",
+    "notice_no": "2026000290",
+    "house_name": "야목역 서희스타힐스 그랜드힐(조합원 취소분)",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-07-02"
+  },
+  {
+    "house_manage_no": "2026000153",
+    "notice_no": "2026000153",
+    "house_name": "동작 센트럴 동문 디 이스트",
+    "region_name": "서울",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-07-02"
+  },
+  {
+    "house_manage_no": "2026000320",
+    "notice_no": "2026000320",
+    "house_name": "고양창릉 S-4블록 공공분양주택(본청약)",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-06-30"
+  },
+  {
+    "house_manage_no": "2026000313",
+    "notice_no": "2026000313",
+    "house_name": "고양창릉지구 S-3블록 이익공유형 분양주택(본청약)",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-06-30"
+  },
+  {
+    "house_manage_no": "2026000307",
+    "notice_no": "2026000307",
+    "house_name": "군포대야미지구 A-1블록 6년 분양전환공공임대주택(본청약)",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양전환 가능임대",
+    "notice_date": "2026-06-30"
+  },
+  {
+    "house_manage_no": "2026820005",
+    "notice_no": "2026820005",
+    "house_name": "역곡지구 하우스토리(부천역곡지구 A-2BL) 신혼희망타운(공공분양)(본청약)",
+    "region_name": "경기",
+    "house_type": "신혼희망타운",
+    "supply_type": "분양주택",
+    "notice_date": "2026-06-26"
+  },
+  {
+    "house_manage_no": "2026000300",
+    "notice_no": "2026000300",
+    "house_name": "천안 아이파크 시티 1단지(2회차)",
+    "region_name": "충남",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-06-26"
+  },
+  {
+    "house_manage_no": "2026000271",
+    "notice_no": "2026000271",
+    "house_name": "트리븐 김해",
+    "region_name": "경남",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-06-26"
+  },
+  {
+    "house_manage_no": "2026000274",
+    "notice_no": "2026000274",
+    "house_name": "군산 세경아파트 우선분양전환 후 잔여세대 ",
+    "region_name": "전북",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-06-24"
+  },
+  {
+    "house_manage_no": "2026000289",
+    "notice_no": "2026000289",
+    "house_name": "신제주 동문디이스트 시그니처원Ⅱ",
+    "region_name": "제주",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-06-23"
+  },
+  {
+    "house_manage_no": "2026000288",
+    "notice_no": "2026000288",
+    "house_name": "신제주 동문디이스트 시그니처원Ⅰ",
+    "region_name": "제주",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-06-23"
+  },
+  {
+    "house_manage_no": "2026000281",
+    "notice_no": "2026000281",
+    "house_name": "이천 서희스타힐스 SKY(조합원 취소분)",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-06-22"
+  },
+  {
+    "house_manage_no": "2026000278",
+    "notice_no": "2026000278",
+    "house_name": "양주 회천지구 A-8BL 로제비앙 엘가",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-06-22"
+  },
+  {
+    "house_manage_no": "2026000272",
+    "notice_no": "2026000272",
+    "house_name": "함안가야 휴니온아르떼",
+    "region_name": "경남",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-06-22"
+  },
+  {
+    "house_manage_no": "2026000275",
+    "notice_no": "2026000275",
+    "house_name": "장위 푸르지오 마크원",
+    "region_name": "서울",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-06-19"
+  },
+  {
+    "house_manage_no": "2026000273",
+    "notice_no": "2026000273",
+    "house_name": "펜타힐즈 더블유 1단지",
+    "region_name": "경북",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-06-19"
+  },
+  {
+    "house_manage_no": "2026000270",
+    "notice_no": "2026000270",
+    "house_name": "김해 신문 센트럴 아이파크",
+    "region_name": "경남",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-06-19"
+  },
+  {
+    "house_manage_no": "2026000263",
+    "notice_no": "2026000263",
+    "house_name": "신문 대상 웰라움 라시엘",
+    "region_name": "경남",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-06-19"
+  },
+  {
+    "house_manage_no": "2026000261",
+    "notice_no": "2026000261",
+    "house_name": "밀양 수자인 더퍼스트 2단지 공공분양주택",
+    "region_name": "경남",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-06-19"
+  },
+  {
+    "house_manage_no": "2026000260",
+    "notice_no": "2026000260",
+    "house_name": "밀양 수자인 더퍼스트 1단지 공공분양주택",
+    "region_name": "경남",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-06-19"
+  },
+  {
+    "house_manage_no": "2026000241",
+    "notice_no": "2026000241",
+    "house_name": "드파인 아르티아",
+    "region_name": "서울",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-06-19"
+  },
+  {
+    "house_manage_no": "2026000234",
+    "notice_no": "2026000234",
+    "house_name": "에코델타시티 중흥S-클래스 리버시티",
+    "region_name": "부산",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-06-19"
+  }
+]
