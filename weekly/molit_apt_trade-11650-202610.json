@@ -1,15 +1,1 @@
-[
-  {
-    "region_code": "11650",
-    "apartment_name": "아남",
-    "dong": "서초동",
-    "jibun": "1641-13",
-    "deal_date": "2026-10-02",
-    "deal_amount_krw": 2000000000,
-    "exclusive_area_m2": 71.1,
-    "floor": 1,
-    "build_year": 1989,
-    "is_canceled": false,
-    "deal_type": "중개거래"
-  }
-]
+[{"region_code":"11650","apartment_name":"아남","dong":"서초동","jibun":"1641-13","deal_date":"2026-10-02","deal_amount_krw":2000000000,"exclusive_area_m2":71.1,"floor":1,"build_year":1989,"is_canceled":false,"deal_type":"중개거래"}]
