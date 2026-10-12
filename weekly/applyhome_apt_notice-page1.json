@@ -1,5 +1,86 @@
 [
   {
+    "house_manage_no": "2026000492",
+    "notice_no": "2026000492",
+    "house_name": "청주 가경 아이파크 8단지",
+    "region_name": "충북",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-10-08"
+  },
+  {
+    "house_manage_no": "2026000491",
+    "notice_no": "2026000491",
+    "house_name": "청주 가경 아이파크 7단지",
+    "region_name": "충북",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-10-08"
+  },
+  {
+    "house_manage_no": "2026000471",
+    "notice_no": "2026000471",
+    "house_name": "한양립스 에듀포레(조합원 취소분)",
+    "region_name": "광주",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-10-08"
+  },
+  {
+    "house_manage_no": "2026000469",
+    "notice_no": "2026000469",
+    "house_name": "연제갤러리자이",
+    "region_name": "부산",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-10-08"
+  },
+  {
+    "house_manage_no": "2026000466",
+    "notice_no": "2026000466",
+    "house_name": "진도 승원팰리체 더 테라스",
+    "region_name": "전남",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-10-08"
+  },
+  {
+    "house_manage_no": "2026000464",
+    "notice_no": "2026000464",
+    "house_name": "힐스테이트 거제시그니처(1회차)",
+    "region_name": "경남",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-10-08"
+  },
+  {
+    "house_manage_no": "2026000458",
+    "notice_no": "2026000458",
+    "house_name": "산곡역자이힐스테이트앤하늘채",
+    "region_name": "인천",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-10-08"
+  },
+  {
+    "house_manage_no": "2026000402",
+    "notice_no": "2026000402",
+    "house_name": "익산 부송에코르 10년 공공임대주택",
+    "region_name": "전북",
+    "house_type": "APT",
+    "supply_type": "분양전환 가능임대",
+    "notice_date": "2026-10-08"
+  },
+  {
+    "house_manage_no": "2026000267",
+    "notice_no": "2026000267",
+    "house_name": "아산 그랑시티필하우스",
+    "region_name": "충남",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-10-08"
+  },
+  {
     "house_manage_no": "2026000498",
     "notice_no": "2026000498",
     "house_name": "천안 아이파크 시티 2단지(2회차)",
@@ -817,86 +898,5 @@
     "house_type": "APT",
     "supply_type": "분양주택",
     "notice_date": "2026-06-22"
-  },
-  {
-    "house_manage_no": "2026000272",
-    "notice_no": "2026000272",
-    "house_name": "함안가야 휴니온아르떼",
-    "region_name": "경남",
-    "house_type": "APT",
-    "supply_type": "분양주택",
-    "notice_date": "2026-06-22"
-  },
-  {
-    "house_manage_no": "2026000275",
-    "notice_no": "2026000275",
-    "house_name": "장위 푸르지오 마크원",
-    "region_name": "서울",
-    "house_type": "APT",
-    "supply_type": "분양주택",
-    "notice_date": "2026-06-19"
-  },
-  {
-    "house_manage_no": "2026000273",
-    "notice_no": "2026000273",
-    "house_name": "펜타힐즈 더블유 1단지",
-    "region_name": "경북",
-    "house_type": "APT",
-    "supply_type": "분양주택",
-    "notice_date": "2026-06-19"
-  },
-  {
-    "house_manage_no": "2026000270",
-    "notice_no": "2026000270",
-    "house_name": "김해 신문 센트럴 아이파크",
-    "region_name": "경남",
-    "house_type": "APT",
-    "supply_type": "분양주택",
-    "notice_date": "2026-06-19"
-  },
-  {
-    "house_manage_no": "2026000263",
-    "notice_no": "2026000263",
-    "house_name": "신문 대상 웰라움 라시엘",
-    "region_name": "경남",
-    "house_type": "APT",
-    "supply_type": "분양주택",
-    "notice_date": "2026-06-19"
-  },
-  {
-    "house_manage_no": "2026000261",
-    "notice_no": "2026000261",
-    "house_name": "밀양 수자인 더퍼스트 2단지 공공분양주택",
-    "region_name": "경남",
-    "house_type": "APT",
-    "supply_type": "분양주택",
-    "notice_date": "2026-06-19"
-  },
-  {
-    "house_manage_no": "2026000260",
-    "notice_no": "2026000260",
-    "house_name": "밀양 수자인 더퍼스트 1단지 공공분양주택",
-    "region_name": "경남",
-    "house_type": "APT",
-    "supply_type": "분양주택",
-    "notice_date": "2026-06-19"
-  },
-  {
-    "house_manage_no": "2026000241",
-    "notice_no": "2026000241",
-    "house_name": "드파인 아르티아",
-    "region_name": "서울",
-    "house_type": "APT",
-    "supply_type": "분양주택",
-    "notice_date": "2026-06-19"
-  },
-  {
-    "house_manage_no": "2026000234",
-    "notice_no": "2026000234",
-    "house_name": "에코델타시티 중흥S-클래스 리버시티",
-    "region_name": "부산",
-    "house_type": "APT",
-    "supply_type": "분양주택",
-    "notice_date": "2026-06-19"
   }
 ]
