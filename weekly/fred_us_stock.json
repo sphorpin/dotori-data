@@ -1,31 +1,6 @@
 [
   {
     "series": "us_stock",
-    "date": "2016-10-06",
-    "value": 2160.77
-  },
-  {
-    "series": "us_stock",
-    "date": "2016-10-07",
-    "value": 2153.74
-  },
-  {
-    "series": "us_stock",
-    "date": "2016-10-10",
-    "value": 2163.66
-  },
-  {
-    "series": "us_stock",
-    "date": "2016-10-11",
-    "value": 2136.73
-  },
-  {
-    "series": "us_stock",
-    "date": "2016-10-12",
-    "value": 2139.18
-  },
-  {
-    "series": "us_stock",
     "date": "2016-10-13",
     "value": 2132.55
   },
@@ -12558,5 +12533,30 @@
     "series": "us_stock",
     "date": "2026-10-05",
     "value": 7773.95
+  },
+  {
+    "series": "us_stock",
+    "date": "2026-10-06",
+    "value": 7818.93
+  },
+  {
+    "series": "us_stock",
+    "date": "2026-10-07",
+    "value": 7801.77
+  },
+  {
+    "series": "us_stock",
+    "date": "2026-10-08",
+    "value": 7765.36
+  },
+  {
+    "series": "us_stock",
+    "date": "2026-10-09",
+    "value": 7811.54
+  },
+  {
+    "series": "us_stock",
+    "date": "2026-10-12",
+    "value": 7807.24
   }
 ]
