@@ -393,19 +393,19 @@
   },
   {
     "source_name": "한국은행",
-    "title": "2026년 2/4분기중 자금순환(잠정)",
-    "link": "https://www.bok.or.kr/portal/bbs/B0000501/view.do?nttId=11065338&menuNo=200690",
-    "published_at": "2026-10-07T03:00:00Z",
-    "category": "economy",
-    "description": "- 2026년 2/4분기중 우리나라 경제활동의 결과 발생한 국내부문의 순자금운용 규모는 147.8조원을 기록 - 자세한 내용은 보도자료를 참고하시기 바랍니다."
-  },
-  {
-    "source_name": "한국은행",
     "title": "한국은행 부총재보 인사",
     "link": "https://www.bok.or.kr/portal/bbs/B0000502/view.do?nttId=11065380&menuNo=200690",
     "published_at": "2026-10-07T03:00:00Z",
     "category": "economy",
     "description": "자세한 내용은 첨부파일을 참조하시기 바랍니다."
+  },
+  {
+    "source_name": "한국은행",
+    "title": "2026년 2/4분기중 자금순환(잠정)",
+    "link": "https://www.bok.or.kr/portal/bbs/B0000501/view.do?nttId=11065338&menuNo=200690",
+    "published_at": "2026-10-07T03:00:00Z",
+    "category": "economy",
+    "description": "- 2026년 2/4분기중 우리나라 경제활동의 결과 발생한 국내부문의 순자금운용 규모는 147.8조원을 기록 - 자세한 내용은 보도자료를 참고하시기 바랍니다."
   },
   {
     "source_name": "한국은행",
@@ -521,19 +521,19 @@
   },
   {
     "source_name": "한국은행",
-    "title": "[보도자료] 2026년 상반기중 전자지급서비스 이용현황",
-    "link": "https://www.bok.or.kr/portal/bbs/B0000502/view.do?nttId=11064870&menuNo=200690",
-    "published_at": "2026-09-18T03:00:00Z",
-    "category": "economy",
-    "description": "□ 2026년 상반기중 전자금융업자와 금융회사가 제공하는 전자지급서비스* 중 전자지급결제대행(PG) 및 선불전자지급수단 서비스 이용규모(일평균, 금액 기준)는 전년동기 대비 각각 12.6%, 21.9% 증가 * 「전자금융거래법」에 따라 전자금융업자와 금융회사가 전자상거래 또는 개인간 거래 등과 관련하여 제공하는 지급 관련 서비스로서, 전자지급결제대행, 선불전자지급수단, 결제대금예치, 전자고지결제 등으로 구분 o (전자지급결제대행(PG)) 신용카드 지급대행을 중심으로 이용금액(1조 7,234억원)과 건수(3,675만건)가 전년동기 대비 각각 12.6%, 12.1% 증가 o (선불전자지급수단) 간편지급 및 간편송금 이용 확대 등으로 이용금액(1조 5,535억원)과 이용건수(3,922만건)가 전년동기 대비 각각 21.9%, 14.5% 증가 □ 한편 2026년 상반기중 간편지급 서비스* 이용규모(일평균, 금액기준)는 1조 2,264억원으로 전년동기 대비 16.8% 증가하였으며, 간편송금…"
-  },
-  {
-    "source_name": "한국은행",
     "title": "2025년 공공부문계정(잠정)",
     "link": "https://www.bok.or.kr/portal/bbs/B0000501/view.do?nttId=11064862&menuNo=200690",
     "published_at": "2026-09-18T03:00:00Z",
     "category": "economy",
     "description": "□ 2025년 공공부문(일반정부+공기업) 수지(총수입-총지출)는 83.1조원 적자로 전년(69.1조원 적자)에 비해 적자폭이 14.0조원 확대 ㅇ 공공부문 총수입은 1,192.1조원으로 전년(1,139.1조원)에 비해 53.0조원(+4.7%) 증가 ㅇ 공공부문 총지출은 1,275.2조원으로 전년(1,208.1조원)보다 67.0조원(+5.5%) 증가"
+  },
+  {
+    "source_name": "한국은행",
+    "title": "[보도자료] 2026년 상반기중 전자지급서비스 이용현황",
+    "link": "https://www.bok.or.kr/portal/bbs/B0000502/view.do?nttId=11064870&menuNo=200690",
+    "published_at": "2026-09-18T03:00:00Z",
+    "category": "economy",
+    "description": "□ 2026년 상반기중 전자금융업자와 금융회사가 제공하는 전자지급서비스* 중 전자지급결제대행(PG) 및 선불전자지급수단 서비스 이용규모(일평균, 금액 기준)는 전년동기 대비 각각 12.6%, 21.9% 증가 * 「전자금융거래법」에 따라 전자금융업자와 금융회사가 전자상거래 또는 개인간 거래 등과 관련하여 제공하는 지급 관련 서비스로서, 전자지급결제대행, 선불전자지급수단, 결제대금예치, 전자고지결제 등으로 구분 o (전자지급결제대행(PG)) 신용카드 지급대행을 중심으로 이용금액(1조 7,234억원)과 건수(3,675만건)가 전년동기 대비 각각 12.6%, 12.1% 증가 o (선불전자지급수단) 간편지급 및 간편송금 이용 확대 등으로 이용금액(1조 5,535억원)과 이용건수(3,922만건)가 전년동기 대비 각각 21.9%, 14.5% 증가 □ 한편 2026년 상반기중 간편지급 서비스* 이용규모(일평균, 금액기준)는 1조 2,264억원으로 전년동기 대비 16.8% 증가하였으며, 간편송금…"
   },
   {
     "source_name": "한국은행",
@@ -545,19 +545,19 @@
   },
   {
     "source_name": "한국은행",
-    "title": "2026년 상반기 지식서비스 무역통계(잠정)",
-    "link": "https://www.bok.or.kr/portal/bbs/B0000501/view.do?nttId=11064821&menuNo=200690",
-    "published_at": "2026-09-17T03:00:00Z",
-    "category": "economy",
-    "description": "□ 2026년 상반기 중 우리나라의 지식서비스 무역수지는 64.4억달러 적자를 기록 □ 자세한 내용은 (붙임) 참조"
-  },
-  {
-    "source_name": "한국은행",
     "title": "2026년 8월 이후 국제금융·외환시장 동향",
     "link": "https://www.bok.or.kr/portal/bbs/B0000502/view.do?nttId=11064829&menuNo=200690",
     "published_at": "2026-09-17T03:00:00Z",
     "category": "economy",
     "description": "자세한 내용은 첨부파일을 참고하시기 바랍니다."
+  },
+  {
+    "source_name": "한국은행",
+    "title": "2026년 상반기 지식서비스 무역통계(잠정)",
+    "link": "https://www.bok.or.kr/portal/bbs/B0000501/view.do?nttId=11064821&menuNo=200690",
+    "published_at": "2026-09-17T03:00:00Z",
+    "category": "economy",
+    "description": "□ 2026년 상반기 중 우리나라의 지식서비스 무역수지는 64.4억달러 적자를 기록 □ 자세한 내용은 (붙임) 참조"
   },
   {
     "source_name": "한국은행",
@@ -585,19 +585,19 @@
   },
   {
     "source_name": "한국은행",
-    "title": "2026년 7월 통화 및 유동성",
-    "link": "https://www.bok.or.kr/portal/bbs/B0000501/view.do?nttId=11064733&menuNo=200690",
-    "published_at": "2026-09-15T03:00:00Z",
-    "category": "economy",
-    "description": "□ M2(광의통화, 계절조정계열, 평잔)는 전월대비 0.3% 증가 [원계열, 전년동월대비 +5.8%] □ 자세한 내용은 < 붙임> 참조"
-  },
-  {
-    "source_name": "한국은행",
     "title": "「2027년 한국은행 신진작가 공모」실시",
     "link": "https://www.bok.or.kr/portal/bbs/B0000502/view.do?nttId=11064761&menuNo=200690",
     "published_at": "2026-09-15T03:00:00Z",
     "category": "economy",
     "description": "자세한 내용은 첨부파일을 참고하시기 바랍니다."
+  },
+  {
+    "source_name": "한국은행",
+    "title": "2026년 7월 통화 및 유동성",
+    "link": "https://www.bok.or.kr/portal/bbs/B0000501/view.do?nttId=11064733&menuNo=200690",
+    "published_at": "2026-09-15T03:00:00Z",
+    "category": "economy",
+    "description": "□ M2(광의통화, 계절조정계열, 평잔)는 전월대비 0.3% 증가 [원계열, 전년동월대비 +5.8%] □ 자세한 내용은 < 붙임> 참조"
   },
   {
     "source_name": "한국은행",
@@ -625,19 +625,19 @@
   },
   {
     "source_name": "한국은행",
-    "title": "2026년 2/4분기 기업경영분석",
-    "link": "https://www.bok.or.kr/portal/bbs/B0000501/view.do?nttId=11064577&menuNo=200690",
-    "published_at": "2026-09-09T03:00:00Z",
-    "category": "economy",
-    "description": "□ 2026년 2/4분기 외감기업의 성장성, 수익성, 안정성이 모두 개선 ㅇ (성장성) 매출액증가율 : 26.1/4분기 13.5% → 26.2/4분기 26.7% 총자산증가율 : 25.2/4분기 0.2% → 26.2/4분기 6.8% ㅇ (수익성) 매출액영업이익률 : 25.2/4분기 5.1% → 26.2/4분기 16.9% 매출액세전순이익률 : 25.2/4분기 5.3% → 26.2/4분기 23.1% ㅇ (안정성) 부채비율 : 26.1/4분기 87.0% → 26.2/4분기 84.5% 차입금의존도 : 26.1/4분기 23.9% → 26.2/4분기 22.8% (자세한 내용은 붙임 참조)"
-  },
-  {
-    "source_name": "한국은행",
     "title": "2026년 8월 금융시장 동향",
     "link": "https://www.bok.or.kr/portal/bbs/B0000502/view.do?nttId=11064574&menuNo=200690",
     "published_at": "2026-09-09T03:00:00Z",
     "category": "economy",
     "description": "자세한 내용은 첨부파일을 참조하시기 바랍니다."
+  },
+  {
+    "source_name": "한국은행",
+    "title": "2026년 2/4분기 기업경영분석",
+    "link": "https://www.bok.or.kr/portal/bbs/B0000501/view.do?nttId=11064577&menuNo=200690",
+    "published_at": "2026-09-09T03:00:00Z",
+    "category": "economy",
+    "description": "□ 2026년 2/4분기 외감기업의 성장성, 수익성, 안정성이 모두 개선 ㅇ (성장성) 매출액증가율 : 26.1/4분기 13.5% → 26.2/4분기 26.7% 총자산증가율 : 25.2/4분기 0.2% → 26.2/4분기 6.8% ㅇ (수익성) 매출액영업이익률 : 25.2/4분기 5.1% → 26.2/4분기 16.9% 매출액세전순이익률 : 25.2/4분기 5.3% → 26.2/4분기 23.1% ㅇ (안정성) 부채비율 : 26.1/4분기 87.0% → 26.2/4분기 84.5% 차입금의존도 : 26.1/4분기 23.9% → 26.2/4분기 22.8% (자세한 내용은 붙임 참조)"
   },
   {
     "source_name": "한국은행",
@@ -697,19 +697,19 @@
   },
   {
     "source_name": "한국은행",
-    "title": "[보도참고자료] 新뉴스심리지수 공표",
-    "link": "https://www.bok.or.kr/portal/bbs/B0000502/view.do?nttId=11064326&menuNo=200690",
-    "published_at": "2026-09-01T03:00:00Z",
-    "category": "economy",
-    "description": "※ 자세한 내용은 첨부파일을 참조하시기 바랍니다."
-  },
-  {
-    "source_name": "한국은행",
     "title": "[보도자료] 2026년 2/4분기중 주요 기관투자가의 외화증권투자 동향",
     "link": "https://www.bok.or.kr/portal/bbs/B0000502/view.do?nttId=11064319&menuNo=200690",
     "published_at": "2026-09-01T03:00:00Z",
     "category": "economy",
     "description": "※ 자세한 내용은 첨부파일을 참조하시기 바랍니다 ."
+  },
+  {
+    "source_name": "한국은행",
+    "title": "[보도참고자료] 新뉴스심리지수 공표",
+    "link": "https://www.bok.or.kr/portal/bbs/B0000502/view.do?nttId=11064326&menuNo=200690",
+    "published_at": "2026-09-01T03:00:00Z",
+    "category": "economy",
+    "description": "※ 자세한 내용은 첨부파일을 참조하시기 바랍니다."
   },
   {
     "source_name": "한국은행",
@@ -1121,6 +1121,126 @@
   },
   {
     "source_name": "한국경제",
+    "title": "\"이것까지 5000원이라고?\"…다이소 파격 행보에 '깜짝' [박수림의 요즘 여기]",
+    "link": "https://www.hankyung.com/article/202610166696g",
+    "published_at": "2026-10-17T22:30:02Z",
+    "category": "economy",
+    "description": null
+  },
+  {
+    "source_name": "한국경제",
+    "title": "\"기성세대 추억 돈 되네\"…편의점 점령한 뉴트로 열풍",
+    "link": "https://www.hankyung.com/article/2026101881707",
+    "published_at": "2026-10-17T22:26:34Z",
+    "category": "economy",
+    "description": null
+  },
+  {
+    "source_name": "한국경제",
+    "title": "이건희 삼성 선대회장 6주기…삼성가 '조용한 추모'",
+    "link": "https://www.hankyung.com/article/2026101881377",
+    "published_at": "2026-10-17T22:10:54Z",
+    "category": "economy",
+    "description": null
+  },
+  {
+    "source_name": "한국경제",
+    "title": "러시아서 더 잘 팔린다…80억개 대박 난 '이 라면' [권용훈의 트렌드워치]",
+    "link": "https://www.hankyung.com/article/202610167152i",
+    "published_at": "2026-10-17T21:00:01Z",
+    "category": "economy",
+    "description": null
+  },
+  {
+    "source_name": "한국경제",
+    "title": "\"빈 방을 여행자와 삶 나누는 공간으로\"…두 '해녀'의 도전",
+    "link": "https://www.hankyung.com/article/202610166604g",
+    "published_at": "2026-10-17T12:00:01Z",
+    "category": "economy",
+    "description": null
+  },
+  {
+    "source_name": "한국경제",
+    "title": "'한국에 쇼핑하러 오길 잘했네'…외국인 관광객들 '감탄' [류은혁의 유통기한]",
+    "link": "https://www.hankyung.com/article/202610167273i",
+    "published_at": "2026-10-17T11:00:02Z",
+    "category": "economy",
+    "description": null
+  },
+  {
+    "source_name": "한국경제",
+    "title": "中 반도체 이 정도였나…'없어서 못 판다' 삼전닉스 맹추격",
+    "link": "https://www.hankyung.com/article/2026101779027",
+    "published_at": "2026-10-17T09:06:38Z",
+    "category": "economy",
+    "description": null
+  },
+  {
+    "source_name": "한국경제",
+    "title": "\"아내 생일 깜빡했네\"…1억뷰 터지자마자 벌어진 일 [권용훈의 트렌드워치]",
+    "link": "https://www.hankyung.com/article/202610177754i",
+    "published_at": "2026-10-17T07:00:01Z",
+    "category": "economy",
+    "description": null
+  },
+  {
+    "source_name": "한국경제",
+    "title": "\"의무는 나라가 정하고 돈은 지방이\"…저상버스 '재정 딜레마'",
+    "link": "https://www.hankyung.com/article/202610141445i",
+    "published_at": "2026-10-17T06:00:04Z",
+    "category": "economy",
+    "description": null
+  },
+  {
+    "source_name": "한국경제",
+    "title": "초유의 '일론 주식회사' 나오나…테슬라·스페이스X 합병설",
+    "link": "https://www.hankyung.com/article/2026101777627",
+    "published_at": "2026-10-17T05:30:29Z",
+    "category": "economy",
+    "description": null
+  },
+  {
+    "source_name": "한국경제",
+    "title": "\"벌레 잡아 매년 26억 번다\"…대기업 때려치우고 '인생 역전' [이광식의 거상열전]",
+    "link": "https://www.hankyung.com/article/202610177724i",
+    "published_at": "2026-10-17T05:00:01Z",
+    "category": "economy",
+    "description": null
+  },
+  {
+    "source_name": "한국경제",
+    "title": "",
+    "link": "https://www.hankyung.com/article/202610165934i",
+    "published_at": "2026-10-17T04:00:01Z",
+    "category": "economy",
+    "description": null
+  },
+  {
+    "source_name": "한국경제",
+    "title": "총 든 로봇개·정찰 휴머노이드까지…中 대테러 작전도 AI가 맡는다 [차이나 워치]",
+    "link": "https://www.hankyung.com/article/202610165935i",
+    "published_at": "2026-10-17T02:23:02Z",
+    "category": "economy",
+    "description": null
+  },
+  {
+    "source_name": "한국경제",
+    "title": "\"반도체는 워싱턴서 결정\"…직접 美 달려간 최태원의 승부수 [강경주의 테크X]",
+    "link": "https://www.hankyung.com/article/2026101667266",
+    "published_at": "2026-10-17T00:30:01Z",
+    "category": "economy",
+    "description": null
+  },
+  {
+    "source_name": "한국경제",
+    "title": "\"비싸도 좋으니 물량만 달라\"…거품 경고에도 삼전닉스 '반전' [홍민성의 테토남]",
+    "link": "https://www.hankyung.com/article/202610166229g",
+    "published_at": "2026-10-17T00:00:02Z",
+    "category": "economy",
+    "description": null
+  },
+  {
+    "source_name": "한국경제",
     "title": "중소기업의 눈물…불황에 빚 감당 못한 법인파산 4년새 2.4배",
     "link": "https://www.hankyung.com/article/2026101775467",
     "published_at": "2026-10-16T23:30:35Z",
@@ -1137,7 +1257,7 @@
   },
   {
     "source_name": "한국경제",
-    "title": "\"보수 100배 준다는데 떠나야지\"…2030 푹 빠지더니 '대박' [권용훈의 트렌드워치]",
+    "title": "\"2만9000원 팝콘통까지 품절\"…2030 푹 빠지더니 '대박' [권용훈의 트렌드워치]",
     "link": "https://www.hankyung.com/article/202610141176i",
     "published_at": "2026-10-16T23:00:01Z",
     "category": "economy",
@@ -1401,122 +1521,26 @@
   },
   {
     "source_name": "한국경제",
-    "title": "애플 CEO, 반도체 품귀에 '중국산 메모리' 사용 시사",
-    "link": "https://www.hankyung.com/article/2026101670441",
-    "published_at": "2026-10-16T08:32:21Z",
-    "category": "economy",
+    "title": "전세금도 안 올렸는데…'너무한 거 아냐?' 집주인들 '멘붕' [김용우의 각개전투]",
+    "link": "https://www.hankyung.com/article/202610166762i",
+    "published_at": "2026-10-17T22:00:04Z",
+    "category": "realEstate",
     "description": null
   },
   {
     "source_name": "한국경제",
-    "title": "CJ그룹, 중앙일보 인수전 가세",
-    "link": "https://www.hankyung.com/article/2026101670401",
-    "published_at": "2026-10-16T08:32:09Z",
-    "category": "economy",
+    "title": "\"무주택자 '생존 매수'하는 시대 온다\"…전문가 경고 들어보니",
+    "link": "https://www.hankyung.com/article/2026101778407",
+    "published_at": "2026-10-17T07:16:25Z",
+    "category": "realEstate",
     "description": null
   },
   {
     "source_name": "한국경제",
-    "title": "아이디어만 있으면 전문조직이 창업 돕는다",
-    "link": "https://www.hankyung.com/article/2026101670161",
-    "published_at": "2026-10-16T08:30:43Z",
-    "category": "economy",
-    "description": null
-  },
-  {
-    "source_name": "한국경제",
-    "title": "세계 누비는 美 헬기가 '한국산'…글로벌 방산社 직거래 뚫은 韓 중소기업",
-    "link": "https://www.hankyung.com/article/202610166975i",
-    "published_at": "2026-10-16T08:25:10Z",
-    "category": "economy",
-    "description": null
-  },
-  {
-    "source_name": "한국경제",
-    "title": "부천은 0%인데 이천은 4.5%... 천차만별 전통시장 명절대출",
-    "link": "https://www.hankyung.com/article/202610165520i",
-    "published_at": "2026-10-16T08:13:36Z",
-    "category": "economy",
-    "description": null
-  },
-  {
-    "source_name": "한국경제",
-    "title": "\"버티면 오를 줄 알았는데\"…빚투 개미들 1700억 '날벼락'",
-    "link": "https://www.hankyung.com/article/2026101669707",
-    "published_at": "2026-10-16T08:08:27Z",
-    "category": "economy",
-    "description": null
-  },
-  {
-    "source_name": "한국경제",
-    "title": "이재용 편지 받은 '이곳' 직원들…가족까지 통 크게 챙겼다",
-    "link": "https://www.hankyung.com/article/202610166962g",
-    "published_at": "2026-10-16T08:07:38Z",
-    "category": "economy",
-    "description": null
-  },
-  {
-    "source_name": "한국경제",
-    "title": "마이크론, 대만서 최신 패키징공장 가동…\"AI 메모리 생산 역량 확충\"",
-    "link": "https://www.hankyung.com/article/202610166906i",
-    "published_at": "2026-10-16T08:02:35Z",
-    "category": "economy",
-    "description": null
-  },
-  {
-    "source_name": "한국경제",
-    "title": "가트너 \"메모리 공급난, 2028년까지 이어질 것\"",
-    "link": "https://www.hankyung.com/article/202610166804i",
-    "published_at": "2026-10-16T07:43:17Z",
-    "category": "economy",
-    "description": null
-  },
-  {
-    "source_name": "한국경제",
-    "title": "딥시크 5시간 먹통…中 AI 폭풍 성장에 반도체는 품귀 [차이나 워치]",
-    "link": "https://www.hankyung.com/article/202610166329i",
-    "published_at": "2026-10-16T07:34:02Z",
-    "category": "economy",
-    "description": null
-  },
-  {
-    "source_name": "한국경제",
-    "title": "\"베이징 공기 좋아졌네\"…초미세먼지 70% 줄인 '13년의 전쟁' [차이나 워치]",
-    "link": "https://www.hankyung.com/article/202610114678i",
-    "published_at": "2026-10-16T07:33:42Z",
-    "category": "economy",
-    "description": null
-  },
-  {
-    "source_name": "한국경제",
-    "title": "40년 묵은 압구정 랜드마크의 변신…매장 두 배 커진다",
-    "link": "https://www.hankyung.com/article/202610166679g",
-    "published_at": "2026-10-16T07:05:06Z",
-    "category": "economy",
-    "description": null
-  },
-  {
-    "source_name": "한국경제",
-    "title": "\"이러다 삼전닉스도 잡겠다\"…세계 3위 오른 中 기업의 정체",
-    "link": "https://www.hankyung.com/article/202610166723i",
-    "published_at": "2026-10-16T06:59:35Z",
-    "category": "economy",
-    "description": null
-  },
-  {
-    "source_name": "한국경제",
-    "title": "'주식 60 채권 40' 공식 깨뜨린 범인…금리가 아니었다",
-    "link": "https://www.hankyung.com/article/202610166691i",
-    "published_at": "2026-10-16T06:59:25Z",
-    "category": "economy",
-    "description": null
-  },
-  {
-    "source_name": "한국경제",
-    "title": "[단독] 부실 늪 빠진 상호금융… '자본 부족' 조합만 300여곳",
-    "link": "https://www.hankyung.com/article/202610166734i",
-    "published_at": "2026-10-16T06:50:02Z",
-    "category": "economy",
+    "title": "\"2년 만에 20억→40억\"…한물 갔다던 '원조 부촌'의 부활 [이슬기의 새집다오]",
+    "link": "https://www.hankyung.com/article/2026101664466",
+    "published_at": "2026-10-17T01:30:01Z",
+    "category": "realEstate",
     "description": null
   },
   {
@@ -1897,26 +1921,34 @@
   },
   {
     "source_name": "한국경제",
-    "title": "자고 나면 집값 오르는데 \"급락 가능성\"…근거 살펴보니 [시장톡]",
-    "link": "https://www.hankyung.com/article/2026101390236",
-    "published_at": "2026-10-14T04:30:03Z",
-    "category": "realEstate",
+    "title": "빚투 3천억 강제청산…\"증시 무너져도 정부 '예의 주시' 말뿐\" [분석+]",
+    "link": "https://www.hankyung.com/article/2026101780247",
+    "published_at": "2026-10-17T14:03:05Z",
+    "category": "stockMarket",
     "description": null
   },
   {
     "source_name": "한국경제",
-    "title": "서울 저층주거지 7곳 '휴먼타운 2.0'…재개발 없이 '내 땅 새집'",
-    "link": "https://www.hankyung.com/article/202610140971i",
-    "published_at": "2026-10-14T02:16:02Z",
-    "category": "realEstate",
+    "title": "전쟁은 얼마나 오래 주식시장을 지배하는가 [조윤남의 사이클투자]",
+    "link": "https://www.hankyung.com/article/202610126778i",
+    "published_at": "2026-10-17T10:44:16Z",
+    "category": "stockMarket",
     "description": null
   },
   {
     "source_name": "한국경제",
-    "title": "IPARK현산, 금정역세권1구역 우선협상대상자 선정",
-    "link": "https://www.hankyung.com/article/202610141050i",
-    "published_at": "2026-10-14T02:14:35Z",
-    "category": "realEstate",
+    "title": "미 채권시장이 보내는 신호, 어떻게 읽어야 할까",
+    "link": "https://www.hankyung.com/article/202610165797i",
+    "published_at": "2026-10-17T03:00:02Z",
+    "category": "stockMarket",
+    "description": null
+  },
+  {
+    "source_name": "한국경제",
+    "title": "\"설마 또 강제청산 터졌나\"…월가서 다시 떠오른 7월의 악몽 [빈난새의 빈틈없이마켓]",
+    "link": "https://www.hankyung.com/article/202610177612i",
+    "published_at": "2026-10-17T02:59:55Z",
+    "category": "stockMarket",
     "description": null
   },
   {
@@ -1929,7 +1961,7 @@
   },
   {
     "source_name": "한국경제",
-    "title": "\"상장해도 문제, 안 해도 문제\"…SK하닉 개미들 속타는 이유 [분석+]",
+    "title": "\"유독 하이닉스 주가만 더 빠진다\"…개미들 분통 터진 까닭 [분석+]",
     "link": "https://www.hankyung.com/article/2026101775157",
     "published_at": "2026-10-16T23:06:22Z",
     "category": "stockMarket",
@@ -2288,35 +2320,75 @@
     "description": null
   },
   {
-    "source_name": "한국경제",
-    "title": "[속보] '전날 7% 급락' 코스피, 1%대 상승 출발…코스닥도 상승",
-    "link": "https://www.hankyung.com/article/2026101655956",
-    "published_at": "2026-10-16T00:03:56Z",
-    "category": "stockMarket",
+    "source_name": "서울경제",
+    "title": "여기서 3만원짜리 패딩 살 수 있을 줄은 몰랐다…동네 편의점의 ‘파격 변신’",
+    "link": "https://www.sedaily.com/article/20102822",
+    "published_at": "2026-10-17T22:15:01Z",
+    "category": "economy",
     "description": null
   },
   {
-    "source_name": "한국경제",
-    "title": "AI發 신용 리스크 터지나…한국 증시 향후 체크포인트 [분석+]",
-    "link": "https://www.hankyung.com/article/2026101654616",
-    "published_at": "2026-10-15T23:56:09Z",
-    "category": "stockMarket",
+    "source_name": "서울경제",
+    "title": "한은 기준금리 결정...中 3분기 성장률 반등하나 [한동훈의 위클리전망대]",
+    "link": "https://www.sedaily.com/article/20102801",
+    "published_at": "2026-10-17T21:00:05Z",
+    "category": "economy",
     "description": null
   },
   {
-    "source_name": "한국경제",
-    "title": "실적 우려에도…개미들은 왜 한화시스템을 집중 매수했을까?",
-    "link": "https://www.hankyung.com/article/202610165505i",
-    "published_at": "2026-10-15T23:55:23Z",
-    "category": "stockMarket",
+    "source_name": "서울경제",
+    "title": "“물타기 할 돈도 없다” 우는 와중에…덜컥 산 집은 月이자만 올라간다",
+    "link": "https://www.sedaily.com/article/20102813",
+    "published_at": "2026-10-17T13:42:40Z",
+    "category": "economy",
     "description": null
   },
   {
-    "source_name": "한국경제",
-    "title": "TS트릴리온 \"2.3조원 규모 천안 AI 데이터센터 공동개발 추진\"",
-    "link": "https://www.hankyung.com/article/2026101655286",
-    "published_at": "2026-10-15T23:49:53Z",
-    "category": "stockMarket",
+    "source_name": "서울경제",
+    "title": "EU, 중국산 제품 시장 차단까지 검토…대중 무역적자 역대 최대",
+    "link": "https://www.sedaily.com/article/20102772",
+    "published_at": "2026-10-17T05:31:57Z",
+    "category": "economy",
+    "description": null
+  },
+  {
+    "source_name": "서울경제",
+    "title": "삼성전자·하이닉스 주가, ELS 상환 기준 밑돌았다…연말 평가도 부담",
+    "link": "https://www.sedaily.com/article/20102771",
+    "published_at": "2026-10-17T05:31:33Z",
+    "category": "economy",
+    "description": null
+  },
+  {
+    "source_name": "서울경제",
+    "title": "웨어러블 로봇 기업 ‘휴로틱스’, 250억 투자 유치",
+    "link": "https://www.sedaily.com/article/20102770",
+    "published_at": "2026-10-17T05:31:09Z",
+    "category": "economy",
+    "description": null
+  },
+  {
+    "source_name": "서울경제",
+    "title": "‘원청 교섭’이라더니 파업 수순…기준 없는 ‘노란봉투법’에 현장 혼란",
+    "link": "https://www.sedaily.com/article/20102769",
+    "published_at": "2026-10-17T05:30:46Z",
+    "category": "economy",
+    "description": null
+  },
+  {
+    "source_name": "서울경제",
+    "title": "역대 최고 고용률의 착시…청년 취업자 감소, 내수업종 직격탄",
+    "link": "https://www.sedaily.com/article/20102768",
+    "published_at": "2026-10-17T05:16:00Z",
+    "category": "economy",
+    "description": null
+  },
+  {
+    "source_name": "서울경제",
+    "title": "올해 북미산 LNG 수입 2배로…중동산은 60% 넘게 급감",
+    "link": "https://www.sedaily.com/article/20102755",
+    "published_at": "2026-10-17T02:29:06Z",
+    "category": "economy",
     "description": null
   },
   {
@@ -2649,74 +2721,10 @@
   },
   {
     "source_name": "서울경제",
-    "title": "사회서비스 전자바우처 부정수급 479억...4년새 6.5배 ↑",
-    "link": "https://www.sedaily.com/article/20102056",
-    "published_at": "2026-10-15T06:38:09Z",
-    "category": "economy",
-    "description": null
-  },
-  {
-    "source_name": "서울경제",
-    "title": "삼성물산·현대건설 등, 웨스팅하우스 지분 인수 추진",
-    "link": "https://www.sedaily.com/article/20102053",
-    "published_at": "2026-10-15T06:36:02Z",
-    "category": "economy",
-    "description": null
-  },
-  {
-    "source_name": "서울경제",
-    "title": "삼성전자·SK하이닉스 목표주가, 현 주가의 2배…실적 성장에 베팅",
-    "link": "https://www.sedaily.com/article/20102052",
-    "published_at": "2026-10-15T06:35:56Z",
-    "category": "economy",
-    "description": null
-  },
-  {
-    "source_name": "서울경제",
-    "title": "오페라의 유령에 20억 베팅…아주IB투자, 남들이 안 간 길 택했다",
-    "link": "https://www.sedaily.com/article/20102051",
-    "published_at": "2026-10-15T06:35:42Z",
-    "category": "economy",
-    "description": null
-  },
-  {
-    "source_name": "서울경제",
-    "title": "2029년 첫 팹 가동, 70개 기업 집결… 삼성 용인 청사진 첫 공개",
-    "link": "https://www.sedaily.com/article/20102047",
-    "published_at": "2026-10-15T06:35:20Z",
-    "category": "economy",
-    "description": null
-  },
-  {
-    "source_name": "서울경제",
-    "title": "“12월부터 전 국민 무료”…SKT·KT·카카오가 만든 ‘모두의 AI’",
-    "link": "https://www.sedaily.com/article/20102045",
-    "published_at": "2026-10-15T06:35:05Z",
-    "category": "economy",
-    "description": null
-  },
-  {
-    "source_name": "서울경제",
-    "title": "‘빚투’ 주춤에...은행 가계대출 증가폭 0.6조↑, 5개월만 최저",
-    "link": "https://www.sedaily.com/article/20101876",
-    "published_at": "2026-10-15T03:00:05Z",
-    "category": "economy",
-    "description": null
-  },
-  {
-    "source_name": "서울경제",
-    "title": "반도체 기업 예치자금 유입…시중 통화 증가율 5%대 지속",
-    "link": "https://www.sedaily.com/article/20101886",
-    "published_at": "2026-10-15T03:00:05Z",
-    "category": "economy",
-    "description": null
-  },
-  {
-    "source_name": "서울경제",
-    "title": "원전공론화위, 부지 확정된 원전은 재논의 안한다",
-    "link": "https://www.sedaily.com/article/20101898",
-    "published_at": "2026-10-15T02:16:53Z",
-    "category": "economy",
+    "title": "‘대출 규제 동결·토허구 연장 저울질’…수도권 주택공급 속도전",
+    "link": "https://www.sedaily.com/article/20102767",
+    "published_at": "2026-10-17T05:14:07Z",
+    "category": "realEstate",
     "description": null
   },
   {
@@ -3113,10 +3121,18 @@
   },
   {
     "source_name": "서울경제",
-    "title": "금호건설, 구미서 ‘형곡 센트럴 아테라’ 분양",
-    "link": "https://www.sedaily.com/article/20101454",
-    "published_at": "2026-10-14T03:50:18Z",
-    "category": "realEstate",
+    "title": "7일 내리막 끝 반등한 코스피…‘AI 불안’ 언제 떨쳐낼까 [선데이머니카페]",
+    "link": "https://www.sedaily.com/article/20102695",
+    "published_at": "2026-10-17T22:00:05Z",
+    "category": "stockMarket",
+    "description": null
+  },
+  {
+    "source_name": "서울경제",
+    "title": "코스피 급락날 반대매매 800억원…손실 누적에 예탁금 감소 [이런국장 저런주식]",
+    "link": "https://www.sedaily.com/article/20102694",
+    "published_at": "2026-10-17T01:00:05Z",
+    "category": "stockMarket",
     "description": null
   },
   {
@@ -3504,20 +3520,852 @@
     "description": null
   },
   {
-    "source_name": "서울경제",
-    "title": "[글로벌 핫스톡] 크루즈 넘어 리조트로…로얄캐리비안, 성장동력 확장",
-    "link": "https://www.sedaily.com/article/20102153",
-    "published_at": "2026-10-15T08:46:00Z",
-    "category": "stockMarket",
-    "description": null
+    "source_name": "머니투데이",
+    "title": "'AG 금메달 영웅' 이영준 멀티골 폭발... 헤더골 한 방→가슴 트래핑 후 강슛, 그라스호퍼 8-0 대승",
+    "link": "https://www.mt.co.kr/sports/2026/10/18/2026101808160555951",
+    "published_at": "2026-10-17T23:32:33Z",
+    "category": "economy",
+    "description": "'아시안게임 금메달 영웅' 이영준(그라스호퍼)이 소속팀에서도 멀티골을 폭발시켰다. 그라스호퍼는 18일(한국시간) 스위스 그렌헨의 슈타디온 브륄에서 열린 FC 그렌헨과 스위스컵 32강에서 무려 8-0 대승을 거뒀다. 이로써 그라스호퍼는 16강 진출에 성공했다. 최근 리그에서 3연패를 당하는 등 긴 부진에 빠져 있었지만, 이번 대승으로 분위기 반전의 계기를 마련했다. 이영준은 후반 막판 연속골을 터뜨리며 대승에 마침표를 찍었다. 그라스호퍼는 전반 14분 오스카르 클레멘테의 선제골을 시작으로 전반에만 4골을 몰아치며 일찌감치 승기를 잡았다. 후반에도 골 폭풍은 멈추지 않았다...."
   },
   {
-    "source_name": "서울경제",
-    "title": "7거래일째 하락…코스피 시총 1190조 사라졌다",
-    "link": "https://www.sedaily.com/article/20102140",
-    "published_at": "2026-10-15T08:40:13Z",
+    "source_name": "머니투데이",
+    "title": "'변압기 뉴노멀' 진입 HD현대일렉트릭…미래 전력 솔루션 총망라",
+    "link": "https://www.mt.co.kr/industry/2026/10/18/2026101613265793706",
+    "published_at": "2026-10-17T23:30:00Z",
+    "category": "economy",
+    "description": "[미리보는 SEP 2026] HD현대일렉트릭(종합) HD현대가 오는 28~30일 서울 삼성동 코엑스 B홀에서 열리는 '스마트 에너지 플러스(SMART ENERGY PLUS·SEP) 2026'에서 친환경 초고압 전력기기부터 DC(직류) 배전, ESS(에너지저장장치)에 이르는 미래 전력망 솔루션을 선보인다. 전시 부스에서는 송·배전 분야의 주요 제품과 기술을 소개하고, 콘퍼런스에서는 AI(인공지능) 데이터센터 확대로 급증하는 변압기 수요와 글로벌 시장 대응 전략을 공개한다. 국회수소경제포럼이 주최하고 머니투데이와 코엑스가 공동 주관하는 'SEP 2026'은 'AI 시대의 에너지 대전환'과 '급변하는 국제 정세 속 에너지 안보'를 주제로 열린다. HD현대일렉트릭은 이번 전시에서 'Transforming Power, Connecting the Future(전력의 혁신으로 미래를 잇다)'를 슬로건으로 내걸고 독보적인 송·배전 기술력을 선보인다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "가슴 파인 옷 입은 리포터에 '시선 회피'…축구 감독에 \"금메달 줘라\"",
+    "link": "https://www.mt.co.kr/world/2026/10/18/2026101807594033637",
+    "published_at": "2026-10-17T23:12:05Z",
+    "category": "economy",
+    "description": "가슴이 깊게 파인 의상을 입은 여성 리포터와 인터뷰하면서 필사적으로 시선을 피하는 듯한 모습을 보인 축구 감독이 온라인에서 화제를 모으고 있다. 지난 15일(현지시간) 미국 뉴욕포스트에 따르면 체코 축구클럽 FK 비아젬 우스티나트라벰의 다비드 올렐라 감독은 최근 SFC 오파바와의 경기 직후 구단 리포터 사비나 약쇼바와 인터뷰를 진행했다. 당시 약쇼바는 가슴 부분이 깊게 파인 의상을 입고 올렐라 감독에게 질문을 건넸다. 올렐라 감독은 질문에 귀를 기울이면서도 약쇼바를 바라보지 않고 정면이나 옆쪽으로 시선을 돌렸다. 특히 인터뷰 내내 굳은 표정으로 앞만 바라보거나 먼 곳을 응시하는 모습이 눈길을 끌었다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "\"이강인도 득점 기회 있었다\" 시메오네도 인정한 상대 철벽 수비... 여기에 GK 선방+골대 불운, 그래도 ATM 또 해냈다",
+    "link": "https://www.mt.co.kr/sports/2026/10/18/2026101807503743705",
+    "published_at": "2026-10-17T23:10:42Z",
+    "category": "economy",
+    "description": "한국 축구대표팀 '에이스' 이강인(25·아틀레티코 마드리드)에게도 득점 기회가 있었다. 하지만 상대의 끈질긴 수비에 골키퍼 선방, 골대 불운까지 겹쳤다. 그래도 아틀레티코는 끝내 해냈다. 정규시간 종료를 불과 1분 앞두고 극적인 결승골을 터뜨렸다. 아틀레티코는 18일(한국시간) 스페인 바르셀로나의 RCDE 스타디움에서 열린 에스파뇰과 2026~2027시즌 스페인 프리메라리가 9라운드 원정 경기에서 1-0으로 승리했다. 승부는 경기 막판에야 갈렸다. 0-0으로 팽팽하던 후반 44분 훌리안 알바레스의 패스를 받은 알렉스 바에나가 극적인 결승골을 터뜨렸다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "사회연대금융, 교훈과 교정이 필요할 때",
+    "link": "https://www.mt.co.kr/future/2026/10/18/2026101610073595032",
+    "published_at": "2026-10-17T23:00:00Z",
+    "category": "economy",
+    "description": "[이순열의 '임팩트 이코노미'-③] [이 기사에 나온 스타트업에 대한 보다 다양한 기업정보는 유니콘팩토리 빅데이터 플랫폼 '데이터랩'에서 볼 수 있습니다.] 사회연대금융은 시장이 외면한 위험을 사회가 함께 감당하기 위해 존재한다. 담보나 재무적 기반이 부족해도 사회적으로 필요한 기업에 자금을 공급하는 금융이다. 그렇다면 이 과정에서 손실이 발생했을 때 공공은 어떤 책임을 져야 하는가. 최근 서울시 사회투자기금을 둘러싼 소송은 이 질문을 던진다. 서울시는 과거 민간 수행(중개)기관에 자금을 대여하면서 대표자 개인의 연대보증까지 요구했다. 민간 중개기관이 사회적경제 기업에 재대출한 돈을 회수하지 못해도 서울시에는 원금을 갚아야 하는 구조였다. 현재 서울시는 당시 약정을 근거로 민간 중개기관과 대표자에게 10억원이 넘는 채무의 상환을 요구하고 있으며, 이를 둘러싼 민사소송이 진행 중이다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "수술 중 환자 장기에 자기 이름을…장승조 '사이코패스' 반전",
+    "link": "https://www.mt.co.kr/entertainment/2026/10/18/2026101807422085201",
+    "published_at": "2026-10-17T22:52:50Z",
+    "category": "economy",
+    "description": "SBS 드라마 '닥터X: 하얀 마피아의 시대'에서 배우 장승조가 다정한 의사로 위장한 섬뜩한 악역의 본색을 드러냈다. 지난 17일 방송된 SBS 금토드라마 '닥터X: 하얀 마피아의 시대' 4회에서는 신임 외과 교수 나대일(장승조 분) 비밀을 파헤치는 계수정(김지원 분) 모습이 그려졌다. 방송에서 제약회사 직원 권충현은 갑작스러운 복통으로 길에서 쓰러졌다. 식당 앞에서 줄을 서 있던 계수정은 그를 발견하고 병원으로 데려갔다. 권충현의 상태를 살핀 김성진(허준석 분)은 담낭염을 진단하며 빠른 수술을 권했다. 그는 \"병원에 그렇게 자주 왔다 갔다 하면서 본인 병은 미루시면 안 된다\"고 말했다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "\"감독 한 명 바뀌었을 뿐인데\" 삼성 개막 5연승 돌풍, 이제 1승이면 구단 역대 최다 타이... 새 역사도 보인다",
+    "link": "https://www.mt.co.kr/sports/2026/10/18/2026101807191480665",
+    "published_at": "2026-10-17T22:40:08Z",
+    "category": "economy",
+    "description": "감독 한 명이 바뀌었을 뿐인데 완전히 다른 팀이 됐다. 서울 삼성이 개막 5연승을 질주하며 이제 구단 역사까지 넘보고 있다. 김상식 감독이 이끄는 삼성은 17일 원주 DB프로미아레나에서 열린 2026~2027시즌 프로농구 원주 DB와 원정 경기에서 95-92로 승리했다. 이로써 삼성은 개막 이후 단 한 번도 패하지 않고 파죽의 5연승을 내달렸다. 이제 구단 역사까지 눈앞이다. 삼성이 다음 경기에서도 승리하면 2003~2004시즌 작성한 구단 역대 개막 최다 6연승과 타이를 이룬다. 여기서 한 경기만 더 이기면 개막 7연승이라는 새로운 구단 기록을 세우게 된다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "\"이제부터 내가 아빠\"…윤소희 이어 최강희·박진희도 '수양딸'?",
+    "link": "https://www.mt.co.kr/entertainment/2026/10/18/2026101807255558441",
+    "published_at": "2026-10-17T22:38:43Z",
+    "category": "economy",
+    "description": "유튜버 박위 아버지인 박찬홍 PD가 여러 여배우와 부녀처럼 지내온 사실이 재조명되고 있다. 배우 윤소희에 이어 최강희와 박진희도 박 PD를 아버지처럼 따른다는 과거 발언이 알려지면서다. 최근 온라인 커뮤니티와 사회관계망(SNS)에서는 최강희가 2022년 박위 유튜브 채널 '위라클'에 출연한 영상이 확산했다. 영상에서 최강희는 자신을 배우의 길로 이끌어준 박 감독과 인연을 소개하며 부친상을 당했을 당시의 일화를 전했다. 최강희는 \"감독님이 우리 아빠 돌아가셨을 때 느닷없이 나타나셨다. 우리 집에\"라며 당시를 떠올렸다. 이어 \"보통은 '괜찮아, 좋은 데 가셨을 거야'라고 위로하지 않느냐\"며 \"그런데 감독님은 '이제부터 내가 네 아빠다. 나 아빠라고 불러'라고 하셨다\"고 했다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "메모리 오르니 \"가격 낮춰라\" 압박·사양 조절도..K디스플레이 기회?",
+    "link": "https://www.mt.co.kr/industry/2026/10/18/2026101612535039594",
+    "published_at": "2026-10-17T22:30:00Z",
+    "category": "economy",
+    "description": "메모리 가격 등에 디스플레이 판가 인하 압박↑…국내 기업 프리미엄 경쟁력 부각 메모리 반도체(이하 메모리) 가격 급등으로 디스플레이업계의 패널 가격 인하 부담이 커졌다. 플래그십(최상위급) 스마트폰 제조원가에서 메모리 비중이 디스플레이의 6배에 육박하면서 일부 제조사를 중심으로 디스플레이 사양을 낮추는 움직임도 나타났다. 삼성디스플레이와 LG디스플레이 등 국내 디스플레이 기업들은 프리미엄 OLED(유기발광다이오드) 시장에서 확보한 경쟁력을 바탕으로 가격 인하 압박에 대응할 여력이 상대적으로 크다는 분석이다. 18일 시장조사업체 유비리서치에 따르면 올해 하반기 플래그십 스마트폰 제조원가에서 메모리가 차지하는 비중은 40%대까지 높아진 반면 디스플레이 비중은 한 자릿수대로 낮아졌다. 지난해 초까지 비슷한 수준이었던 두 부품의 원가 비중은 1년여 만에 6배 가까이 벌어졌다. 메모리는 AP(애플리케이션 프로세서)와 카메라를 제치고 플래그십 스마트폰 제조원가에서 가장 큰 비중을 차지하는 부…"
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "'이럴수가' KIA 선수단 전체 감기 걸렸다니... 뒷이야기 알고보니 '투혼' 있었다 [준PO1 현장]",
+    "link": "https://www.mt.co.kr/sports/2026/10/18/2026101710573025403",
+    "published_at": "2026-10-17T22:26:00Z",
+    "category": "economy",
+    "description": "KIA 타이거즈의 외국인 에이스 제임스 네일(33)이 준플레이오프(5전 3선승제) 1차전에서 승리 투수가 된 소감을 밝혔다. 무엇보다 선수단이 감기로 고생하고 있지만, 이를 이겨내는 투혼을 발휘하고 있다며 공을 동료들에게 돌렸다. 네일은 17일 광주-KIA 챔피언스필드에서 열린 2026 신한 SOL KBO 포스트시즌 LG 트윈스와 준플레이오프 1차전에 선발 등판, 7이닝 4피안타(1피홈런) 2볼넷 6탈삼진 1실점(1자책) 호투를 펼치며 팀의 5-1 승리를 이끌었다. 네일은 지난 9일 창원 NC전을 끝으로 정규시즌을 마친 뒤 8일간 충분한 휴식을 취했다. 그리고 이날 마운드에 올라 쾌조의 역투를 펼치며 포스트시즌 개인 통산 3번째 승리를 수확했다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "\"부도덕 행위\" 외국인 남녀 사형시킨 사우디...\"사전통보 없었다\" 발칵",
+    "link": "https://www.mt.co.kr/world/2026/10/18/2026101807091557305",
+    "published_at": "2026-10-17T22:15:03Z",
+    "category": "economy",
+    "description": "사우디아라비아의 이슬람 성지 메카에 있는 모스크에서 부도덕한 행위를 저지른 혐의로 방글라데시 국적 남녀 2명이 사형에 처해졌다. 15일(현지시간) 인디아투데이와 방글라데시포스트 등 외신에 따르면 사우디아라비아 내무부는 지난 14일 메카 지역에서 방글라데시 국적의 나즈룰 이슬람 압둘 바시르와 시티 아크타르에 대한 사형을 집행했다고 발표했다. 두 사람은 메카의 한 모스크에서 부도덕한 행위를 저지른 혐의로 체포돼 재판에 넘겨졌다. 사우디 법원은 이들에게 사형을 선고했다. 법원은 이들 행위가 종교시설의 신성함을 훼손한 중대한 범죄라고 판단해 이슬람법상 재량형인 '타지르'(Ta'zir)를 적용했다. 타지르는 범죄의 성격과 상황 등을 고려해 법관이 형벌을 정하는 제도다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "\"김민재 엄청 강했다, 다음 아스널전도 선발?\" 독일 현지 극찬... \"필요할 때마다 믿음직\" 뮌헨도 6-1 대승",
+    "link": "https://www.mt.co.kr/sports/2026/10/18/2026101806440360726",
+    "published_at": "2026-10-17T22:13:41Z",
+    "category": "economy",
+    "description": "한국 축구대표팀 '괴물 수비수' 김민재(29·바이에른 뮌헨)가 독일 현지의 극찬을 받았다. 뮌헨은 18일(한국시간) 독일 뮌헨의 알리안츠 아레나에서 열린 RB라이프치히와 2026~2027시즌 독일 분데스리가 6라운드 홈 경기에서 6-1 대승을 거뒀다. 이로써 리그 선두 뮌헨은 4승2무(승점 14)를 기록했다. 최근 분데스리가와 유럽축구연맹(UEFA) 챔피언스리그(UCL)에서 2경기 연속 승리를 챙기지 못했던 뮌헨은 라이프치히를 상대로 화력을 폭발시키며 분위기 반전에 성공했다. 주인공은 루이스 디아스였다. 전반 12분 선제골을 터뜨린 데 이어 후반 2분과 24분에도 골망을 흔들며 해트트릭을 완성했다. 알렉산다르 파블로비치, 마이클 올리세, 해리 케인도 한 골씩 보탰다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "[단독]말로만 '크레딧 빌드업'...정책대출 다 갚아도 은행 이용 2년새 30%↓",
+    "link": "https://www.mt.co.kr/finance/2026/10/18/2026101514372010214",
+    "published_at": "2026-10-17T22:00:00Z",
+    "category": "economy",
+    "description": "은행 이용 비중 16.7% 불과…정책금융 재이용은 은행의 4.3배 상환능력 입증한 차주들 정책금융에 고착…재정 부담 정책서민금융을 모두 갚은 뒤 1년 이내 신용대출을 받은 사람 가운데 은행권 신용대출을 이용한 비중이 지난해 16.7%에 그친 것으로 나타났다. 올해 상반기 정책서민금융 완제자 중 정책서민금융 재이용자는 은행권 신용대출 이용자의 4.3배에 달했다. 정책대출 성실상환을 통해 신용 이력을 쌓은 후 은행권으로 이동시킨다는 정부의 '크레딧빌드업' 취지가 실현되지 못하고 있단 지적이 나온다. 18일 국회 정무위원회 소속 박민규 더불어민주당 의원이 서민금융진흥원으로부터 제출받은 자료를 분석한 결과, 직전 연도에 정책서민금융을 상환하고 2025년 신용대출을 받은 차주는 20만1903명이었다. 대출금액은 4조6504억 원으로 집계됐다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "[단독]정책대출 다 갚아도 신용점수 그대로… '잘 갚은 이력' 어디에",
+    "link": "https://www.mt.co.kr/finance/2026/10/18/2026101515030594759",
+    "published_at": "2026-10-17T22:00:00Z",
+    "category": "economy",
+    "description": "정책서민금융 완제자 신용평점 변화 분석 대출개설 시점 681.0점 → 완제 후 1년 618.8점 \"상환 능력과 의지, 신용평가에 반영해야\" 정책서민금융을 성실하게 갚았지만 신용평가점수가 오히려 떨어지는 일이 발생하고 있다. 정책서민금융을 모두 갚은 중·저신용자는 일반적인 은행 고객보다 대출금을 안 갚을 위험이 낮았음에도 이같은 상환 능력이 신용평가에 반영되지 않았다. 서민금융진흥원은 중·저신용자의 상환 능력을 충분히 반영할 수 있는 대안신용평가 모형을 개발 중이다. 18일 박민규 더불어민주당 의원이 서민금융진흥원과 코리아크레딧뷰로(KCB)로부터 제출받은 자료에 따르면, KCB 신용평점 701~740점대에서 은행 대출을 이용한 정책서민금융 완제자의 불량률은 1.60%다. 같은 점수대의 일반 은행 차주 불량률인 3.13%의 절반이다. 완제자란 정책서민금융 상품을 개설했다가 사고 없이 해지한 고객을 뜻한다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "불닭·신라면 날고, 내수는 주춤…식품업계 3분기 실적도 '해외'가 가른다",
+    "link": "https://www.mt.co.kr/living/2026/10/18/2026101511584592963",
+    "published_at": "2026-10-17T22:00:00Z",
+    "category": "economy",
+    "description": "주요 8개사 중 6곳 영업익 증가 전망…가격 인상 효과 속 내수 부진은 과제 국내 주요 식품기업들이 올해 3분기에도 글로벌 K푸드 인기에 힘입어 실적 개선세를 이어갈 전망이다. 특히 해외 사업 비중이 큰 삼양식품과 오리온, 농심이 매출 성장을 주도할 것으로 예상된다. 다만 내수 부진과 원자재 부담이 이어지는 가운데 원화 강세가 수출 기업의 수익성에 미칠 영향도 변수로 꼽힌다. 18일 금융정보업체 에프앤가이드 등 증권가 컨센서스(실적 전망치)에 따르면 주요 식품기업 8곳 중 6곳의 3분기 영업이익이 전년 동기 대비 늘어날 전망이다. 삼양식품은 불닭 브랜드 인기에 힘입어 매출 8190억원, 영업이익 1871억원으로 각각 29.6%, 42.9% 증가할 것으로 예상된다. 신라면을 앞세운 농심도 매출 9294억원, 영업이익 622억원으로 각각 6.7%, 14.5% 증가할 것으로 관측된다. 빙그레와 롯데웰푸드의 영업이익 역시 전년 동기 대비 각각 30%, 24.4% 늘어날 것으로 예상된다.…"
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "굴 껍데기가 비료·탈취제로…친환경 탄소저감 기술 뜬다",
+    "link": "https://www.mt.co.kr/future/2026/10/18/2026101414054462577",
+    "published_at": "2026-10-17T22:00:00Z",
+    "category": "economy",
+    "description": "[인터뷰]신현용 카본엔네이처 대표 [이 기사에 나온 스타트업에 대한 보다 다양한 기업정보는 유니콘팩토리 빅데이터 플랫폼 '데이터랩'에서 볼 수 있습니다.] 국내에서 해마다 나오는 굴 패각(껍데기)은 약 30만톤이다. 해양수산부에 따르면 이 가운데 사료·비료로 재활용되는 일부를 빼고 연간 약 23만톤이 처리되지 못한다. 기존 자원화 방식은 대부분 패각을 고온에서 굽는 소성 공정에 의존한다. 에너지 사용량이 많고 공정에서 탄소가 추가로 배출된다. 카본엔네이처는 소성 공정을 거치는 대신 상온·상압 발효 공정을 통해 굴 패각에 든 이산화탄소를 미생물로 추출·전환해 식물영양제와 악취저감제, 양식장 수질개선제를 만든다. 신현용 카본엔네이처 대표는 머니투데이 스타트업 미디어 플랫폼 '유니콘팩토리'와 인터뷰에서 \"우리 기술은 단순히 굴 패각에서 탄소를 추출하는 게 아니라 굴 패각의 탄산염계 자원과 미생물 기반 탄소전환 기술을 결합해 산업용 원료로 전환하는 기술\"이라고 설명했다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "턱시도 대신 갑옷 입고 '전생 로맨스'…中 예비부부 사로잡은 웨딩 숏폼[트민자]",
+    "link": "https://www.mt.co.kr/world/2026/10/18/2026101712120263888",
+    "published_at": "2026-10-17T21:50:03Z",
+    "category": "economy",
+    "description": "트민자는 '트렌드에 민감한 기자'의 줄임말입니다. 빠르게 변하는 세상 속에서 눈에 띄는 흐름을 포착해 그 안에 담긴 사람들의 마음과 시대의 이야기를 들여다봅니다. #중국 쑤저우의 한 촬영장. 철제 갑옷을 입고 꿩 깃털 장식 투구를 쓴 남성이 말 위에 앉아 아련한 눈빛으로 먼 곳을 바라본다. 고전 드라마의 한 장면 같지만 촬영장의 주인공은 전문 배우가 아닌 예비 신랑 해리 선이다. 이 장면을 위해 머리에 가발을 붙이고 온종일 땀을 흘렸다는 그는 \"내 연애 소설의 주인공이 되는 데 이렇게 많은 인력이 동원될 줄은 몰랐다\"며 웃었다. 두 달 뒤 이들 부부가 주인공으로 출연한 2분30초짜리 숏폼 드라마가 결혼식장 스크린에 상영되자 하객들의 환호가 터져나왔다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "\"이강인 항상 공 받으려 했다\" 공격포인트 없어도 좋은 평가... 아틀레티코도 1-0 짜릿승, 89분 극장골 터졌다",
+    "link": "https://www.mt.co.kr/sports/2026/10/18/2026101806024775275",
+    "published_at": "2026-10-17T21:36:49Z",
+    "category": "economy",
+    "description": "한국 축구대표팀 '에이스' 이강인(25)이 공격포인트 없이도 현지에서 좋은 평가를 받았다. 소속팀 아틀레티코 마드리드도 경기 막판 터진 극장골을 앞세워 짜릿한 승리를 챙겼다. 아틀레티코는 17일(한국시간) 스페인 바르셀로나의 RCDE 스타디움에서 열린 에스파뇰과 2026~2027시즌 스페인 프리메라리가 9라운드 원정 경기에서 1-0으로 승리했다. 승부는 경기 막판에 갈렸다. 0-0으로 팽팽하던 후반 44분 알렉스 바에나가 훌리안 알바레스의 도움을 받아 극적인 결승골을 터뜨렸다. 이날 이강인은 4-3-1-2 포메이션의 공격형 미드필더로 선발 출전했다. 최전방의 조너선 데이비드와 아데몰라 루크먼을 지원하는 역할을 맡았다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "\"교사 달랬더니 경찰 왔다\" 세계 곳곳 성난 청년들 거리로, 왜",
+    "link": "https://www.mt.co.kr/world/2026/10/18/2026101511310581011",
+    "published_at": "2026-10-17T21:31:00Z",
+    "category": "economy",
+    "description": "[WHY] 기회부족·정치권 무책임에 시위…강경 진압에 과격화 조짐 \"교사를 달라고 했더니 경찰을 보냈다.\" 프랑스 고교생 단체 대표 빌렐 나르지시(17)는 지난 14일(현지시간) 프랑스 매체 르몽드에 이같이 말했다. 교사 부족과 열악한 학교시설에 항의하며 시작된 시위는 경찰의 강경 진압으로 미성년자들이 중상을 입으면서 더 확대되고 격렬해지고 있다. 프랑스 전역에서 정부추산 약 16만명, 주최측 추산으로 48만명이 거리로 나섰다. 학생들은 충분히 교육 받지 못하고 더 나은 미래를 기대하기 어렵다고 주장한다. 이 같은 학생 시위는 유럽 각국을 넘어 중남미 등으로 확산세다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "\"장사만 하러 온 게 아니다\"…베트남 이웃 된 롯데",
+    "link": "https://www.mt.co.kr/living/2026/10/18/2026101416072339853",
+    "published_at": "2026-10-17T21:20:00Z",
+    "category": "economy",
+    "description": "[2026 K웨이브 올라탄 K이니셔티브 현장을 가다] 롯데백화점·롯데마트 K브랜드 제품이 전 세계인의 일상을 파고 들었다. 우리 소비재 기업의 목표는 수출 확대에 그치지 않는다. 현지 거점에 공장을 짓고, 혁신 물류 시스템을 구축하고, 현지인의 구매 데이터를 분석해 특화 제품을 선보인다. 현지화 노력도 병행한다. 모두 지속 가능한 성장을 위해서다. 해외 진출(K브랜드 1.0)을 통해 사업을 확장(K브랜드 2.0)하고, 이제 현지 생태계와 결합 단계로 진입한 'K브랜드 3.0' 시대를 맞아 글로벌 격전지에서 치열한 생존 전략을 펼치는 우리 기업들의 활약상을 짚어본다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "잘 팔리던 '700종신' 사라졌는데 오히려 기회?…불붙는 종신보험 판매전",
+    "link": "https://www.mt.co.kr/finance/2026/10/18/2026101516060317274",
+    "published_at": "2026-10-17T21:10:00Z",
+    "category": "economy",
+    "description": "최근 '700종신' 유사상품도 판매 중단, 점유율 빼앗기에 예민해진 생보 시장 최근 보험시장에서 '700종신보험' 판매가 중단되면서 생명보험사들이 새로운 종신보험 상품으로 새판 짜기에 나섰다. 사망보장에 생전 자금 인출이나 보험료 환급 기능을 결합한 상품을 잇달아 선보이고 있다. 기존 '700종신' 판매에 적극적이었던 보험사는 대체 상품 확보가 필요하고, '700종신'이 없었던 보험사는 강력한 상품이 사라진 시장에서 점유율 확대를 위해 새 상품을 앞다퉈 내놓는 분위기다. 18일 보험업계에 따르면 최근 삼성생명은 '삼성 골든종신보험'을 개정하고 암 보장과 자금 인출 기능을 강화했다. 한화생명은 '한화생명 필요할 때 쓰는 종신보험'을 출시했고, 흥국생명도 '플렉스 리턴100종신보험'을 선보였다. 생보사마다 연일 종신보험 신상품을 이렇게 내놓은 경우는 이례적이다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "아시안게임 병역특례 논란 속…한국체대 총장 \"선수 진로 위해 필요\"",
+    "link": "https://www.mt.co.kr/society/2026/10/18/2026101722510880186",
+    "published_at": "2026-10-17T21:10:00Z",
+    "category": "economy",
+    "description": "체육 분야 병역특례 제도를 둘러싼 논란이 이어지는 가운데 문원재 한국체육대학교 총장이 선수들의 진로를 위해 제도가 필요하다는 입장을 밝혔다. 국민 10명 중 7명 이상이 예술·체육 분야 병역특례 제도를 축소하거나 폐지해야 한다고 답한 여론조사 결과와는 온도 차를 보인다. 뉴시스에 따르면 문 총장은 지난 16일 국회 교육위원회 국정감사에서 정성국 국민의힘 의원이 병역특례에 관한 견해를 묻자 \"운동하는 학생들에게 있어서는 진로를 위해 필요하다\"며 \"매우 필요하다고 생각한다\"고 답했다. 다만 종목별 특성을 고려해 제도를 일괄적으로 적용하기보다는 세부적인 검토가 필요하다고 강조했다. 국민 여론이 폐지까지는 아니더라도 축소해야 한다는 방향이라는 지적에는 \"국민 여론에 동의하기는 한다\"면서도 제도 개선을 위한 검토가 필요하다는 입장을 거듭 밝혔다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "[오늘 날씨] 일요일 전국 '천둥번개' 강한 비…\"우산 챙기세요\"",
+    "link": "https://www.mt.co.kr/society/2026/10/18/2026101715315751827",
+    "published_at": "2026-10-17T21:00:00Z",
+    "category": "economy",
+    "description": "일요일인 18일 전국에 돌풍과 천둥·번개를 동반한 비가 내릴 전망이다. 일부 지역에서는 강한 바람과 함께 많은 비가 쏟아질 것으로 보여 시설물 관리와 해상 안전에 유의해야겠다. 기상청은 이날 새벽 인천과 경기 북부, 제주도에서 시작된 비가 오전 중 중부지방으로 번지고, 오후에는 전국 대부분 지역으로 확대되겠다고 예보했다. 비는 중부지방의 경우 밤에 대부분 그치겠지만 남부지방은 이튿날 아침까지, 제주도는 이튿날 낮까지 이어지는 곳이 있겠다. 지역별 예상 강수량은 서울·인천·경기와 서해5도, 대전·세종·충남, 충북, 전북이 30~80㎜다. 강원 내륙·산지는 20~70㎜, 강원 동해안은 5~20㎜로 예상된다. 광주·전남에는 20~60㎜, 제주도에는 10~60㎜의 비가 내리겠다. 경북 중·북부 내륙과 북동 산지, 부산·울산·경남은 10~50㎜, 대구와 경북 남부 내륙·동해안, 울릉도·독도는 5~40㎜로 전망된다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "\"中, 로봇 기술로 AI 패권 경쟁에서 우위 차지할 것\"",
+    "link": "https://www.mt.co.kr/world/2026/10/18/2026101613360371075",
+    "published_at": "2026-10-17T21:00:00Z",
+    "category": "economy",
+    "description": "[선데이 모닝 인사이트] 카네기 국제평화재단 스콧 싱어 중국 AI 이니셔티브 연구원·파블로 즈베드호로드스키 기술 및 국제관계 프로그램 선임 연구 분석가, 포린어페어스 기고문 '중국 로봇이 인공지능 경쟁의 승패를 좌우할 수 있다' 트럼프 2기 출범, AI의 발달, 기후변화 등 글로벌 사회의 불확실성이 커졌습니다. 는 매주 일요일 오전, 깊이 있는 시각과 예리한 분석으로 불확실성 커진 세상을 헤쳐나갈 지혜를 전달합니다. 인공지능(AI)을 실제 물리적 환경에 적용한 '피지컬 AI(Physical AI)' 기술이 급성장하면서 향후 미·중 간 AI 패권 경쟁에서 중국이 우위를 차지할 수 있다는 분석이 나왔다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "AI로 경제 커져도 세수는 줄어든다?…IMF가 던진 '과세 딜레마'",
+    "link": "https://www.mt.co.kr/world/2026/10/18/2026101515475292816",
+    "published_at": "2026-10-17T21:00:00Z",
+    "category": "economy",
+    "description": "[선데이모닝인사이트] AI와 조세제도 트럼프 2기 출범, AI의 발달, 기후변화 등 글로벌 사회의 불확실성이 커졌습니다. 는 매주 일요일 오전, 깊이 있는 시각과 예리한 분석으로 불확실성 커진 세상을 헤쳐나갈 지혜를 전달합니다. 인공지능(AI)이 인간의 일자리를 줄일 수 있다는 전망이 나오는 가운데 기존 조세제도에도 변화가 필요하다는 목소리가 나온다. 사람의 소득에 부과하는 기존 과세 체계를 유지하는 경우 세수가 크게 줄어들 수 있어서다. 반면 일자리가 줄어드는 경우 재교육과 복지 등으로 정부 재정 지출 필요성은 확대될 가능성이 크다. IMF(국제통화기금)도 AI가 창출한 부가가치를 어떻게 과세할 것인지가 경제정책의 과제로 보고 있다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "불황에 날개 돋친듯 팔리는 3만원 청바지…주식을 사볼까",
+    "link": "https://www.mt.co.kr/stock/2026/10/18/2026101721565949476",
+    "published_at": "2026-10-17T21:00:00Z",
     "category": "stockMarket",
-    "description": null
+    "description": "[반준환의 미국 스몰캡(43)]콘투어브랜즈-20달러대 청바지 랭글러(Wrangler) 제조업체 월마트 24달러 청바지의 힘→불황마다 점유율 확대 최근 미국 헤지펀드 자금유입으로 주가상승중 [편집자주] 숫자 뒤 스토리를 읽어야 진짜 투자가 보입니다. 한국주식도 미국 스몰캡 생태계를 알면 α를 낼 수 있습니다. 기술의 언어를 투자의 언어로 풀어내는 전문기자와 글로벌 특화분석 원리서치의 투자 나침반으로 여러분을 안내하겠습니다. 반보(半步)만 앞서면 남들이 모르는 길이 보일겁니다. 난해한 기술주 투자, 이제 쉽고 재미있게 즐겨보세요. 불황에는 청바지가 잘 팔린다는 말이 있다. 지갑이 얇아진 소비자들이 비싼 옷 대신 싸고 튼튼한 청바지 한 벌로 버티기 때문이다. 겉으로 보면 지금 미국 경제는 이 말과 거리가 멀다. AI(인공지능) 투자 열풍에 2분기 기업 설비투자는 연 9% 늘었다. 주가 상승으로 자산이 불어난 부유층이 지갑을 열면서 2분기 소비지출도 연 3.8% 증가했다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "\"GIST '반도체 혁신기술' 2종, 소부장 기업들 러브콜 기대\"",
+    "link": "https://www.mt.co.kr/future/2026/10/18/2026101516554849456",
+    "published_at": "2026-10-17T21:00:00Z",
+    "category": "economy",
+    "description": "[2026 K-프리미어 딥테크 페스타] KISTI 사업화 특화 AI '아폴로'로 GIST 기술 분석해보니 김복현 수석연구원팀 '글라스 기판용 소재', SKC·이녹스첨단소재 등 수요처 추천 임현섭 교수팀 '2D 반도체 박막 합성 기술', DB하이텍·유진테크 협력 가능성 [스타트업에 대한 보다 다양한 기업정보는 유니콘팩토리 빅데이터 플랫폼 '데이터랩'에서 볼 수 있습니다.] 광주과학기술원(GIST)이 개발한 차세대 반도체용 초저유전 유리소재와 대면적 2차원(2D) 반도체 합성 기술이 AI(인공지능)·고성능컴퓨팅(HPC) 반도체 시장에서 사업화 가능성을 인정받았다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "성실히 빚 갚은 청년들…신한미소금융재단, 자립 첫 종잣돈 보탰다",
+    "link": "https://www.mt.co.kr/finance/2026/10/18/2026101617023570259",
+    "published_at": "2026-10-17T21:00:00Z",
+    "category": "economy",
+    "description": "#부산에 사는 20대 청년 A씨는 아버지의 갑작스러운 교통사고 이후 가족의 생계를 책임져 왔다. 계약직 근무를 마친 뒤 안정적인 공기업 취업을 준비했지만 생활비와 학원 수강료를 함께 감당하기는 쉽지 않았다. 지난 4월 신한미소금융재단의 청년미래이음대출로 취업 준비 자금을 마련한 A씨는 대출금을 연체 없이 갚았고, 지난 12일 신한재단으로부터 자산형성지원금 30만원을 받았다. 16일 금융권에 따르면 신한재단은 지난 12일 A씨와 같은 청년대출 성실상환 고객 444명에게 자산형성지원금 총 8002만원을 지급했다. 신청자 480명 가운데 약 93%가 받았으며, 1인당 평균 지급액은 약 18만원이다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "\"내가 이렇게 게으르다니\"…미국 Z세대 덮친 '배달 죄책감'",
+    "link": "https://www.mt.co.kr/world/2026/10/18/2026101722384464775",
+    "published_at": "2026-10-17T21:00:00Z",
+    "category": "economy",
+    "description": "미국 젊은 층 사이에서 배달 음식을 주문한 뒤 지출을 후회하거나 스스로를 탓하는 이른바 '배달 죄책감(delivery guilt)' 현상이 나타나고 있다. 음식값에 각종 수수료까지 더해지면서 예상보다 큰 지출에 부담을 느끼는 이들이 늘고 있다는 분석이다. 지난 15일(현지 시간) 영국 일간 가디언에 따르면 코로나19 팬데믹 이후 우버이츠 등 배달 앱 이용이 일상화된 가운데 미국 젊은 층 사이에서 배달 음식 소비에 대한 죄책감이 확산하고 있다. 마케팅 업체 파이낸스버즈가 뱅크오브아메리카와 함께 실시한 조사에서는 Z세대 응답자의 절반이 음식 배달에 돈을 쓰는 것을 부끄럽게 느낀다고 답했다. 일부는 친구나 가족에게 실제 지출액을 숨기기 위해 거짓말을 한다고 밝혔다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "살해 용의자 DNA 나왔는데…흉기까지 잃어버린 헌병대[뉴스속오늘]",
+    "link": "https://www.mt.co.kr/society/2026/10/18/2026101617031951200",
+    "published_at": "2026-10-17T21:00:00Z",
+    "category": "economy",
+    "description": "육군 상사 염순덕 피살 사건 뉴스를 통해 우리를 웃고 울렸던 어제의 오늘을 다시 만나봅니다. 2024년 10월18일. 23년 전 군부대 회식을 마치고 귀가하다 살해된 육군 부사관의 유족에게 국가가 9000만원을 배상해야 한다는 법원 판결이 나왔다. 당시 수사기관은 현장에서 발견된 유력 용의자들의 담배꽁초를 수사 단서에서 제외했고 살해 도구로 추정되는 몽둥이마저 분실했다. 15년 만에 재수사가 이뤄지면서 용의자들 알리바이가 조작된 사실까지 드러났지만 누구도 처벌받지 않았다. 결국 국가의 배상 책임은 인정됐지만 누가, 왜 군인을 살해했는지는 밝혀지지 않았다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "금융위 2인자에 신진창 임명…후속 인사 속도 붙는다",
+    "link": "https://www.mt.co.kr/finance/2026/10/18/2026101614402189519",
+    "published_at": "2026-10-17T21:00:00Z",
+    "category": "economy",
+    "description": "신진창 금융위원회 사무처장이 부위원장으로 승진하면서 후속 1급 인사에 관심이 쏠린다. 사무처장 자리가 공석이 된 데다 기존 1급 간부들의 외부 이동 가능성도 맞물려 국장급의 연쇄 승진으로 이어질 수 있다는 전망이 나온다. 금융위 핵심 보직에 포진한 행정고시 40~42회 국장들의 거취가 주목된다. 이재명 대통령은 지난 16일 금융위 부위원장에 신 사무처장을 임명했다. 신 부위원장은 행정고시 40회로 공직에 입문해 금융산업국장과 금융정책국장 등 주요 보직을 거쳐 지난해 사무처장에 올랐다. 이번 인사로 금융위 사무처장 후임 인선도 본격화할 전망이다. 기존 1급 간부가 사무처장으로 이동하면 빈자리를 채울 후속 인사가 필요하다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "고용 쇼크에도 안 내린 장기금리…'가격 묻지 않던 큰손'이 떠났다",
+    "link": "https://www.mt.co.kr/world/2026/10/18/2026101611034719000",
+    "published_at": "2026-10-17T21:00:00Z",
+    "category": "economy",
+    "description": "[선데이 모닝 인사이트] 트럼프 2기 출범, AI의 발달, 기후변화 등 글로벌 사회의 불확실성이 커졌습니다. 는 매주 일요일 오전, 깊이 있는 시각과 예리한 분석으로 불확실성 커진 세상을 헤쳐나갈 지혜를 전달합니다. 미국 고용이 식자 연방준비제도(Fed·연준)의 추가 금리 인상 전망은 한풀 꺾였다. 물가가 다시 뛰자 그 전망은 되살아났다. 단기금리는 그때마다 민감하게 흔들렸다. 하지만 장기금리는 달랐다. 고용 쇼크에도 내려오지 않았고, 물가 쇼크에는 단기금리보다 덜 움직였다. 미국 30년 만기 국채금리는 5%대 중후반에서 버티고 있다. 영국 30년물 국채금리는 6% 선을 넘었고, 프랑스와 일본의 장기금리도 수십 년 만의 고점을 새로 썼다. 투자자들이 국채를 외면하는 것은 아니다. 다만 예전 가격으로는 사지 않겠다는 것이다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "브라질 대선 주요 변수로 떠오른 복음주의 개신교",
+    "link": "https://www.mt.co.kr/world/2026/10/18/2026101514172596779",
+    "published_at": "2026-10-17T21:00:00Z",
+    "category": "economy",
+    "description": "[선데이 모닝 인사이트] 브라질 대선과 복음주의 개신교 트럼프 2기 출범, AI의 발달, 기후변화 등 글로벌 사회의 불확실성이 커졌습니다. 는 매주 일요일 오전, 깊이 있는 시각과 예리한 분석으로 불확실성 커진 세상을 헤쳐나갈 지혜를 전달합니다. 오는 25일 결선투표 앞둔 브라질 대통령 선거에서 복음주의 개신교가 핵심 변수 중 하나로 주목받고 있다. 지난 5일 치러진 1차 투표에서는 복음주의 진영의 강한 지지를 받은 플라비우 보우소나루 후보가 현직 대통령인 루이스 이나시우 룰라 후보를 앞섰다. < 선데이 모닝 인사이트>는 브라질에서 복음주의 개신교의 정치적 영향력이 커진 배경과 향후 대통령 결선투표에 미칠 영향을 살펴봤다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "[르포] VIP 행사 4번에 연매출 10% 이상…호치민 롯데百·마트의 '돈 버는 현지화'",
+    "link": "https://www.mt.co.kr/living/2026/10/18/2026101318241812640",
+    "published_at": "2026-10-17T21:00:00Z",
+    "category": "economy",
+    "description": "[2026 K웨이브 올라탄 K이니셔티브 현장을 가다] 롯데백화점·롯데마트 K브랜드 제품이 전 세계인의 일상을 파고 들었다. 우리 소비재 기업의 목표는 수출 확대에 그치지 않는다. 현지 거점에 공장을 짓고, 혁신 물류 시스템을 구축하고, 현지인의 구매 데이터를 분석해 특화 제품을 선보인다. 현지화 노력도 병행한다. 모두 지속 가능한 성장을 위해서다. 해외 진출(K브랜드 1.0)을 통해 사업을 확장(K브랜드 2.0)하고, 이제 현지 생태계와 결합 단계로 진입한 'K브랜드 3.0' 시대를 맞아 글로벌 격전지에서 치열한 생존 전략을 펼치는 우리 기업들의 활약상을 짚어본다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "석유+가스공사 통합, 발전 5사 하나로…에너지공기업 통폐합 국감 쟁점",
+    "link": "https://www.mt.co.kr/economy/2026/10/18/2026101616103482038",
+    "published_at": "2026-10-17T21:00:00Z",
+    "category": "economy",
+    "description": "오는 19일 에너지 공기업 국정감사가 진행되는 가운데 공기업 통폐합과 전기요금, 재무구조 개선 등이 주요 쟁점으로 떠오를 전망이다. 발전 5사 통합과 한국석유공사·가스공사 통합의 적절성, 한국전력 등 에너지 공기업의 부채 해소 방안, 전기요금 개편 방향 등을 놓고 여야 공방이 벌어질 것으로 보인다. 18일 정부와 국회에 따르면 오는 19일에는 산업통상자원중소벤처기업위원회와 기후에너지환경노동위원회에서 각각 에너지 관련 공기업의 국감이 진행된다. 산중위에는 산업통상부 산하 에너지 공공기관인 석유공사, 가스공사, 대한석탄공사, 한국석유관리원, 한국광해광업공단 등이 참석한다. 기후환노위에는 한국전력, 한국수력원자력, 발전 5사(한국남동·남부·중부·서부·동서발전) 등이 국감을 받는다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "\"나처럼 힘들게 살잖아?\"…2030 홀린 '치이카와' 반전 매력",
+    "link": "https://www.mt.co.kr/society/2026/10/18/2026101514270955950",
+    "published_at": "2026-10-17T20:48:00Z",
+    "category": "economy",
+    "description": "[오엠지] 먼작귀(치이카와)의 반전매력에 빠진 2030 '요즘 애들'이라는 말만으론 설명하기 힘든 변화가 곳곳에서 일어납니다. MZ세대의 '지금'은 어떨지, '오'늘의 '엠지'세대 이야기를 같이 들어보실까요. \"혹시 '한정선랏코'가 남아있을까 해서 와봤어요. 역시 없네요.\" 지난 14일 오전 서울 용산아이파크몰에 있는 '치이카와샵'은 평일 오전인데도 방문객들로 붐볐다. 오전 10시30분 개장과 동시에 줄 서 있던 시민들은 매장으로 들어섰고, 새로운 대기 인원이 자리를 채웠다. 최근 2030대 사이에서 일본 캐릭터 '치이카와'가 인기를 끌고 있다. '먼가 작고 귀여운 녀석'이라는 뜻의 '먼작귀'로도 불리는 치이카와는 애니메이션과 영화뿐 아니라 캐릭터 문구와 중고거래 시장까지 장악하며 인기를 얻고 있다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "전기먹는 하마 AI 반도체 열·손실 잡는다…'특수유리 기판' 뭐길래",
+    "link": "https://www.mt.co.kr/future/2026/10/18/2026101400322970932",
+    "published_at": "2026-10-17T20:30:00Z",
+    "category": "economy",
+    "description": "[2026 K-프리미어 딥테크 페스타]⑧ 김복현 광주과학기술원(GIST) 고등광기술연구원 수석연구원 '반도체 글라스 기판용 저유전 유리소재 기술' 개발 구리 배선 대신 빛으로 연결…광인터커넥트로 확장 KAIST(한국과학기술원)를 비롯한 4대 과학기술원이 보유한 딥테크(첨단기술)와 사업화 유망기술을 한자리에서 만나볼 수 있는 공동 설명회가 코엑스에서 열린다. 머니투데이 스타트업 전문 미디어 플랫폼 유니콘팩토리는 오는 29일 서울 삼성동 코엑스 B홀에서 '2026 K-프리미어 딥테크 페스타'를 개최한다. 과학기술정보통신부와 KAIST, 대구경북과학기술원(DGIST), 울산과학기술원(UNIST), 광주과학기술원(GIST)이 공동 개최하는 이번 행사는 4대 과기원의 우수 연구개발(R&D) 성과를 기업에 소개하고 기술이전을 촉진하기 위해 마련됐다. 이를 통해 기업의 기존 제품과 서비스를 고도화하고 글로벌 경쟁력을 높인다는 취지다. 행사 무대에 오를 유망기술을 개발한 과기원 교수들을 만나 핵…"
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "'추강대엽이 맞았다' CLE가 인정한 전설, 추신수 19일 ALCS 시구자 등판 \"PS서 날 떠올려줘 큰 영광\"",
+    "link": "https://www.mt.co.kr/sports/2026/10/18/2026101718395454812",
+    "published_at": "2026-10-17T20:01:00Z",
+    "category": "economy",
+    "description": "SSG 랜더스 구단주 보좌역 겸 육성 총괄을 맡고 있는 추신수(44)가 과거의 영광을 되살릴 수 있게 됐다. 메이저리거 시절 친정팀인 클리블랜드 가디언스의 가을야구에 시구자로 특별 초청돼 마운드에 오르게 됐다. 클리블랜드 가디언스는 19일(한국시간) 프로그레시브 필드에서 열리는 탬파베이 레이스와 2026 메이저리그(MLB) 아메리칸리그 챔피언십시리즈(ALCS) 5차전 시구자로 추신수를 초청했다. 당초 17일 열릴 예정이었던 4차전 경기가 우천으로 순연되면서 추신수의 시구가 극적으로 성사됐다. 클리블랜드 구단은 16일 경기 시구자로 추신수를 낙점하고 초청을 진행했지만 추신수는 오래전부터 예정돼 있던 둘째 아들의 대학교 사전 견학 일정으로 인해 정중히 고사할 수밖에 없었다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "'개인 최초 역사' 김도영 \"공이 수박처럼 보이나요?\" 답은 아니었다 [준PO1 현장]",
+    "link": "https://www.mt.co.kr/sports/2026/10/18/2026101720353697279",
+    "published_at": "2026-10-17T20:01:00Z",
+    "category": "economy",
+    "description": "KIA 타이거즈 슈퍼스타 김도영(23) 또 한 번 LG 트윈스를 울렸다. 준플레이오프(5전 3선승제) 1차전부터 홈런 2개를 포함해 4타점으로 맹위를 떨치며 팀 승리를 이끌었다. 김도영은 17일 광주-KIA 챔피언스필드에서 펼쳐진 LG와 2026 신한 SOL KBO 포스트시즌 준플레이오프 1차전에서 3번 타자 겸 3루수로 선발 출장, 4타석 3타수 2안타(2홈런) 2득점 4타점으로 맹활약하며 팀의 5-1 승리에 큰 힘을 보탰다. LG 염경엽 감독은 앞서 두산 베어스와 와일드카드 1차전에서 승리 후 KIA와 준플레이오프를 앞둔 각오에 관해 \"KIA와 시즌 막판까지 치열한 순위 싸움을 벌였지만, 결정적인 순간마다 김도영에게 다 맞았다. 이번 준플레이오프에서는 김도영을 어떻게 잡느냐가 중요할 것 같다\"며 경계했다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "\"반도체도 이제는 재료 바꿀 때\"…실리콘 한계 넘을 '2차원 소재'",
+    "link": "https://www.mt.co.kr/future/2026/10/18/2026101323470260792",
+    "published_at": "2026-10-17T20:00:00Z",
+    "category": "economy",
+    "description": "[2026 K-프리미어 딥테크 페스타]⑦ 임현섭 광주과학기술원(GIST) 화학과 교수 '고품질 2차원 반도체 박막 합성 기술' 개발 대면적 생산 가능…차세대 반도체 '청신호' KAIST(한국과학기술원)를 비롯한 4대 과학기술원이 보유한 딥테크(첨단기술)와 사업화 유망기술을 한자리에서 만나볼 수 있는 공동 설명회가 코엑스에서 열린다. 머니투데이 스타트업 전문 미디어 플랫폼 유니콘팩토리는 오는 29일 서울 삼성동 코엑스 B홀에서 '2026 K-프리미어 딥테크 페스타'를 개최한다. 과학기술정보통신부와 KAIST, 대구경북과학기술원(DGIST), 울산과학기술원(UNIST), 광주과학기술원(GIST)이 공동 개최하는 이번 행사는 4대 과기원의 우수 연구개발(R&D) 성과를 기업에 소개하고 기술이전을 촉진하기 위해 마련됐다. 이를 통해 기업의 기존 제품과 서비스를 고도화하고 글로벌 경쟁력을 높인다는 취지다. 행사 무대에 오를 유망기술을 개발한 과기원 교수들을 만나 핵심 기술의 경쟁력과 산업적…"
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "중국차, 독일차, 한국차[차이나는 중국]",
+    "link": "https://www.mt.co.kr/opinion/2026/10/18/2026101514593115511",
+    "published_at": "2026-10-17T20:00:00Z",
+    "category": "economy",
+    "description": "차이 나는 중국을 불편부당한 시선으로 바라봅니다. 중국에서 개혁개방 시기(1970년대말~1990년대)를 상징하는 국민차는 폭스바겐의 산타나다. 폭스바겐은 1984년 상하이자동차(SAIC)와 합작사를 세우며 가장 먼저 중국 시장에 진출했고 1991년 이치자동차와도 합작사를 만들었다. 초창기 산타나는 부와 성공의 상징이었고 나중에는 중국 전역의 택시와 공안차량이 산타나로 바뀌었다. 중국 시장을 발판 삼아 오랫동안 성장을 지속해온 독일 자동차 업계에 최근 큰 변화가 생겼다. 중국 전기차 브랜드의 급성장으로 폭스바겐, 메르세데스-벤츠, BMW의 판매량과 영업이익이 큰 폭 감소한 것이다. 중국 시장뿐 아니라 유럽 안방도 중국 자동차가 거침없이 진격하면서 독일 자동차는 사면초가에 직면했다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "\"매물 많지만 안 팔려요\"…강남 아파트값 9주 연속 하락",
+    "link": "https://www.mt.co.kr/estate/2026/10/18/2026101615480958218",
+    "published_at": "2026-10-17T19:50:00Z",
+    "category": "realEstate",
+    "description": "서울 아파트값 상승폭이 2주 연속 둔화한 반면 경기는 상승폭이 확대됐다. 18일 KB국민은행 KB부동산이 발표한 주간KB아파트시장동향에 따르면 서울 아파트 매매가격은 전주 대비 0.14% 상승했다. 전주의 0.15%에 비해 상승 속도가 소폭 둔화했다. 자치구별로 보면 도봉구(0.36%), 종로구(0.30%), 성북구(0.29%), 동대문구(0.29%), 중랑구(0.26%) 등이 상승했다. 반면 강남구(-0.07%), 서초구(-0.02%)는 하락했다. 도봉구는 창동 일대 주요 단지를 중심으로 아파트값 강세가 이어졌다. 다만 매도·매수자간 희망가격 차이로 거래는 정체됐다. 강남구는 8월 셋째주부터 9주 연속 하락세다. 세제 개편 영향으로 매도 물건이 늘고 있지만 매수세가 위축되면서 거래는 뜸한 분위기가 이어지고 있다. 이번주는 개포동 일대 신축 단지와 재건축 추진 단지 등 고가 주택 위주로 약세를 보였다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "[챗집피티]'3억대' 내 집 마련…'3기신도시 첫 입주' 계양신도시 미래가치는",
+    "link": "https://www.mt.co.kr/estate/2026/10/18/2026101613110380031",
+    "published_at": "2026-10-17T19:40:00Z",
+    "category": "economy",
+    "description": "[3기 신도시편] 도시가 변화하고 있습니다. 낡은 건물과 위험한 다리, 들쭉날쭉한 마을이 정비사업으로 다시 움직이기 시작했습니다. '챗집피티'는 이 변화의 한복판을 기록하고 공유합니다. 도시정비사업과 부동산의 '현재'를 쉽고 정확하게 풀어내기 위한 시도로 서울과 수도권 주요 재건축·재개발 구역들의 히스토리와 이슈, 추진 상황, 시장 반응까지 한 번에 정리해 드립니다. 오는 12월 3기 신도시 가운데 처음으로 입주를 시작하는 인천 계양신도시가 수도권 무주택 실수요자들의 관심을 끌고 있다. 전용면적 55~84㎡ 주택을 각각 3억원 후반대, 5억원 후반대에 마련할 수 있다는 점이 가장 큰 매력이다. 서울 집값 부담이 커진 상황에서 내 집 마련의 대안이 될 수 있다는 기대감이 계양신도시를 향하고 있다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "\"신고가 찍었대\" 호가 버티는 집주인들…매수자는 \"아직 안 살래\"",
+    "link": "https://www.mt.co.kr/estate/2026/10/18/2026101611572315422",
+    "published_at": "2026-10-17T19:30:00Z",
+    "category": "economy",
+    "description": "서울 아파트 시장에서 9억원 이하 중저가 아파트까지 신고가 거래가 확산하고 있지만 시장 전반의 거래 회복으로 이어지지는 않고 있다. 강남3구에서 시작된 매물 증가세가 노원·금천 등 외곽으로 번지면서 매도 대기 물량은 쌓이는 반면 거래는 줄어드는 모습이다. 집값 상승 기대를 놓지 않는 매도자와 추가 조정을 기다리는 매수자 간 눈높이 차이가 거래를 가로막고 있다는 분석이다. 부동산 플랫폼 아실에 따르면 16일 기준 서울 아파트 매물은 7만6153건으로 지난달 7만1906건보다 5.9% 증가했다. 성북구가 15.2% 늘어 증가 폭이 가장 컸고 동대문구(13.3%), 마포구(11.0%)도 두 자릿수 증가율을 기록했다. 강남권에 집중됐던 매물 증가세가 비강남권으로 확산하며 서울 전역에서 매도 물량이 늘어나는 추세다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "'벤치 지시 아니었다' KIA 사령탑이 직접 밝힌 'LG 오스틴 고의4구' 진실은? [준PO1 현장]",
+    "link": "https://www.mt.co.kr/sports/2026/10/18/2026101710573927504",
+    "published_at": "2026-10-17T18:47:00Z",
+    "category": "economy",
+    "description": "운명의 준플레이오프(5전 3선승제) 1차전에서 승리를 거둔 KIA 타이거즈의 이범호 감독이 승리 소감을 밝혔다. KIA는 17일 광주-KIA 챔피언스필드에서 열린 LG 트윈스와 2026 신한 SOL KBO 포스트시즌 준플레이오프 1차전 홈 경기에서 5-1로 승리했다. 정규시즌 3위로 준플레이오프에 선착한 KIA는 1차전에서 완승을 거두며 플레이오프 진출을 향한 유리한 고지를 선점했다. 이날 경기의 영웅은 단연 김도영이었다. 김도영은 양 팀이 1-1로 팽팽하던 4회말 1사 주자 없는 상황에서 LG 선발 앤더스 톨허스트의 몸쪽 존 안으로 들어온 초구 속구(149km)를 통타, 좌측 담장을 넘어가는 솔로포를 작렬시켰다. KIA가 2-1로 승부를 뒤집은 순간이었다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "\"44년 만의 WS, 특별한 순간\" NBA 밀워키 벅스, 브루어스 위해 홈 개막전 시간 앞당겼다",
+    "link": "https://www.mt.co.kr/sports/2026/10/18/2026101715334287645",
+    "published_at": "2026-10-17T18:33:00Z",
+    "category": "economy",
+    "description": "미국프로농구(NBA) 밀워키 벅스가 같은 연고지를 공유하는 '형제 구단'인 메이저리그(MLB) 밀워키 브루어스의 44년 만의 월드시리즈 진출을 축하하기 위해 파격적인 결정을 내렸다. 한국 시간으로 오는 24일(한국시간) 밀워키에서는 브루어스의 역사적인 월드시리즈 1차전이 홈에서 열린다. 아직 클리블랜드 가디언스 또는 탬파베이 레이스 가운데 상대팀이 정해지진 않았지만 1982시즌 이후 무려 44년 만에 안방에서 열리는 월드시리즈다. 공교롭게도 같은 날 밀워키 벅스 역시 시카고 불스를 상대로 홈 개막전을 치를 예정이어서 두 대형 경기의 시간대가 겹칠 위기에 놓였다. 이에 벅스 구단은 공식 성명을 내고 브루어스를 응원하는 동시에 현지 팬들이 두 경기를 모두 즐길 수 있도록 배려했다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "양치승, 25년 헬스장 폐업 후 빵집 근황 \"아직 수억 원 빚 남아\"",
+    "link": "https://www.mt.co.kr/entertainment/2026/10/18/2026101803063042349",
+    "published_at": "2026-10-17T18:14:37Z",
+    "category": "economy",
+    "description": "양치승이 약 25년간 운영한 헬스장을 폐업한 뒤 빵집에서 새 출발한 근황을 전했다. 양치승은 사기 피해로 인한 손실이 약 20억 원에 달하고 여전히 수억 원의 빚이 남아 있다며 회원 환불금을 마련하기 위해 차까지 팔고 가족들 몰래 눈물을 삼켰던 사연을 털어놨다. 17일 방영된 KBS2 '살림하는 남자들 시즌2' 478회에서는 트로트 가수 박서진과 동생 박효정이 양치승의 빵집을 찾아 일손을 돕는 모습이 그려졌다. 이날 박서진 남매는 서울 강남역 인근에 있는 양치승의 빵집을 방문해 사라다빵을 만들고 판매하는 일을 도왔다. 영업을 마친 뒤 양치승은 두 사람을 무한리필 고깃집으로 데려가 음식을 대접했다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "인터뷰 묻히게 한 굉음의 정체→르브론 헬기 출퇴근 소리였다 \"나에겐 이동 수단일 뿐\" 쿨한 반응",
+    "link": "https://www.mt.co.kr/sports/2026/10/18/2026101715085279199",
+    "published_at": "2026-10-17T16:11:00Z",
+    "category": "economy",
+    "description": "필라델피아 세븐티식서스 훈련장 하늘을 뒤흔든 굉음의 정체는 다름 아닌 '킹' 르브론 제임스(42)의 출퇴근 전용 헬리콥터였다. 미국 US뉴스 등 복수 매체들은 17일(한국시간) 이번 시즌을 앞두고 필라델피아에 새 둥지를 튼 르브론의 남다른 출퇴근 방식을 집중 조명했다. 르브론은 최근 뉴저지주 캠든에 위치한 팀 전용 훈련시설에서 일정을 마친 뒤 개인 전용 헬기를 이용해 거주지인 뉴욕 맨해튼 헬기장까지 하늘길로 직행하고 있다. 해당 보도들에 따르면 최근 필라델피아 훈련장에서 진풍경이 벌어지기도 했다. 동료 선수들이 훈련을 마친 뒤 현장 취재진과 인터뷰를 진행하던 중, 머리 위 상공에서 르브론의 헬기 프로펠러가 일으키는 거대한 굉음에 묻혀 선수들의 목소리가 인터뷰 마이크에 제대로 담기지 않는 해프닝이 자주 발생한다는 것이다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "'충격' 계체하다 머리를 왜 밀어? 女 격투기 선수, 1g 줄이려 \"당장 바리캉 가져와\"... 삭발 후 '소름 돋는 미소'",
+    "link": "https://www.mt.co.kr/sports/2026/10/18/2026101723294445301",
+    "published_at": "2026-10-17T15:39:00Z",
+    "category": "economy",
+    "description": "종합격투기(MMA) 여성부 베테랑 리즈 카무시(42·미국)가 여성 플라이급 세계 타이틀전을 앞두고 계체를 통과하기 위해 머리카락을 밀어내는 투혼을 발휘했다. 영국 '더선'은 17일(한국시간) \"카무시가 제나 비숍(미국)과의 PFL 여성 플라이급 타이틀전을 앞두고 혹독한 감량 끝에 극단적인 조치를 취했다\"고 보도했다. 미국 시카고에서 열리는 이번 대회의 메인이벤터를 맡은 카무시는 계체 직전까지 한계 체중인 125파운드(약 56.7kg)를 맞추는 데 고전했다. 타이틀전에서 단 1g이라도 체중을 초과하면 챔피언 벨트에 도전할 자격을 잃거나 파이트머니를 크게 삭감당한다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "'빙모상 비보에도...' LG 선발 임찬규 슬픔 속 마운드 오른다 \"선발 등판 변동 없다\" [준PO2 현장]",
+    "link": "https://www.mt.co.kr/sports/2026/10/18/2026101722090084815",
+    "published_at": "2026-10-17T15:16:00Z",
+    "category": "economy",
+    "description": "LG 트윈스의 공동 다승왕, 토종 에이스 임찬규(34)가 빙모상을 당한 슬픔 속에서도 마운드에 오르기로 했다. LG는 18일 오후 2시 광주-KIA 챔피언스필드에서 KIA 타이거즈를 상대로 2026 신한 SOL KBO 포스트시즌 준플레이오프(5전 3선승제) 2차전을 치른다. LG는 전날(17일) 치른 1차전에서 1-5로 패하며 1패를 떠안은 채 준플레이오프 2차전을 치르게 됐다. 만약 2차전까지 내주게 되면 사실상 벼랑 끝으로 몰리는 상황이라 반등이 절실하다. 준플레이오프 2차전에서 LG는 임찬규, KIA는 아담 올러를 각각 선발로 내세운다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "'임금 체불' 보도한 베테랑 기자 내쫓은 막장 구단 보소! '치부 건드렸다고 취재 거부' 파문",
+    "link": "https://www.mt.co.kr/sports/2026/10/18/2026101712552216727",
+    "published_at": "2026-10-17T15:03:00Z",
+    "category": "economy",
+    "description": "자신들의 치부를 폭로했다는 이유로 20년 가까이 팀을 취재해 온 베테랑 담당 기자의 출입을 막아선 프로축구 구단이 거센 역풍을 맞고 있다. 호주 A리그 소속 뉴캐슬 제츠는 최근 구단의 대금 및 임금 체불 의혹을 공론화한 지역 유력 일간지 '뉴캐슬 헤럴드'의 수석 축구 전문 기자 제임스 가디너에게 공식 미디어 브리핑 취재 금지 조치를 통보했다. 뉴캐슬 헤럴드의 리사 앨런 편집국장과 크리스 더튼 스포츠 총괄 에디터는 16일 독자들에게 보내는 성명을 통해 이 같은 구단의 일방적이고 구시대적인 조치를 폭로했다. 해당 성명에 따르면 사태의 발단은 올해 초 보도였다. 가디너 기자를 비롯한 취재진은 뉴캐슬 제츠가 지역 내 소상공인 업체, 협력 단체, 복수의 선수들에게 지급해야 할 대금을 상습적으로 연체 및 체불하고 있다는 사실을 연속으로 보도했다. 구단은 지난 8월부터 가디너 기자의 취재를 거부하겠다는 뜻을 내비쳐 오다 최근 공식적으로 미디어 접근권을 전면 박탈했다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "'시작 80초 만에 벼락 슈팅' 이강인, 기회창출 1위+환상 패스 빛났지만... '바에나 천금 결승골' ATM, 에스파뇰에 1-0 신승",
+    "link": "https://www.mt.co.kr/sports/2026/10/17/2026101720174188102",
+    "published_at": "2026-10-17T13:54:59Z",
+    "category": "economy",
+    "description": "이강인(25)이 좋은 활약을 펼쳤지만 공격포인트는 올리지 못했다. 아틀레티코는 17일 오후 9시(한국시간) 스페인 바르셀로나의 RCDE 스타디움에서 열린 에스파뇰과의 2026~2027 스페인 프리메라리가 9라운드 원정에서 1-0으로 승리했다. 디에고 시메오네 감독은 4-4-2 포메이션을 가동했다. 이강인은 최전방 투톱 아데몰라 루크먼과 조너선 데이비드의 바로 아래 위치해 공격형 미드필더 역할을 수행했다. 중원은 모르텐 히울만, 파블로 바리오스, 줄리아노 시메오네가 형성했다. 포백은 다니 마르티네스, 다비드 한츠코, 크리스티안 로메로, 마르크 푸빌이 구성했다. 골키퍼 장갑은 얀 오블락이 꼈다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "\"날라리만 모였다고?\"…'직업계고 출신' 이미주가 발끈한 이유",
+    "link": "https://www.mt.co.kr/entertainment/2026/10/17/2026101721545135935",
+    "published_at": "2026-10-17T13:08:32Z",
+    "category": "economy",
+    "description": "그룹 러블리즈 출신 방송인 이미주가 직업계 고등학교를 향한 편견에 소신을 밝힌다. 이미주는 오는 18일 방송되는 SBS '다시 쓰는 성공 방정식 - 영크크는 출근 중'에서 직업계고 출신 청년들과 이야기를 나누며 자신의 학창 시절을 돌아본다. 방송에서 직업계고에 대한 부정적인 인식이 화두에 오르자 이미주는 \"직업계고라고 하면 불량할 것 같고, 날라리들만 모여 있을 것 같다고 생각하는 분들이 많다\"고 말한다. 이어 \"제 친구들은 정말 바르고 열심히 노력하는 순수한 친구들이었다\"며 \"학폭은 드라마일 뿐\"이라고 덧붙인다. 이날 방송에서는 일찌감치 기술과 실력을 쌓아 자신만의 진로를 개척한 청년들의 사례도 소개된다. 마이스터고 졸업 후 한국항공우주산업(KAI)을 거쳐 SK하이닉스로 이직한 21세 청년부터 고교 시절 자격증 20개를 취득하고 현대자동차에 합격한 청년까지 다양한 진로가 조명된다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "'학폭 사과' 김동희, SNS로 근황 공개…복귀 예고?",
+    "link": "https://www.mt.co.kr/entertainment/2026/10/17/2026101721405935258",
+    "published_at": "2026-10-17T12:53:19Z",
+    "category": "economy",
+    "description": "과거 학교 폭력(학폭) 의혹에 휩싸였던 배우 김동희가 오랜만에 근황을 공개했다. 김동희는 17일 자신의 인스타그램에 별다른 문구 없이 여러 장의 사진을 게재했다. 공개된 사진에는 촬영 현장에 있는 듯한 김동희의 모습이 담겼다. 김동희는 최근 SNS(소셜미디어)를 통해 간간이 근황을 전하고 있다. 그는 드라마 '인간수업', '스카이 캐슬', '이태원 클라쓰' 등에 출연하며 얼굴을 알렸으나, 2021년 학교 폭력 의혹이 제기된 뒤 활동을 중단했다. 당시 김동희는 소속사를 통해 초등학교 5학년 때 반 친구와 교실에서 말다툼을 벌이다 몸싸움으로 이어졌으며 교사의 훈계를 받은 뒤 어머니와 함께 친구의 집을 찾아가 사과했다고 밝혔다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "\"무조건 참지 마세요\"…박지윤이 공개한 '저칼로리 마라탕' 레시피",
+    "link": "https://www.mt.co.kr/entertainment/2026/10/17/2026101720172737553",
+    "published_at": "2026-10-17T12:43:27Z",
+    "category": "economy",
+    "description": "방송인 박지윤이 다이어트 중에도 부담 없이 즐길 수 있는 저칼로리 마라탕 조리법을 공개했다. 무작정 식욕을 억제하기보다 식재료를 건강하게 바꿔 섭취하는 방식이다. 박지윤은 지난 13일 자신의 소셜미디어(SNS)를 통해 \"먹고 싶은 것을 참다 폭발하느니 중간에서 원만한 합의를 보는 것이 최고\"라며 직접 조리한 저칼로리 마라탕을 소개했다. 조리법의 핵심은 저지방 육수와 고단백 토핑이다. 박지윤은 지방을 99% 걷어낸 곰탕을 육수로 사용하고 저칼로리 마라 소스와 컵누들 수프(1~2개)를 넣어 간을 맞췄다. 여기에 채소를 듬뿍 넣고 닭가슴살과 두부 등 고단백·저칼로리 재료로 토핑을 채워 포만감을 높였다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "가을야구 한창인데 18일 광주에 비 예보…준PO 2차전 어떻게 되나",
+    "link": "https://www.mt.co.kr/society/2026/10/17/2026101720580893871",
+    "published_at": "2026-10-17T12:41:55Z",
+    "category": "economy",
+    "description": "가을야구가 시작된 광주에 비 예보가 나오면서 경기 진행 여부에 관심이 쏠리고 있다. 한국야구위원회(KBO)가 포스트시즌 우천 시 경기 재개 여부를 판단하는 세부 기준을 마련한 가운데 비가 내리면 최소 30분간 대기한 뒤 경기 재개 또는 일시정지경기 여부를 결정한다. 기상청에 따르면 오는 18일 광주에는 오후부터 비가 내릴 가능성이 있다. 이날 오후 2시 광주-기아 챔피언스필드에서 열리는 준플레이오프 2차전은 경기 도중 비가 변수로 작용할 전망이다. 17일 펼쳐진 1차전에서 KIA 타이거즈가 5-1로 승리한 가운데 강수 상황에 따라 경기 진행은 물론 이후 포스트시즌 일정에도 차질이 빚어질 수 있다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "'SSG만의 가을야구' 광현팀+최정팀+만원관중 모두 즐겼다... '긴 생머리 타자' 한두솔 MVP-'2단 변신' 고명준 우수상 [인천 현장리뷰]",
+    "link": "https://www.mt.co.kr/sports/2026/10/17/2026101714555312232",
+    "published_at": "2026-10-17T12:22:00Z",
+    "category": "economy",
+    "description": "홈 팬들만으로 2만 3000석을 가득 들어찬 SSG랜더스필드에서 특별한 가을야구가 펼쳐졌다. 포스트시즌은 남의 잔치가 됐지만 내년을 기약하며 SSG만의 한 시즌을 아름답게 마무리했다. SSG는 17일 인천 SSG랜더스필드에서 '2026 랜더스페셜 매치 - 최광야구 1429'를 개최했다. 예매 오픈과 동시에 전석(2만 3000석)이 매진된 가운데 투타를 바꿔 펼친 흥미로운 경기에 더해 선수들의 화려한 퍼포먼스까지 팬들에게 풍성한 볼거리를 제공했다. 지난해 '섬곤전'을 거쳐 3년째를 맞이한 이번 이벤트 매치의 핵심은 '선수들의 자발적 참여'였다. 특히 올 시즌 부상으로 수술대에 오르며 시즌을 조기 마감한 프랜차이즈 스타 최정과 김광현이 감독으로 나서며 적극적으로 경기를 준비했다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "\"예쁘게 보이려고\" 빵에 물감 넣었다가 납 중독…中 유치원 책임자 무기징역",
+    "link": "https://www.mt.co.kr/world/2026/10/17/2026101721085338949",
+    "published_at": "2026-10-17T12:20:44Z",
+    "category": "economy",
+    "description": "중국에서 유치원 급식에 식용이 금지된 물감을 넣어 납 중독 사태를 일으킨 책임자에게 무기징역이 선고됐다. 17일(현지시간) 중국 관영 신화통신, 뉴스1 등에 따르면 간쑤성 란저우시 중급인민법원은 전날 1심 판결에서 해당 유치원의 실제 책임 운영자인 리모씨에게 '유독·유해 식품 생산·판매죄'로 무기징역을 선고했다. 법원은 정치적 권리의 종신박탈형과 개인 재산 50만 위안(약 1억원) 몰수형도 내렸다. 유치원 집행원장 주 모 씨에 대해서는 징역 15년과 벌금 30만위안(약 6000만원), 이들의 지시를 받고 범죄에 가담한 주방 직원 4명에 대해서도 징역 6∼8년 형을 선고했다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "이번주 로또 1등 16명, 2등 64명…1인당 당첨금 얼마?",
+    "link": "https://www.mt.co.kr/society/2026/10/17/2026101720565287260",
+    "published_at": "2026-10-17T12:02:14Z",
+    "category": "economy",
+    "description": "로또복권 운영사 동행복권은 제1246회 로또복권의 1등 당첨번호가 16·22·23·24·27·28'으로 뽑혔다고 17일 밝혔다. 2등 보너스 번호는 '6'다. 당첨번호 6개를 모두 맞힌 1등 당첨자는 16명으로 각각 18억8102만5430원을 받는다. 1등 총당첨금은 300억9640만6880원이다. 당첨번호 5개와 보너스 번호가 일치한 2등은 64명으로 1인당 7837만6060원을 받는다. 당첨번호 5개를 맞힌 3등은 3350명으로 각각 149만7334원을 받는다. 당첨번호 4개가 일치한 4등은 15만5108명으로 당첨금 5만원을 받는다. 당첨번호 3개를 맞힌 5등은 260만8922명으로 각각 5000원을 받는다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "\"살 빼려고 굶었는데 오히려 독?\"…나이·체형별 다이어트의 반전",
+    "link": "https://www.mt.co.kr/thebio/2026/10/17/2026101720081076505",
+    "published_at": "2026-10-17T11:56:58Z",
+    "category": "economy",
+    "description": "다이어트에 성공하려면 무조건 식사량을 줄이기보다 나이와 체형, 건강 상태에 맞는 식단을 선택해야 한다는 전문가 조언이 나왔다. 지난 16일 유튜브 채널 '친한한의사'에 게재된 영상에서 최미령 원장은 개인의 신체적 특성에 따라 적절한 체중 관리 방법이 달라진다고 설명했다. 성장기 청소년은 체중 감량보다 충분한 영양 섭취가 우선이다. 최 원장은 \"세 끼를 영양가 있게 챙겨 먹고 탄산음료나 정제 탄수화물을 조절하는 편이 좋다\"며 \"성장에 필요한 채소와 단백질도 충분히 섭취해야 한다\"고 강조했다. 근육량이 부족한 마른 체형이라면 식사량을 무작정 줄이기보다 단백질 섭취와 운동을 병행하는 것이 중요하다. 최 원장은 마른 비만인 경우 식사량과 활동량이 적고 기초대사량도 낮을 수 있다며 필요한 영양소를 충분히 섭취하고 활동량을 늘리는 방법을 권했다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "\"외국인 장사 못하게 처리\"…유흥주점서 직원 머리채 잡고 난동",
+    "link": "https://www.mt.co.kr/society/2026/10/17/2026101720480879565",
+    "published_at": "2026-10-17T11:53:33Z",
+    "category": "economy",
+    "description": "충남 논산의 한 유흥주점에서 남성 손님이 집기를 부수고 직원을 폭행하는 사건이 발생했다. 사건 직후 가해자의 지인들이 피해자 측에 합의를 종용하고 있다는 주장도 제기됐다. 최근 JTBC '사건반장' 보도에 따르면 남성 4명이 논산의 한 유흥주점을 찾아 술을 마신 뒤 일행 중 1명이 난동을 부렸다. 이 남성은 가게를 나섰다가 누군가와 통화한 후 갑자기 욕설을 하며 카운터 집기와 화분을 부쉈다. 공개된 CCTV 영상에는 남성이 테이블을 주먹으로 내리치고 물건을 던지는 모습이 담겼다. 여직원의 머리카락과 목덜미를 붙잡고 폭행하는 장면도 포착됐다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "진이찬방, 1인 창업부터 무인판매까지... 인건비 걱정 뚝",
+    "link": "https://www.mt.co.kr/industry/2026/10/17/2026101515524758147",
+    "published_at": "2026-10-17T11:51:00Z",
+    "category": "economy",
+    "description": "2027년 최저임금이 시간당 10,700원으로 확정된 가운데 외식업 소상공인들이 체감하는 인건비 부담은 갈수록 커지는 실정이다. 경기침체와 인건비 부담에 25년 반찬 전문 장수브랜드 진이찬방은 최근 1인 운영도 가능하도록 창업의 선택지를 넓혔다. 또한 무인 키오스크를 활용한 24시간 판매로 추가 매출 기회까지 확보할 수 있도록 했다. 진이찬방 관계자는 \"유인 무인 결합운영을 통해 인력관리에 대한 부담을 덜고, 점주 혼자서도 효율적인 매장 운영이 가능해진다\"며 \"진이찬방은 조리경험이 없어도 창업이 가능하도록 운영부담을 낮췄다\"고 말했다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "[속보] 1246회 로또 당첨번호 '16·22·23·24·27·28'…보너스 '6'",
+    "link": "https://www.mt.co.kr/society/2026/10/17/2026101720465211569",
+    "published_at": "2026-10-17T11:48:04Z",
+    "category": "economy",
+    "description": "..."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "'로테이션이 뭐죠?' 이강인, 에스파뇰전 전격 선발 출전 \"에이스는 쉴 틈 없다\"... 에스파뇰 상대 '3호골 정조준'",
+    "link": "https://www.mt.co.kr/sports/2026/10/17/2026101720000842614",
+    "published_at": "2026-10-17T11:11:58Z",
+    "category": "economy",
+    "description": "이강인(25·아틀레티코 마드리드)이 에스파뇰 원정에서 로테이션 없이 선발 출전해 공식전 6연승과 리그 3호 골 사냥에 동시에 나선다. 아틀레티코는 17일 오후 9시(한국시간) 스페인 바르셀로나의 RCDE 스타디움에서 에스파뇰과 2026~2027시즌 스페인 프리메라리가 9라운드 원정 경기를 치른다. 디에고 시메오네 감독은 4-4-2 포메이션을 가동하며 이강인을 선발 명단에 올렸다. 이강인은 파블로 바리오스, 모르텐 히울만, 줄리아노 시메오네와 미드필더진을 구축한다. 전방에는 조너선 데이비드와 아데몰라 루크먼이 나서고, 다니 마르티네스, 다비드 한츠코, 크리스티안 로메로, 마르크 푸빌이 포백을 이룬다. 골문은 얀 오블락이 지킨다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "\"딸이 몇 살인가\" 물은 뒤 침묵…李대통령, 부천 화재 순직 소방대원 애도",
+    "link": "https://www.mt.co.kr/politics/2026/10/17/2026101720062575824",
+    "published_at": "2026-10-17T11:11:01Z",
+    "category": "economy",
+    "description": "[the300] 이재명 대통령이 경기 부천의 한 공장 화재 진압 도중 숨진 고 김진석 소방위(44)를 조문하고 유가족을 위로했다. 이 대통령은 17일 저녁 경기 부천시 순천향대학교 부천병원에 마련된 장례식장을 찾아 조문했다. 임광현 대통령 비서실장과 강유정 청와대 수석대변인도 동행했다. 이 대통령은 이날 입술을 꾹 다문 채 굳은 표정으로 빈소 입구에 도착한 뒤 방명록에 '당신께서 지켜주신 안전한 일상 속에서 국민들은 님의 희생을 영원히 기억할 것입니다. 2026.10.17 대한민국 대통령 이재명'이라고 적고 흰색 장갑을 착용한 채 빈소 내로 입장했다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "충남도청 간부, 술자리서 여성 직원들 추행 의혹…직위 해제",
+    "link": "https://www.mt.co.kr/society/2026/10/17/2026101720020117720",
+    "published_at": "2026-10-17T11:07:45Z",
+    "category": "economy",
+    "description": "술자리에서 여성 직원 여러명을 강제 추행한 혐의를 받는 충남도청 간부가 불구속 상태로 송치됐다. 17일 뉴시스에 따르면 충남경찰청은 지난 13일 충남도청 간부급 공무원 A씨를 강제추행 혐의로 공소청에 불구속 송치했다. A씨는 충남도에서 한 군으로 파견 근무를 하던 중 여러 차례 술자리를 갖고 해당 군 소속 여성 직원들을 강제 추행한 혐의를 받고 있다. 피해 직원들은 A씨가 파견 근무를 마치고 도청으로 복귀하자 곧바로 충남경찰청에 수사를 의뢰한 것으로 알려졌다. 충남도는 이후 A씨를 직위 해제했다. 수사에 착수한 경찰은 해당 군 등을 찾아 조사한 끝에 A씨의 혐의를 확인하고 사건을 공소청에 넘겼다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "'너에게 다이브' 김지연, 박서함 죽인 스토커 후보 김한영과 대치",
+    "link": "https://www.mt.co.kr/entertainment/2026/10/17/2026101720057221830",
+    "published_at": "2026-10-17T11:05:00Z",
+    "category": "economy",
+    "description": "'너에게 다이브' 김지연이 김한영과 대치한다. 17일 공개될 디즈니 , 채널A 공개 드라마 '너에게 다이브' 7회에서는 2013년으로 타임슬립한 윤하나(김지연 분)가 2026년 정우재(박서함 분)를 죽인 스토커 유력 용의자 이형원(김한영 분)과 일촉즉발의 대치 상태에 놓인다. 2013년 대학 시절로 타임슬립한 윤하나는 유도를 그만두고 경호학과에 진학한 정우재가 경호원이 되는 것을 막고자 그를 단편영화 주인공으로 세워 배우로 만들겠다고 결심했다. 하지만 정우재의 라이벌 이형원이 자꾸만 끼어들어 윤하나를 향해 노골적인 관심을 드러내면서 예상치 못한 변수를 맞닥뜨리게 됐다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "'그것이 알고싶다', 전처가 목격한 아동 성착취 비디오와 사라진 두 아이",
+    "link": "https://www.mt.co.kr/entertainment/2026/10/17/2026101720007250280",
+    "published_at": "2026-10-17T11:00:00Z",
+    "category": "economy",
+    "description": "'그것이 알고 싶다'가 26년째 미제로 남은 강진 초등생 연쇄 실종 사건의 유력 용의자를 처음으로 만난다. 17일 밤 방송하는 SBS 시사 프로그램 '그것이 알고 싶다' 1508회는 '찬란국의 왕과 사라진 아이들 - 강진 초등생 연쇄 실종 사건' 편으로 꾸며진다. 두 아이의 실종과 관련해 의심받아 온 마 씨를 만나 사건의 진실을 추적한다. 첫 번째 실종은 2000년 6월 15일 전남 강진에서 발생했다. 하교 후 오빠를 기다리던 초등학교 2학년 김성주 양이 흔적도 없이 사라졌다. 이듬해 6월 1일에는 불과 1km 떨어진 곳에서 하교하던 초등학교 1학년 김하은 양이 귀가하지 않았다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "'내일(18일) 비오면 준PO 어쩌나' 광주에 예고된 비, 우취-강우콜드 X→강행 OR 서스펜디드만 가능",
+    "link": "https://www.mt.co.kr/sports/2026/10/17/2026101719253990831",
+    "published_at": "2026-10-17T10:59:28Z",
+    "category": "economy",
+    "description": "준플레이오프(준PO)가 막을 올린 광주 전역에 18일 비가 예고돼 있다. 만약 경기 시간 도중 비가 내리면 어떻게 되는 걸까. 한국야구위원회(KBO)는 포스트시즌 경기 도중 비가 내릴 경우 경기 재개 여부를 판단하는 세부 기준을 마련했다. KBO는 17일 이 같은 내용을 담은 포스트시즌 우천 시 시행 세칙을 발표했다. 포스트시즌에선 비 예보에 더 민감할 수밖에 없다. 이미 확정된 일정이 밀릴 수 있기 때문이다. 이날 광주-기아 챔피언스필드에서 열린 1차전이 KIA 타이거즈의 5-1 승리로 끝난 가운데 2차전은 18일 오후 2시부터 같은 장소에서 열린다. 기상청에 따르면 경기 시작 때까진 비 예보가 없지만 경기 중반 이후가 문제가 될 수 있다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "차 가로막고 발길질하더니…3개월 만에 잡힌 외국인 \"중고차인 줄\"",
+    "link": "https://www.mt.co.kr/society/2026/10/17/2026101719215438770",
+    "published_at": "2026-10-17T10:53:19Z",
+    "category": "economy",
+    "description": "지난 7월 경기 이천의 한 도로에서 한밤중에 외국인들이 주행 중인 차를 가로막고 위협한 사건의 피의자가 사건 발생 3개월 만에 붙잡혔다. 17일 뉴스1에 따르면 경기남부경찰청은 차량을 이용해 다른 사람을 위협한 특수협박 등의 혐의로 카자흐스탄 국적의 피의자 A씨(21세)를 붙잡아 조사 중이다. 경기남부경찰청 광역수사대와 이천경찰서 형사과는 전날 오후 8시25분쯤 A씨를 검거했다. 범행에 가담한 또 다른 20대 남성 B씨(25)는 불법체류 혐의(출입국관리법 위반)로 지난 13일 강제 추방됐다. 경찰은 A 씨에 대한 조사를 마친 뒤 이날 구속영장을 신청할 방침이다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "[부고] 임찬규(LG 트윈스 투수)씨 빙모상",
+    "link": "https://www.mt.co.kr/sports/2026/10/17/2026101719371190859",
+    "published_at": "2026-10-17T10:39:30Z",
+    "category": "economy",
+    "description": "■ 최윤정(향년 57세)님 별세, 임찬규(LG 트윈스 투수)씨 빙모상 = 17일, 빈소 청담동성당 (서울 강남구 삼성로 720), 발인 19일, 02-3447-0758...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "KOVO컵 결승은 '챔프전 리턴 매치'... '미친 화력 실바' GS칼텍스 vs '서브 폭격' 도로공사",
+    "link": "https://www.mt.co.kr/sports/2026/10/17/2026101719202899484",
+    "published_at": "2026-10-17T10:37:04Z",
+    "category": "economy",
+    "description": "GS칼텍스와 한국도로공사가 2026 KOVO컵 여자부 결승전에서 우승을 놓고 격돌한다. GS칼텍스는 17일 전남 여수 진남체육관에서 열린 2026 여수·NH농협 한국배구연맹(KOVO)컵 여자부 준결승에서 흥국생명을 세트스코어 3-2로 제압했다. 먼저 두 세트를 따낸 뒤 내리 3, 4세트를 내줘 위기에 몰렸던 GS칼텍스는 외국인 선수 실바가 양 팀 최다인 35점(공격 성공률 51.56%)을 터트리며 승리를 이끌었다. 특히 실바는 5세트 공격 점유율 59.09%를 책임지며 서브 에이스 2개 포함 12점(공격 성공률 76.92%)을 몰아쳤다. 권민지와 최가은도 각각 14점, 11점으로 힘을 보탰다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "李대통령, 부천 화재 순직 소방대원 조문…방명록엔 \"영원히 기억\"",
+    "link": "https://www.mt.co.kr/politics/2026/10/17/2026101719284254620",
+    "published_at": "2026-10-17T10:33:18Z",
+    "category": "economy",
+    "description": "[the300] 이재명 대통령이 부천 공장 화재 진압 도중 숨진 김진석 소방위(44)를 조문하고 유가족을 위로했다. 이 대통령은 17일 저녁 경기 부천시 순천향대학교 부천병원 장례식장을 찾아 조문했다. 임광현 대통령 비서실장과 강유정 청와대 수석대변인도 함께 조문했다. 이 대통령은 이날 굳은 얼굴로 빈소 입구에 도착한 뒤 방명록에 '당신께서 지켜주신 안전한 일상 속에서 국민들은 님의 희생을 영원히 기억할 것입니다. 2026.10.17 대한민국 대통령 이재명'이라고 적은 뒤 흰색 장갑을 착용하고 빈소 내로 입장했다. 이후 영정 사진 앞에서 분향하고 묵념한 뒤 의전관으로부터 옥조근정훈장을 받아 단 위에 올리고 유가족들을 위로했다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "[속보]이재명 대통령, 부천 공장 화재 순직 소방대원 조문",
+    "link": "https://www.mt.co.kr/politics/2026/10/17/2026101719221518777",
+    "published_at": "2026-10-17T10:25:03Z",
+    "category": "economy",
+    "description": "[the300] 17일 순천향대학교 부천대학 장례식장...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "'이럴수가' LG 적장도 끝내 인정하다니... \"대단한 선수, 인정할 건 인정해야 한다\" [준PO1 현장]",
+    "link": "https://www.mt.co.kr/sports/2026/10/17/2026101710572148087",
+    "published_at": "2026-10-17T10:23:41Z",
+    "category": "economy",
+    "description": "준플레이오프(5전 3선승제) 1차전을 내준 LG 트윈스의 염경엽 감독이 경기 후 소감을 밝혔다. LG는 17일 광주-KIA 챔피언스필드에서 펼쳐진 KIA와 2026 신한 SOL KBO 포스트시즌 준플레이오프 1차전에서 1-5로 패했다. 정규시즌을 4위로 마친 뒤 와일드카드 결정전에서 두산 베어스를 한 번에 꺾고 준플레이오프 무대에 오른 LG는 1승을 먼저 내주고 말았다. LG는 지난 14일 두산과 잠실구장에서 열린 와일드카드 결정전 1차전에서 4-1로 승리하며 준플레이오프에 올랐다. 이어 이틀 휴식 후 이날 경기에 임했지만, 패배를 떠안고 말았다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "장학금 받던 고려대 11학번, 20억 기부자로…얼굴 공개는 끝내 거절",
+    "link": "https://www.mt.co.kr/society/2026/10/17/2026101719110712349",
+    "published_at": "2026-10-17T10:23:03Z",
+    "category": "economy",
+    "description": "30대 고려대 졸업생이 모교인 고려대에 20억원을 기부했다. 고려대는 지난 15일 서울 성북구 교내 본관 총장실에서 고려대 경영학과 11학번 김응관씨(35세)와 함께 '경영대학 발전기금 및 장학기금 기부식'을 진행했다고 밝혔다. 기부금은 경영대학 학부생 장학금 지원을 위한 '김응관 장학기금' 10억원과 스타트업(신생기업) 연구원의 창업 인프라 지원을 위한 '김응관 발전기금' 10억원으로 각각 사용된다. 고려대는 LG-POSCO경영관 3층 로비에 '김응관 라운지'를 조성할 계획이다. 김씨는 이번 기부 계기가 대학 시절 받은 장학금이라고 밝혔다. 당시 받은 장학금이 학업을 이어가는 데 큰 도움이 됐고 이를 사회에 돌려주고 싶어 기부를 결정했다는 것이다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "\"잠깐 찾아와 준 아기 고마워\"…'전진♥' 류이서, 위로 쏟아지자 전한 말",
+    "link": "https://www.mt.co.kr/entertainment/2026/10/17/2026101719153154012",
+    "published_at": "2026-10-17T10:21:13Z",
+    "category": "economy",
+    "description": "그룹 신화 멤버 전진의 아내인 승무원 출신 인플루언서 류이서가 누리꾼들의 위로에 고마움을 전했다. 류이서는 17일 자신의 인스타그램에 \"응원의 말씀, 기도 정말 너무너무 감사해요\"라는 글을 올렸다. 이어 \"저희도 여러분을 위해 계속 기도할게요\"라며 \"우리 모두 파이팅\"이라고 덧붙였다. 앞서 류이서는 유튜브를 통해 시험관 시술로 임신에 성공했지만 임신 7주 차에 유산한 사실을 고백했다. 당시 그는 \"우리 둘 다 행복한 시간이었다. 잠깐이라도 찾아와 준 그 아기한테 정말 고맙다\"고 털어놔 안타까움을 자아냈다. 류이서는 전진과 2020년 결혼했다. 두 사람은 결혼 6년 만인 지난 4월 시험관 시술을 통해 2세를 준비 중이라고 밝힌 바 있다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "손흥민 빠지고 이강인·황인범 떴다…'아시아 최고' 놓고 한일 3파전",
+    "link": "https://www.mt.co.kr/sports/2026/10/17/2026101719063368441",
+    "published_at": "2026-10-17T10:19:56Z",
+    "category": "economy",
+    "description": "아시아축구연맹(AFC) 올해의 국제선수상 최종 후보에서 역대 최다 수상자인 손흥민(LA FC)이 제외된 가운데 이강인(아틀레티코 마드리드)과 황인범(포르투)이 일본의 우에다 아야세(릴)와 함께 수상을 놓고 경쟁한다. AFC는 지난 16일(한국 시간) '2026 AFC 어워즈 방콕' 각 부문 최종 후보를 발표했다. 올해의 남자 국제선수상 후보에는 한국의 이강인과 황인범, 일본의 우에다가 이름을 올렸다. 손흥민은 2015년과 2017년, 2019년, 2023년 총 네 차례 이 상을 받으며 역대 최다 수상 기록을 보유하고 있다. 그러나 이번에는 최종 후보 명단에 들지 못했다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "\"우리 파이널A 가고, 서울 조기 우승 막고!\" 울산, 부천에 2-1 짜릿 역전승... 김승빈 퇴장→야고 역전골 폭발",
+    "link": "https://www.mt.co.kr/sports/2026/10/17/2026101719012281870",
+    "published_at": "2026-10-17T10:17:56Z",
+    "category": "economy",
+    "description": "울산HD가 수적 열세에 놓인 부천FC1995를 꺾고 연패 탈출과 함께 파이널A 진출을 확정했다. 울산은 17일 울산문수축구경기장에서 열린 하나은행 K리그1 2026 32라운드 홈 경기에서 부천에 2-1 역전승을 거뒀다. 승점 50(15승5무12패)이 된 울산은 2위를 굳히며 7위 인천 유나이티드(승점 42)와의 격차를 8점으로 벌려 잔여 경기 결과와 상관없이 파이널A(1~6위) 진출을 결정지었다. 만약 울산이 이날 비기거나 패배하고, 18일 선두 FC서울(승점 65)이 김천 상무전에서 승리할 경우 서울의 조기 우승이 확정될 수 있었다. 하지만 울산이 역전승을 거두면서 서울의 우승 확정을 다음 라운드 이후로 미뤘다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "악수도 거절하고 \"네가 나 없이 메인이벤트? 상상불가야\" 파격 도발... '버클리 VS 맬럿' 18일 UFC 파이트 나이트서 대격돌",
+    "link": "https://www.mt.co.kr/sports/2026/10/17/2026101715122621442",
+    "published_at": "2026-10-17T10:17:48Z",
+    "category": "economy",
+    "description": "\"아무도 널 모른다. 격투기는 결국 상대를 다치게 하는 일.\" 적지에서 마이크 맬럿(34·캐나다)을 상대하지만 와킨 버클리(32·미국)는 거침 없는 도발에 나섰다. 캐나다 팬들에게 경고 메시지를 날렸다. UFC는 17일(한국시간) 캐나다 에드먼턴 한 호텔에서 열린 계체량에서 UFC 웰터급(77.1㎏) 랭킹 10위 '뉴 만사' 와킨 버클리와 '프로퍼' 마이크 맬럿 모두 77.3㎏으로 계체에 통과했다고 밝혔다. 두 선수는 18일 캐나다 앨버타주 에드먼턴의 로저스 플레이스에서 열리는 'UFC 파이트 나이트: 버클리 vs 맬럿' 메인 이벤트에서 격돌한다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "김도영 홈런 두 방에 LG 무너졌다…KIA, PO 진출 확률 85.7%",
+    "link": "https://www.mt.co.kr/sports/2026/10/17/2026101717425771923",
+    "published_at": "2026-10-17T09:55:09Z",
+    "category": "economy",
+    "description": "프로야구 KIA 타이거즈가 간판타자 김도영의 멀티 홈런을 앞세워 LG 트윈스를 꺾고 플레이오프 진출 확률 85.7%를 잡았다. KIA는 17일 전남광주 기아챔피언스필드에서 열린 2026 신한 SOL KBO 포스트시즌 준플레이오프(준PO·5전 3선승제) 1차전에서 LG에 5-1 역전승을 거뒀다. 역대 준PO에서 1차전 승리 팀이 플레이오프(PO)에 진출한 경우는 35차례 중 30차례로, 확률은 85.7%에 달한다. 5전 3선승제로 치러진 경우에는 17차례 중 12차례로 70.6%를 기록했다. 이날 승리의 주역은 김도영이었다. 3번 타자 3루수로 선발 출전한 김도영은 3타수 2안타(2홈런) 4타점 2득점으로 맹활약했다. 특히 1-1로 맞선 4회말 상대 선발 앤더스 톨허스트의 초구를 받아쳐 솔로 홈런을 터뜨리며 역전을 이끌었다. 8회말에는 2점 홈런을 추가해 승부에 쐐기를 박았다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "파주시-파주FC, 15억 예산 '갈등 심화'... 수면 위로 떠오른 '경영진 교체 의혹'",
+    "link": "https://www.mt.co.kr/sports/2026/10/17/2026101717375659686",
+    "published_at": "2026-10-17T09:15:20Z",
+    "category": "economy",
+    "description": "프로축구 K리그2 신생팀 파주 프런티어FC(이하 파주FC)가 심각한 재정난과 경영진 교체 논란에 휩싸였다. 운영 자금 15억 원이 부족해 선수단 급여 지급마저 불투명한 가운데 파주시가 예산 지원을 빌미로 구단 수뇌부 물갈이를 시도한다는 의혹이 제기됐다. 파주FC는 지난 15일 황보관 단장 명의의 입장문을 통해 부족분 15억 원이 창단 당시 전임 김경일 시장이 기업 후원 무산 시 시 체육진흥기금으로 보전하겠다고 약속한 금액이라고 주장했다. 구단은 이를 근거로 이사회 의결을 거쳐 예산을 편성했다. 반면 6·3 지방선거로 취임한 손배찬 시장 체제의 파주시는 전임 시장의 약속을 공식적으로 확인하기 어렵다며 자금 지원을 거부했다. 시는 원칙적으로 구단이 자체 수입을 확보해야 한다는 입장이며, 방만 경영을 확인하겠다며 구단 감사에 착수했다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "[내일 날씨] 일요일 전국에 비 쏟아진다…강한 바람도 주의해야",
+    "link": "https://www.mt.co.kr/society/2026/10/17/2026101715314645237",
+    "published_at": "2026-10-17T09:00:00Z",
+    "category": "economy",
+    "description": "일요일인 18일에는 전국 곳곳에 돌풍과 천둥·번개를 동반한 강한 비가 내리겠다. 17일 기상청에 따르면 비는 오는 18일 새벽 인천과 경기 북부, 제주도에서 시작해 오전 중 중부지방으로 확대되겠다. 오후부터는 전국 대부분 지역에 비가 내릴 전망이다. 중부지방은 밤사이 비가 그치겠으나 남부지방은 이튿날 아침까지, 제주도는 이튿날 낮까지 비가 이어지는 곳이 있겠다. 예상 강수량은 서울·인천·경기와 서해5도, 대전·세종·충남, 충북, 전북이 30~80㎜다. 강원 내륙·산지는 20~70㎜, 강원 동해안은 5~20㎜로 예상된다. 광주·전남과 제주도는 각각 20~60㎜, 10~60㎜의 비가 내리겠다. 경북 중·북부 내륙과 북동 산지, 부산·울산·경남은 10~50㎜, 대구와 경북 남부 내륙·동해안, 울릉도·독도는 5~40㎜로 예보됐다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "혓바닥 감염시킨 HPV, 매년 5000명 암 진단받는 이유 [한 장으로 보는 건강]",
+    "link": "https://www.mt.co.kr/thebio/2026/10/17/2026101717290441880",
+    "published_at": "2026-10-17T08:54:16Z",
+    "category": "economy",
+    "description": "국내에서 매년 5000여명이 두경부암으로 새롭게 진단받습니다. 그런데 두경부암의 발생 양상이 변화했다는 점에 주목할 필요가 있습니다. 과거엔 흡연·음주가 두경부암의 주원인으로 꼽혔는데, 최근엔 사람유두종바이러스(HPV) 감염과 관련된 두경부암이 우리나라를 포함, 전 세계적으로 빠르게 늘었습니다. 두경부암은 머리뼈 아래(두개저)부터 식도 위쪽까지 이르는 넓은 영역에서 발생하는 암입니다. 뇌·눈을 제외한 구강(혀), 비부비동(코), 침샘, 인두(편도), 후두 등 30여 곳에서 발생하는 악성종양을 두경부암으로 통칭합니다. 그간 HPV는 여성의 자궁경부암 원인으로 알려졌는데요. 두경부암 중에서도 혀뿌리 쪽에서 발생하는 구인두암(편도암·설근부암 등)이 최근 HPV 감염으로 크게 늘었습니다. 현재 전 세계 구인두암의 70% 이상이 HPV 감염과 관련 있는 것으로 알려졌습니다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "지예은, ♥바타와 결혼 서두른 이유…\"언제 죽을지 모르겠더라\"",
+    "link": "https://www.mt.co.kr/entertainment/2026/10/17/2026101717303047862",
+    "published_at": "2026-10-17T08:43:05Z",
+    "category": "economy",
+    "description": "배우 지예은이 비교적 이른 나이에 결혼을 결심한 이유를 밝혔다. 지난 16일 방송된 SBS 예능 '무엇이든 해줄지니 - 비서진'에는 방송인 지석진과 지예은이 게스트로 출연해 다양한 이야기를 나눴다. 이날 이서진과 김광규는 오는 12월 결혼을 앞둔 지예은에게 결혼을 서두르는 이유를 물으며 걱정을 드러냈다. 이에 지예은은 \"일이 있으면 행복하지만 일이 전부는 아니더라. 전 아플 때 깨달았다\"고 답했다. 이어 \"그때 저도 백수 생활이 길어서 '일만 하고 살아야지' 이랬는데 아팠을 때 '언제 죽을지 모르겠구나' 이런 생각이 들었다\"고 털어놨다. 건강 문제를 겪으며 삶을 바라보는 관점이 달라졌고, 결혼을 결심하는 데도 영향을 미쳤다는 것이다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "박성한 \"이번엔 변화구 위주로\" VS 최지훈 \"김건우-최민준은 잡을만 해\" 선발 맞대결... 올해도 '홈런 투수 나올까' [인천 현장]",
+    "link": "https://www.mt.co.kr/sports/2026/10/17/2026101714554682268",
+    "published_at": "2026-10-17T08:31:37Z",
+    "category": "economy",
+    "description": "어제의 센터라인 동료가 오늘은 적으로 만났다. 박성한(28)과 최지훈(29)이 선발 투수로 마운드에서 맞대결을 펼친다. 박성한과 최지훈은 17일 오후 5시 30분부터 인천 SSG랜더스필드에서 '2026 랜더스페셜 매치 - 최광야구 1429'에서 각각 팀 김광현과 팀 최정의 선발 투수로 등판한다. 올해로 3년째인 구단 자체 이벤트전은 올 시즌 더욱 규모가 커졌다. 첫해에는 자체 유튜브 영상으로만 제작돼 추후 공개됐지만 지난해엔 관중들을 초청해 구단 유튜브 생중계까지 제공됐고 올해에는 만원 관중과 함께 스포티비, 구단 유튜브를 통해 다양하게 즐길 수 있게 됐다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "[한번에쓱] 김도영 따돌리며 준PO1차전 MVP '7이닝 1실점 호투' 네일",
+    "link": "https://www.mt.co.kr/sports/2026/10/17/2026101717225294062",
+    "published_at": "2026-10-17T08:24:56Z",
+    "category": "economy",
+    "description": "준PO1차전 MVP로 선정된 네일이 17일 광주 기아챔피언스필드에서 열린 2026 KBO리그 준플레이오프 KIA타이거즈와 LG트윈스 1차전을 마친 후 한용덕 경기감독관으로부터 데일리 MVP상을 수상하고 있다. 2026.10.17. '..."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "[포토] '타격감은 오늘 내가 짱이었지!'",
+    "link": "https://www.mt.co.kr/sports/2026/10/17/2026101717181551949",
+    "published_at": "2026-10-17T08:19:28Z",
+    "category": "economy",
+    "description": "홈런두방을 터트리며 승리를 이끈 김도영이 17일 광주 기아챔피언스필드에서 열린 2026 KBO리그 준플레이오프 KIA타이거즈와 LG트윈스 1차전에서 승리한 후 타격감상을 수상하고 있다. 부상은 대형 포테이토칩이다. 2026.10.17...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "[포토] '아쉬운 발걸음'",
+    "link": "https://www.mt.co.kr/sports/2026/10/17/2026101717155215828",
+    "published_at": "2026-10-17T08:16:36Z",
+    "category": "economy",
+    "description": "LG 선수들이 17일 광주 기아챔피언스필드에서 열린 2026 KBO리그 준플레이오프 KIA타이거즈와 LG트윈스 1차전에서 패한 후 아쉬운 발걸음으로 퇴장하고 있다. 2026.10.17...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "[한번에쓱] '준플레이오프 1차전 승리 자축하는' KIA 타이거즈",
+    "link": "https://www.mt.co.kr/sports/2026/10/17/2026101717132545906",
+    "published_at": "2026-10-17T08:14:58Z",
+    "category": "economy",
+    "description": "KIA 마무리투수 전상현과 선수들이 17일 광주 기아챔피언스필드에서 열린 2026 KBO리그 준플레이오프 KIA타이거즈와 LG트윈스 1차전 9회초 수비를 마무리한 후 가을야구 첫승을 자축하고 있다. 2026.10.17...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "버스까지 뒤엉켜 '쾅쾅'…서울요금소 인근 4중 추돌에 14명 부상",
+    "link": "https://www.mt.co.kr/society/2026/10/17/2026101717034992008",
+    "published_at": "2026-10-17T08:14:11Z",
+    "category": "economy",
+    "description": "경기 성남시 경부고속도로 서울요금소 서울방향 도로에서 A씨(40대)가 몰던 버스가 옆 차로 승용차와 앞서가던 버스를 잇따라 들이받았다. 17일 뉴시스 등에 따르면 이 사고는 이날 오전 11시50분쯤 발생했다. 사고 후 버스 기사 A씨와 승객 등 총 14명이 다쳐 인근 병원으로 옮겨졌다. 사고는 1차로를 달리던 A씨의 버스가 2차로의 승용차를 추돌한 뒤 전방에 있던 버스 2대를 들이받으면서 발생한 것으로 조사됐다. 경찰은 A씨 등을 상대로 정확한 사고 경위 등을 조사 중이다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "충격 \"우버 불렀는데 기사가 EPL 스타\" 13년 잠적한 웨스트햄 공격수, 인플루언서가 발견 \"깜짝 놀랐다\"",
+    "link": "https://www.mt.co.kr/sports/2026/10/17/2026101715550870777",
+    "published_at": "2026-10-17T08:11:36Z",
+    "category": "economy",
+    "description": "과거 잉글랜드 프리미어리그(EPL)와 포르투갈 국가대표팀에서 활약한 우구 포르피리우(53)가 우버 기사로 변신했다. 영국 매체 '더선'은 16일(한국시간) \"전직 EPL 스타 포르피리우가 고향인 포르투갈 리스본에서 우버 기사로 일하고 있다\"고 보도했다. 매체는 \"한때 포르투갈 축구 대표팀에서 굵직한 족적을 남겼던 그의 예상치 못한 인생 2막이 대중의 시선을 사로잡았다\"고 전했다. 매체에 따르면 인플루언서 안드레 라말류가 이달 초 우버를 호출했다가 운전석에 앉은 포르피리우를 발견했다. 라말류는 자신의 소셜 미디어(SNS)에 \"늦고 피곤해서 우버를 불렀는데 운전자를 보고 깜짝 놀랐다. 유로 1996에서 루이 코스타, 루이스 피구, 비토르 바이아 등 전설적인 스타들과 함께 뛰었던 선수가 평범한 생업에 종사하고 있었다\"고 전했다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "'날아올라라 나비' 심은우, 최다니엘 질투심 타박",
+    "link": "https://www.mt.co.kr/entertainment/2026/10/17/2026101717077232272",
+    "published_at": "2026-10-17T08:07:03Z",
+    "category": "economy",
+    "description": "'날아올라라 나비'에서 심은우가 최다니엘을 타박한다. 17일 오후 방송될 JTBC 토일드라마 '날아올라라 나비' 9회에서는 광수(최다니엘 분)와 젠(심은우 분)이 서로를 둘러싼 오해를 풀어가며 한층 가까워지는 모습이 그려진다. 광수와 젠은 함께 와인을 마시며 진솔한 대화를 나눈다. 그러던 중 광수는 젠에게 \"무열이 포기해\"라는 말을 한다. 젠은 무열(박정우 분)을 그저 인간적으로 좋아했을 뿐이라며 광수를 바보라고 타박한다. 무열을 둘러싼 오해 속에서 은연중에 질투심을 드러낸 광수와 이를 바로잡는 젠. 뜻밖의 질투를 계기로 서로의 마음을 들여다보게 된 두 사람이다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "'와' 김도영 '데뷔 후 최초' 개인 역사 대단하다! 8회말 2아웃 또 터졌다, 멀티홈런 대폭발! '차라리 자동으로 걸러야 하나...' KIA, LG 꺾고 운명의 1차전 기선 제압 [준PO1 현장]",
+    "link": "https://www.mt.co.kr/sports/2026/10/17/2026101710571515172",
+    "published_at": "2026-10-17T08:05:00Z",
+    "category": "economy",
+    "description": "KIA 타이거즈가 LG 트윈스와 운명의 준플레이오프(5전 3선승제) 1차전에서 승리하며 기선 제압에 성공했다. KIA는 17일 광주-KIA 챔피언스필드에서 펼쳐진 LG와 2026 신한 SOL KBO 포스트시즌 준플레이오프 1차전에서 5-1로 승리했다. 올해 페넌트레이스를 3위로 마치며 준플레이오프에 선착한 KIA는 1차전을 먼저 가져가며 유리한 고지를 선점했다. KIA는 앞서 12일 LG와 정규시즌 최종전을 마친 뒤 4일간 휴식을 취했다. 그리고 이날 경기에서 승리하며 상승세를 이어갔다. 반면 정규시즌을 4위로 마친 뒤 와일드카드 결정전에서 두산 베어스를 한 번에 꺾고 준플레이오프 무대에 오른 LG는 1승을 먼저 내주고 말았다. LG는 지난 14일 두산과 잠실구장에서 열린 와일드카드 결정전 1차전에서 4-1로 승리하며 준플레이오프에 올랐다. 이어 이틀 휴식 후 이날 경기에 임했지만, 패배를 떠안고 말았다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "\"이게 뭐라고, 이렇게 판이 커져서...\" 홈팬으로만 2.3만석 매진, '투수는 타석에-타자는 마운드에' SSG 최광야구1429 개봉박두 [인천 현장]",
+    "link": "https://www.mt.co.kr/sports/2026/10/17/2026101714544256242",
+    "published_at": "2026-10-17T08:00:51Z",
+    "category": "economy",
+    "description": "인천 SSG랜더스필드에선 또 하나의 가을야구가 열린다. SSG 랜더스가 홈팬들만을 대상으로 한 축제가 열린다. SSG는 17일 오후 5시 30분부터 인천 SSG랜더스필드에서 '2026 랜더스페셜 매치 - 최광야구 1429'를 개최한다. 시즌 종료 후 팬들을 위해 마련한 자체 청백전은 벌써 3번째를 맞았다. 첫해에는 자체 유튜브 채널을 통해서만 볼 수 있었지만 지난해엔 관중들을 초청해 구단 유튜브 생중계로, 올해에는 만원 관중과 함께 스포티비를 통해 생중계되는 등 더욱 규모가 커졌다. 올 시즌 전반기를 9위로 마치는 부진에도 불구하고 후반기 2위의 성적을 내며 최종 6위로 마친 SSG는 팬들을 위한 특별한 이벤트를 마련했다. 올 시즌 부상으로 조기 시즌아웃된 최정과 김광현이 각각 감독으로 나섰고 그들의 이름과 등번호를 따서 '최광야구 1429'라는 이름을 지었다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "\"내 춤 본 거 맞나?\"…제이블랙이 짠 '이수만표 여돌' 도입부 안무 비화",
+    "link": "https://www.mt.co.kr/entertainment/2026/10/17/2026101716344131019",
+    "published_at": "2026-10-17T07:58:56Z",
+    "category": "economy",
+    "description": "이수만 전 SM엔터테인먼트 총괄 프로듀서가 기획한 걸그룹 'A2O LITE(에이 투 오 라이트)'의 데뷔곡 'NEON(니온)'이 화제가 된 가운데, 안무가 제이블랙이 안무 제작 비하인드를 공개했다. 제이블랙은 가장 화제가 된 멤버 아이찡과 시리가 추는 도입부 안무를 맡았다. 제이블랙은 지난 16일 유튜브 채널 '스튜디오와글와글'에 아내인 안무가 '마리'와 함께 출연해 '니온' 무대 리뷰를 진행했다. 제이블랙은 '니온' 안무에 대해 \"뭔가 (아이돌 안무의) 판도가 바뀌는 듯한 느낌을 받았다\"고 평가했다. 제이블랙은 \"보통 제가 아이돌 안무 의뢰를 받을 땐 시안 영상보다 좀 더 쉽게 만들어달라는 피드백을 받는다\"며 \"근데 이번엔 반대였다. 제가 시안을 보냈더니 좀 더 어렵게 해달라고 하더라. '이게 괜찮은건가' 싶었지만 난이도를 신나게 올렸다\"고 했다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "이효리, 남편 ♥이상순 지원사격…보이는 라디오 동반 출연",
+    "link": "https://www.mt.co.kr/entertainment/2026/10/17/2026101716501637086",
+    "published_at": "2026-10-17T07:56:02Z",
+    "category": "economy",
+    "description": "가수 이효리가 건강 문제로 휴식을 취했던 남편 이상순을 위해 라디오 게스트로 출연한다. MBC 라디오 FM4U '완벽한 하루 이상순입니다' 측은 17일 공식 SNS(소셜미디어)를 통해 이효리의 출연 소식을 알렸다. 이효리는 오는 20일 방송에 게스트로 출연해 보이는 라디오를 통해 청취자들과 만날 예정이다. 앞서 이상순이 DJ로 활동하며 이효리가 여러 차례 라디오에 출연해 유쾌한 부부 호흡을 보여준 만큼 이번 만남에도 관심이 쏠린다. 이상순은 최근 건강 문제로 한 달여간 라디오 진행을 중단했다. 그는 지난 6일 직접 소식을 전하며 신경계 증상인 '미주신경 기능 저하'로 의료진에게 안정을 권고받았고, 정밀 검사를 기다리며 휴식을 취하고 있다고 밝혔다...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "[포토] '8회말 쐐기 투런홈런 터트린' 김도영",
+    "link": "https://www.mt.co.kr/sports/2026/10/17/2026101716551862016",
+    "published_at": "2026-10-17T07:55:36Z",
+    "category": "economy",
+    "description": "KIA 김도영이 17일 광주 기아챔피언스필드에서 열린 2026 KBO리그 준플레이오프 KIA타이거즈와 LG트윈스 1차전 8회말 2사 1,루에서 장현식을 상대로 쐐기 투런홈런을 터트린 후 홈인하고 있다. 2026.10.17...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "[한번에쓱] 2사라고 방심하면 '8회말 쐐기 투런홈런 터트린' 김도영",
+    "link": "https://www.mt.co.kr/sports/2026/10/17/2026101716525356015",
+    "published_at": "2026-10-17T07:55:34Z",
+    "category": "economy",
+    "description": "KIA 김도영이 17일 광주 기아챔피언스필드에서 열린 2026 KBO리그 준플레이오프 KIA타이거즈와 LG트윈스 1차전 8회말 2사 1,루에서 장현식을 상대로 쐐기 투런홈런을 터트린 후 홈인하고 있다. 김도영은 4회말 역전 솔로홈런을 터트렸었다. 2026.10.17...."
+  },
+  {
+    "source_name": "머니투데이",
+    "title": "[포토] '펜스앞에서 잡힌 타구에 아쉬운' 문정빈",
+    "link": "https://www.mt.co.kr/sports/2026/10/17/2026101716422675404",
+    "published_at": "2026-10-17T07:43:03Z",
+    "category": "economy",
+    "description": "LG 4번타자 문정빈이 17일 광주 기아챔피언스필드에서 열린 2026 KBO리그 준플레이오프 KIA타이거즈와 LG트윈스 1차전 8회초 2사 1,2루에서 중견수플라이에 아쉬워하고 있다. 2026.10.17. LG 4번타자 문정빈이 17일 광주 기아챔피언스필드에서 열린 2026 KBO리그 준플레이오프 KIA타이거즈와 LG트윈스 1차전 8회초 2사 1,2루에서 중견수플라이에 아쉬워하고 있다. 2026.10.17...."
+  },
+  {
+    "source_name": "매일경제",
+    "title": "“삼전닉스 믿었는데”…국민연금, 3분기 보유주식 182조원 증발",
+    "link": "https://www.mk.co.kr/news/economy/12178633",
+    "published_at": "2026-10-17T23:35:38Z",
+    "category": "economy",
+    "description": "국내 주식시장의 ‘큰 손’인 국민연금이 약 100일 만에 200조원에 가까운 역대 최악의 손실을 본 것으로 나타났다. 18일 금융정보업체 에프앤가이드에 따르면 국민연금이 6월 30.."
+  },
+  {
+    "source_name": "매일경제",
+    "title": "“돈 벌 생각 말라는 명령, 7개월째네요”…석유 최고가격 4번째 동결",
+    "link": "https://www.mk.co.kr/news/economy/12178611",
+    "published_at": "2026-10-17T20:59:40Z",
+    "category": "economy",
+    "description": "정부선 손실 보전해준다지만 편성된 예비비 4.2조원 그쳐 최근 업계 담합의혹 불거지자 정당한 보상 요구마저 ‘눈치’ 휘발유 소비는 7개월만에 반등 정부, 최고가격제 중단도 난감정부.."
+  },
+  {
+    "source_name": "매일경제",
+    "title": "나의 ‘오답 노트’가 되어준 추미애 지사님께 [논설실 Pick]",
+    "link": "https://www.mk.co.kr/news/economy/12178607",
+    "published_at": "2026-10-17T15:37:57Z",
+    "category": "economy",
+    "description": "①비유를 적절히 가려 써야 한다 ②일어나지 않을 법한 일은 일어난다 ③자기객관화가 무너지면 끝이다삶에 지혜를 주신 추미애 경기도지사님께. 23년 언론계 생활을 하며 ‘뉴스란 무엇인.."
+  },
+  {
+    "source_name": "매일경제",
+    "title": "“보험 어디서 들까?” 물어보니…AI가 꼽은 ‘1등 금융사’는 어디",
+    "link": "https://www.mk.co.kr/news/economy/12178581",
+    "published_at": "2026-10-17T11:51:08Z",
+    "category": "economy",
+    "description": "AI 답변, 실제 시장 비중과 차이도 자체 콘텐츠와 상품 설명 영향 有생성형 인공지능(AI)에게 금융상품을 물으면 어떤 금융사가 가장 많이 거론될까. AI 브랜드 분석 전문기업 에.."
+  },
+  {
+    "source_name": "매일경제",
+    "title": "“실손보험료 낮춰 볼까”…할인형 특약과 세대 전환 다음 달 도입 앞둬",
+    "link": "https://www.mk.co.kr/news/economy/12178564",
+    "published_at": "2026-10-17T10:24:14Z",
+    "category": "economy",
+    "description": "실손 1~2세대 가입자 보험료 부담 비급여 보장 제외해 보험료 낮출수도 5세대로 전환하면 일정 기간 할인다음 달에 1~2세대 초기 실손보험 가입자의 보험료 부담을 줄일 선택형 할인.."
+  },
+  {
+    "source_name": "매일경제",
+    "title": "“주식 팔아 빚 갚으려 했는데”…급락 후 반등에도 대출이자 ‘이중고’",
+    "link": "https://www.mk.co.kr/news/economy/12178547",
+    "published_at": "2026-10-17T08:19:28Z",
+    "category": "economy",
+    "description": "전날 낙폭 일부 만회에도 직전 7거래일간 20.7% 급락 국민·우리·농협 변동형 주담대 금리 최대 0.25%P↑ 4억원 대출, 잔액 일정하면 연 이자 100만원 증가코스피가 지난 .."
   },
   {
     "source_name": "매일경제",
@@ -3873,51 +4721,27 @@
   },
   {
     "source_name": "매일경제",
-    "title": "AI 해킹 부정결제 피해땐 '즉시 환불' 추진",
-    "link": "https://www.mk.co.kr/news/economy/12176941",
-    "published_at": "2026-10-15T08:16:31Z",
-    "category": "economy",
-    "description": "금융당국과 전자지급결제대행(PG) 업계가 해킹·계정 탈취 등으로 부정결제가 발생했을 때 사업자가 피해액을 먼저 소비자에게 지급하는 '선(先)구제' 방안을 추진한다. 최근 인공지능(.."
+    "title": "“월급 300만인데 월세 100만원 내요”…임대난에 오피스텔 월세도 올랐다",
+    "link": "https://www.mk.co.kr/news/realestate/12178629",
+    "published_at": "2026-10-17T23:23:34Z",
+    "category": "realEstate",
+    "description": "서울 월세 월간·분기 최대 전국 월세도 0.86% 상승 매매가격은 상승폭 ‘둔화’서울 오피스텔 월세가격이 큰 폭으로 오르면서 평균 월세가 100만원에 육박한 것으로 나타났다. 전·.."
   },
   {
     "source_name": "매일경제",
-    "title": "사옥까지 매각한 신한카드…2년새 네 번째 희망퇴직",
-    "link": "https://www.mk.co.kr/news/economy/12176942",
-    "published_at": "2026-10-15T08:16:31Z",
-    "category": "economy",
-    "description": "국내 신용판매액 1위 카드사인 신한카드가 서울 을지로 본사 사옥을 매각한 데 이어 올해 두 번째 희망퇴직을 실시한다. 2024년 말 이후 2년도 안 돼 네 번째 인력 감축이다. 업.."
+    "title": "[부고] 신경식(중흥건설그룹 전무)씨 모친상",
+    "link": "https://www.mk.co.kr/news/realestate/12178585",
+    "published_at": "2026-10-17T12:06:20Z",
+    "category": "realEstate",
+    "description": "▲ 한의자 씨 별세, 신경식(중흥건설그룹 전무)·을식 씨(한국농어촌공사 담양지사 부장) 모친상, 송신주 씨(농협중앙회 광주권역보증센터 센터장) 시모상 = 17일, 전남광주 국빈장례.."
   },
   {
     "source_name": "매일경제",
-    "title": "[매부리 라운지] 집주인에 '세뺀다' 미리 안알리면 … 보험 들어도 보증금 못 받을수도",
-    "link": "https://www.mk.co.kr/news/economy/12176937",
-    "published_at": "2026-10-15T08:16:25Z",
-    "category": "economy",
-    "description": "전세보증금 반환보증보험에 가입했더라도 집주인에게 계약 종료 의사를 제대로 알리지 않으면 보증금을 돌려받지 못할 수 있어 주의해야 한다. 주택도시보증공사(HUG)의 전세보증 이행 거.."
-  },
-  {
-    "source_name": "매일경제",
-    "title": "[단독] ‘사은품 덫’에 걸린 상조 가입자들…불만 상담접수 1위는 보람상조",
-    "link": "https://www.mk.co.kr/news/economy/12176933",
-    "published_at": "2026-10-15T08:16:17Z",
-    "category": "economy",
-    "description": "상조회사 관련 민원 상담 해마다 증가 보람상조, 지난 2002년부터 매년 최다# 상조상품에 가입한 A씨는 가입 당시 납입금을 모두 납부하면 납입금액을 100% 환급받을 수 있다는 .."
-  },
-  {
-    "source_name": "매일경제",
-    "title": "용인특례시, 철도기금 1조원 조성…반도체 세수 활용",
-    "link": "https://www.mk.co.kr/news/economy/12176915",
-    "published_at": "2026-10-15T08:04:26Z",
-    "category": "economy",
-    "description": "철도망 반도체 성공에 필수적 내년 하반기부터 단계 적립 이상일 시장 “철도 적기 구축”용인특례시(시장 이상일)가 반도체산업 성장에 따른 지방세수 증가분 등을 활용해 2030년까지 .."
-  },
-  {
-    "source_name": "매일경제",
-    "title": "[속보] 한일 재무장관, 100억 달러 규모 통화스와프 연장 합의",
-    "link": "https://www.mk.co.kr/news/economy/12176914",
-    "published_at": "2026-10-15T08:03:46Z",
-    "category": "economy",
-    "description": "2029년 11월까지 기존 규모 유지 원화·엔화 맡기고 달러 차입 구조 차기 재무장관회의 한국 개최 추진한국과 일본이 100억달러 규모의 통화스와프(통화 교환) 계약을 3년 연장한.."
+    "title": "“20~30년간 못 본 시장 온다”…전셋집 부족에 ‘강제 매수’ 경고",
+    "link": "https://www.mk.co.kr/news/realestate/12178469",
+    "published_at": "2026-10-17T06:08:16Z",
+    "category": "realEstate",
+    "description": "전월세 매물 부족과 주택 공급 감소, 고금리가 맞물리면서 집을 살 여력이 부족한 실수요자들이 오히려 주택 매수로 내몰릴 수 있다는 경고가 나왔다. 지난 16일 구독자 184만명의 .."
   },
   {
     "source_name": "매일경제",
@@ -4089,6 +4913,14 @@
   },
   {
     "source_name": "매일경제",
+    "title": "성북구 길음뉴타운5단지(래미안) 84.96㎡ 13억 5천만원… 최근 3년 신고가 [MAI부동산]",
+    "link": "https://www.mk.co.kr/news/realestate/12177465",
+    "published_at": "2026-10-16T00:20:24Z",
+    "category": "realEstate",
+    "description": "MAI 부동산 2026년 10월 15일 국토부 실거래가 시스템에 신규 등록된 서울 성북구 길음동 길음뉴타운5단지(래미안) 전용 84.96㎡ 거래가 13억 5,000만 원에 체결돼 .."
+  },
+  {
+    "source_name": "매일경제",
     "title": "동작구 상도동 동원베네스트 84.958㎡ 16억 3천만원… 최근 3년 신고가 [MAI부동산]",
     "link": "https://www.mk.co.kr/news/realestate/12177477",
     "published_at": "2026-10-16T00:20:24Z",
@@ -4110,14 +4942,6 @@
     "published_at": "2026-10-16T00:20:24Z",
     "category": "realEstate",
     "description": "MAI 부동산 2026년 10월 15일 국토부 실거래가 시스템에 신규 등록된 서울 영등포구 당산동5가 당산삼성래미안4차 전용 84.94㎡가 23억 5,000만 원에 거래되며 최근 .."
-  },
-  {
-    "source_name": "매일경제",
-    "title": "도봉구 창동주공4단지 36.16㎡ 4억 2500만원 거래… 최근 3년 신고가 [MAI부동산]",
-    "link": "https://www.mk.co.kr/news/realestate/12177468",
-    "published_at": "2026-10-16T00:20:24Z",
-    "category": "realEstate",
-    "description": "MAI 부동산 2026년 10월 15일 국토부 실거래가 시스템에 신규 등록된 서울 도봉구 창동주공4단지 전용 36.16㎡ 거래가 4억 2,500만 원으로 확인됐다. 항목 내용 항목.."
   },
   {
     "source_name": "매일경제",
@@ -4161,6 +4985,14 @@
   },
   {
     "source_name": "매일경제",
+    "title": "도봉구 창동주공4단지 36.16㎡ 4억 2500만원 거래… 최근 3년 신고가 [MAI부동산]",
+    "link": "https://www.mk.co.kr/news/realestate/12177468",
+    "published_at": "2026-10-16T00:20:24Z",
+    "category": "realEstate",
+    "description": "MAI 부동산 2026년 10월 15일 국토부 실거래가 시스템에 신규 등록된 서울 도봉구 창동주공4단지 전용 36.16㎡ 거래가 4억 2,500만 원으로 확인됐다. 항목 내용 항목.."
+  },
+  {
+    "source_name": "매일경제",
     "title": "강북구 미아동 래미안트리베라1단지 84.97㎡ 11억 9800만원… 최근 3년 신고가 [MAI부동산]",
     "link": "https://www.mk.co.kr/news/realestate/12177467",
     "published_at": "2026-10-16T00:20:24Z",
@@ -4174,14 +5006,6 @@
     "published_at": "2026-10-16T00:20:24Z",
     "category": "realEstate",
     "description": "MAI 부동산 2026년 10월 15일 국토부 실거래가 시스템에 신규 등록된 서울 성북구 장위동 참누리아파트 전용 84.98㎡ 거래가 9억 4,800만 원으로 최근 3년 신고가를 .."
-  },
-  {
-    "source_name": "매일경제",
-    "title": "성북구 길음뉴타운5단지(래미안) 84.96㎡ 13억 5천만원… 최근 3년 신고가 [MAI부동산]",
-    "link": "https://www.mk.co.kr/news/realestate/12177465",
-    "published_at": "2026-10-16T00:20:24Z",
-    "category": "realEstate",
-    "description": "MAI 부동산 2026년 10월 15일 국토부 실거래가 시스템에 신규 등록된 서울 성북구 길음동 길음뉴타운5단지(래미안) 전용 84.96㎡ 거래가 13억 5,000만 원에 체결돼 .."
   },
   {
     "source_name": "매일경제",
@@ -4201,11 +5025,11 @@
   },
   {
     "source_name": "매일경제",
-    "title": "용산구 한남동 나인원한남 262억원 거래… 서울 아파트 실거래가 [MAI부동산]",
-    "link": "https://www.mk.co.kr/news/realestate/12177461",
+    "title": "성동구 옥수삼성 84.822㎡ 24억원 거래…최근 3년 신고가 [MAI부동산]",
+    "link": "https://www.mk.co.kr/news/realestate/12177463",
     "published_at": "2026-10-16T00:20:23Z",
     "category": "realEstate",
-    "description": "MAI 부동산 2026년 10월 15일 국토부 실거래가 시스템에 신규 등록된 서울 아파트 거래 중 용산구 한남동 나인원한남 전용 273.942㎡가 262억원에 거래된 것으로 확인됐.."
+    "description": "MAI 부동산 2026년 10월 15일 국토부 실거래가 시스템에 신규 등록된 서울 성동구 옥수동 옥수삼성 전용 84.822㎡가 24억원에 거래되며 최근 3년 내 신고가를 기록했다..."
   },
   {
     "source_name": "매일경제",
@@ -4217,11 +5041,11 @@
   },
   {
     "source_name": "매일경제",
-    "title": "성동구 옥수삼성 84.822㎡ 24억원 거래…최근 3년 신고가 [MAI부동산]",
-    "link": "https://www.mk.co.kr/news/realestate/12177463",
+    "title": "용산구 한남동 나인원한남 262억원 거래… 서울 아파트 실거래가 [MAI부동산]",
+    "link": "https://www.mk.co.kr/news/realestate/12177461",
     "published_at": "2026-10-16T00:20:23Z",
     "category": "realEstate",
-    "description": "MAI 부동산 2026년 10월 15일 국토부 실거래가 시스템에 신규 등록된 서울 성동구 옥수동 옥수삼성 전용 84.822㎡가 24억원에 거래되며 최근 3년 내 신고가를 기록했다..."
+    "description": "MAI 부동산 2026년 10월 15일 국토부 실거래가 시스템에 신규 등록된 서울 아파트 거래 중 용산구 한남동 나인원한남 전용 273.942㎡가 262억원에 거래된 것으로 확인됐.."
   },
   {
     "source_name": "매일경제",
@@ -4289,27 +5113,35 @@
   },
   {
     "source_name": "매일경제",
-    "title": "\"닥공 위해 손잡았다\" 디벨로퍼 투톱 '700억펀드' 조성",
-    "link": "https://www.mk.co.kr/news/realestate/12176936",
-    "published_at": "2026-10-15T08:16:24Z",
-    "category": "realEstate",
-    "description": "국내 대표 디벨로퍼인 김한모 HM그룹 회장과 문주현 엠디엠그룹 회장이 자금난으로 멈춰 선 중소 시행사의 주택사업을 살리기 위해 손을 잡았다. 두 사람이 각각 50억원 안팎의 자금을.."
+    "title": "“이 와중에 ‘레버리지’ 야수처럼 올라탔다”…돌아온 건 ‘눈물의 -33%’",
+    "link": "https://www.mk.co.kr/news/stock/12178618",
+    "published_at": "2026-10-17T22:09:44Z",
+    "category": "stockMarket",
+    "description": "10월 코스피 3거래일 제외 하락 마감 레버리지 상품 수익률 두 자릿수 폭락 기관은 ‘곱버스’ 베팅으로 엇갈린 행보국내 증시가 약세 흐름을 보이는 가운데 상장지수펀드(ETF) 시장.."
   },
   {
     "source_name": "매일경제",
-    "title": "상봉·돈암 20평 아파트마저…이젠 10억",
-    "link": "https://www.mk.co.kr/news/realestate/12176934",
-    "published_at": "2026-10-15T08:16:23Z",
-    "category": "realEstate",
-    "description": "서울 집값이 다시 들썩이고 있다. 강남3구가 주춤하는 사이 중랑·성북구 등 강북권을 중심으로 오름세가 가팔라지면서 서울 전체 아파트값 상승폭이 다시 커지고 있다. 고가 주택의 가격.."
+    "title": "트럼프에 뺨 맞은 하버드…‘여기’ 투자 성공해 자산 90조원 돌파",
+    "link": "https://www.mk.co.kr/news/stock/12178557",
+    "published_at": "2026-10-17T09:25:43Z",
+    "category": "stockMarket",
+    "description": "최근 1년간 수익률 27.1% 기록 꾸준한 VC·헤지펀드 높은 수익 덕분 스페이스X 주식만 22억달러 보유 연구자금 삭감·세금 인상은 ‘난관’미국 하버드대학교 기금이 사상 최고 수.."
   },
   {
     "source_name": "매일경제",
-    "title": "애드벌룬 띄운 서울시 “종묘 경관 보존하며 세운 개발 가능”",
-    "link": "https://www.mk.co.kr/news/realestate/12176916",
-    "published_at": "2026-10-15T08:10:13Z",
-    "category": "realEstate",
-    "description": "15일 국회 문화체육관광위원회(문체위) 소속 국민의힘 의원들이 종묘를 찾은 가운데 서울시와 국가유산청이 세운4구역 개발을 둘러싸고 여전히 입장 차이를 좁히지 못했다. 서울시는 세운.."
+    "title": "급락장 뚫고 나흘새 30% 날아올라…제주항공 ‘흑자비행’ 기대 [이주의 Bull기둥]",
+    "link": "https://www.mk.co.kr/news/stock/12178483",
+    "published_at": "2026-10-17T06:36:08Z",
+    "category": "stockMarket",
+    "description": "일본 노선 호조·비용 효율화 주목 한화투자證 “3분기 영업익 90억원” LCC 최선호주…목표가 6500원 유지‘검은 화요일’에 이어 ‘검은 목요일’까지 국내 증시가 급락한 한 주였.."
+  },
+  {
+    "source_name": "매일경제",
+    "title": "“존버는 커녕 강제 손절이라니”…빚투 개미들 3000억 반대매매에 ‘피눈물’",
+    "link": "https://www.mk.co.kr/news/stock/12178402",
+    "published_at": "2026-10-17T01:36:51Z",
+    "category": "stockMarket",
+    "description": "6~15일 반대매매 2981억원 14·15일 이틀 연속 800억원대코스피가 급락하자 빚을 내 주식에 투자한 개인들의 반대매매 규모가 3000억원에 육박한 것으로 나타났다. 17일 .."
   },
   {
     "source_name": "매일경제",
@@ -4385,19 +5217,19 @@
   },
   {
     "source_name": "매일경제",
-    "title": "美 국채금리 하락에 … 모처럼 웃은 韓 바이오株",
-    "link": "https://www.mk.co.kr/news/stock/12178088",
-    "published_at": "2026-10-16T08:41:56Z",
-    "category": "stockMarket",
-    "description": "시장금리 상승 부담에 짓눌렸던 국내 제약·바이오주가 동반 강세를 보였다. 미국 장기 국채금리가 하락하면서 기업가치 평가 부담이 완화된 데다 반도체에 집중됐던 증시 자금이 헬스케어 .."
-  },
-  {
-    "source_name": "매일경제",
     "title": "하락 일단 멈췄지만 … 코스피 빚투는 부담",
     "link": "https://www.mk.co.kr/news/stock/12178089",
     "published_at": "2026-10-16T08:41:56Z",
     "category": "stockMarket",
     "description": "코스피가 외국인의 순매수 전환과 저가 매수세에 힘입어 반등했다. 하지만 장중 상승폭을 절반 이상 반납하면서 반등의 지속성을 두고 시장 의문은 여전하다. 지난 7월 말보다 불어난 신.."
+  },
+  {
+    "source_name": "매일경제",
+    "title": "美 국채금리 하락에 … 모처럼 웃은 韓 바이오株",
+    "link": "https://www.mk.co.kr/news/stock/12178088",
+    "published_at": "2026-10-16T08:41:56Z",
+    "category": "stockMarket",
+    "description": "시장금리 상승 부담에 짓눌렸던 국내 제약·바이오주가 동반 강세를 보였다. 미국 장기 국채금리가 하락하면서 기업가치 평가 부담이 완화된 데다 반도체에 집중됐던 증시 자금이 헬스케어 .."
   },
   {
     "source_name": "매일경제",
@@ -4648,835 +5480,803 @@
     "description": "한국투자증권이 일본 신용평가사 JCR(Japan Credit Rating Agency)이 자사의 외화 장기 발행사 신용등급을 기존 'A-'에서 'A'로 한 단계 상향 조정했다고 1.."
   },
   {
-    "source_name": "매일경제",
-    "title": "경영권 분쟁 한미사이언스 … 신동국 의결권 제한되나",
-    "link": "https://www.mk.co.kr/news/stock/12177064",
-    "published_at": "2026-10-15T08:40:46Z",
-    "category": "stockMarket",
-    "description": "한미사이언스 개인 최대주주인 신동국 한양정밀 회장이 올해 세 차례 장외에서 사들인 지분 가운데 일부가 자본시장법상 공개매수 의무를 어긴 매입일 수 있다는 정황이 포착됐다. 현행법상.."
-  },
-  {
-    "source_name": "매일경제",
-    "title": "'AI 빚잔치' 도미노…美 코어위브 15% 폭락에 亞증시 패닉",
-    "link": "https://www.mk.co.kr/news/stock/12177059",
-    "published_at": "2026-10-15T08:40:04Z",
-    "category": "stockMarket",
-    "description": "간밤에 미국발 악재 소식이 잇달아 전해지며 아시아 증시가 파랗게 질렸다. 미국 소비자물가지수가 예상치를 웃돈 데다 인공지능(AI) 클라우드 기업인 코어위브발(發) '신용위험 우려'.."
-  },
-  {
-    "source_name": "매일경제",
-    "title": "2차전지 ETF '씽씽'…석달 수익률 30%대",
-    "link": "https://www.mk.co.kr/news/stock/12177035",
-    "published_at": "2026-10-15T08:34:15Z",
-    "category": "stockMarket",
-    "description": "배터리 산업 관련 상장지수펀드(ETF) 상품들이 3개월 기준 수익률에서 상위권을 휩쓸었다. 15일 한국거래소에 따르면 국내 ETF 중 3개월 기준 가장 높은 수익률을 보인 상품은 .."
-  },
-  {
-    "source_name": "매일경제",
-    "title": "대주주 한앤코 전량 청약…SK디앤디 유상증자 완판",
-    "link": "https://www.mk.co.kr/news/stock/12177037",
-    "published_at": "2026-10-15T08:34:15Z",
-    "category": "stockMarket",
-    "description": "SK디앤디의 1010억원 규모 주주배정 유상증자가 최대주주 한앤컴퍼니의 전량 청약과 소액주주 참여에 힘입어 실권주 없이 마무리됐다. 청약률은 115.52%로 계획한 자금을 전액 조.."
+    "source_name": "조선비즈",
+    "title": "'내년 결혼' 이규한, SNS 첫글은 ♥솔비와 '럽스타'..\"내인생에 들어온 지안'[핫피플]",
+    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/15/GFQWKZTFMRTDENJWMFQTCZJZMY/",
+    "published_at": "2026-10-17T23:34:00Z",
+    "category": "economy",
+    "description": "배우 이규한이 가수 겸 화가 솔비와 결혼발표 직후 첫 '럽스타그램'을 공개하며 애정을 뽐냈다.15일 이규한은 자신의 소셜 계정에 \"내 인생에 들어온 지안♥\"이라는 글과 함께 두 장의 사진을 업로드 했다.공개된 사진에는 다정히 맞잡고 있는 이규한과 솔비의 손이 담겼다. 이와 함께 손깍지를 낀 채 어깨에 기댄 채 서로를 마주보고 미소짓고 있는 이규한과 솔비의"
   },
   {
     "source_name": "조선비즈",
-    "title": "더샵 여주역더퍼스트, ‘계약 안심보장제’ 도입…전용 84㎡ 단일 구성",
-    "link": "https://biz.chosun.com/industry/business_info/2026/10/17/2PO5S2IEKBD5HHXULGXBSPFHYA/",
-    "published_at": "2026-10-17T00:00:00Z",
+    "title": "18日全国で強い雨風 首都圏で最大80mm",
+    "link": "https://biz.chosun.com/jp/jp-society/2026/10/18/KWQ2XL2KXBAPVPAT3J7Q5ONLJQ/",
+    "published_at": "2026-10-17T23:33:25Z",
     "category": "economy",
     "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "시그니엘 서울 BAR 81, 글렌이글스 ‘더 아메리칸 바’와 22일 더 글렌터렛 바스왑 진행",
-    "link": "https://biz.chosun.com/industry/business_info/2026/10/17/FRBNCRX53VFBRBCUWIQ2HHXKEY/",
-    "published_at": "2026-10-17T00:00:00Z",
+    "title": "일요일 전국에 강한 비바람…수도권 최대 80㎜",
+    "link": "https://biz.chosun.com/topics/topics_social/2026/10/18/H4IE2ZZHLVFO5H2X4UM3UQGLHU/",
+    "published_at": "2026-10-17T23:33:25Z",
     "category": "economy",
     "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "'암살자(들)', 흥행 뒷심 대단하네..개봉 4주차 韓영화 1위 '굳건' [공식]",
-    "link": "https://biz.chosun.com/entertainment/movie/2026/10/17/HAYWMYTCME3TEZJRMVSDMZDGGU/",
-    "published_at": "2026-10-16T23:56:00Z",
+    "title": "‘한국인이 좋아하는 베이비페이스’ 진기주 [O! STAR 숏폼]",
+    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/18/G5QWIMLCHFRDAN3BMI3WKMDEMM/",
+    "published_at": "2026-10-17T23:31:00Z",
     "category": "economy",
-    "description": "'암살자(들)'이 350만을 향해가는 가운데, 개봉 4주 차에도 꾸준한 장기 흥행으로 관객들을 동원하고 있다.영화 '암살자(들)'(감독 허진호, 제작 (주)하이브미디어코프, 제공배급 (주)하이브미디어코프)이 18일 연속 한국영화 박스오피스 1위를 기록하며 개봉 4주차에도 흥행 열기를 이어가고 있다.영화진흥위원회 통합전산망에 따르면, '암살자(들)'은 10월"
+    "description": "배우 진기주가 18일 인천국제공항을 통해 패션매거진 화보 촬영을 위해 일본으로 출국했다.이날 진기주는 따뜻한 느낌의 반코트에 브라운 숄더백을 매치해 편안한 느낌의 공항패션을 완성했다.배우 진기주가 출국장으로 향하며 포즈를 취하고 있다. 2026.10.18 [OSEN=인천공항, 조은정 기자]"
   },
   {
     "source_name": "조선비즈",
-    "title": "샤이니 온유, 다채롭다..'착각'",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/17/MNTGKN3BGM2TCZBSMZRTCMBQGA/",
-    "published_at": "2026-10-16T23:50:00Z",
+    "title": "‘헬스장 폐업’ 양치승, 결국 ‘빵집’으로 제2의 삶...“회원 환불비만 억대” (‘살림남’)",
+    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/18/MNQTCOBTMJTGGMJUMU3WKMBVG4/",
+    "published_at": "2026-10-17T23:31:00Z",
     "category": "economy",
-    "description": "그룹 샤이니 멤버 온유가 컴백을 앞두고 차분한 눈빛을 장착했다.온유는 지난 16일 공식 채널을 통해 오는 20일 오후 6시에 발매하는 새 싱글 ‘착각’의 세 번째 콘셉트 사진을 공개하고, 컴백 열기를 끌어올렸다.이번에 공개된 사진에서 온유는 차분한 눈빛을 장착하고 이지적인 분위기로 다채로운 비주얼 변주를 예고했다. 무새책 위주의 편안한 캐주얼 룩으로 자연스"
+    "description": "‘살림남’ 양치승이 아직까지도 빚을 갚고 있는 근황을 전했다. 17일 방송된 KBS 2TV ‘살림남’에서는 박서진, 박효정 남매가 새로 빵집을 차린 양치승 가게에서 일일 알바로 나선 모습이 그려졌다.이날 양치승은 20억 전세 사기 피해 후 근황을 공개했다. 그는 전 재산으로 4평 남짓 빵집을 차려 3개월 째 운영중이었다.앞서 양치승은 지인의 소개로 서울 강"
   },
   {
     "source_name": "조선비즈",
-    "title": "딘딘, ♥신현빈 첫사랑 아니라더니..돌발 스킨십에 초긴장 \"좋아했네\" [핫피플]",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/17/GE3WGYRVGEYDQOLEHEYTQNZWME/",
-    "published_at": "2026-10-16T23:44:00Z",
+    "title": "[토토 투데이] “도박중독, 더 늦기 전에 예방하세요” 스포츠토토, 온라인 예방 캠페인 진행",
+    "link": "https://biz.chosun.com/sports/sports_general/2026/10/18/G42TQY3FGUYTCMJVME2TMNBSMI/",
+    "published_at": "2026-10-17T23:29:00Z",
     "category": "economy",
-    "description": "래퍼 딘딘이 배우 신현빈의 어깨동무 스킨십에 잔뜩 굳어 말을 잇지 못했다. 16일 '딘딘은 딘딘' 채널에는 '네모의 꿈 피해자&가해자&목격자'라는 제목의 동영상이 업로드됐다.딘딘은 둘째 친누나와 누나의 절친 신현빈을 데리고 중국 상하이로 '네모 투어'를 떠났고, 각종 수발을 들면서 호강시켜주는 콘셉트로 여행을 진행했다.세 사람은 상하이 여행 중 예쁜 밤거리"
+    "description": "스포츠토토가 이용자들의 도박 과몰입을 예방하고 건전한 이용 문화를 확산하기 위한 캠페인을 마련했다.서울올림픽기념국민체육진흥공단이 발행하는 체육진흥투표권 스포츠토토의 수탁사업자 한국스포츠레저㈜(대표이사 김대욱)는 공식 인터넷 발매 사이트 베트맨을 통해 오는 25일까지 2026년 6차 ‘온라인 도박중독 예방 캠페인’을 진행한다고 밝혔다.지난 12일 시작된 이번"
   },
   {
     "source_name": "조선비즈",
-    "title": "AOA 출신 지민, 맥주캔 쌓아두더니..병원복 입은 근황 '우려'[핫피플]",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/17/MU3DENRYG5RTMMDEGM2WMYJZHA/",
-    "published_at": "2026-10-16T23:41:00Z",
+    "title": "최자, 클수록 붕어빵 딸..아내와 단란한 세 식구 근황 \"첫 파티\"",
+    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/18/MNSWMNJSMI4TMOJVGY2GCMJYHE/",
+    "published_at": "2026-10-17T23:25:00Z",
     "category": "economy",
-    "description": "그룹 AOA 출신 지민이 환자복을 입은 근황으로 걱정을 사고 있다.지민은 최근 자신의 SNS에 별다른 설명 없이 여러 장의 근황 사진을 공개했다.공개된 사진에는 지민의 일상이 담겨 있었다. 지민은 외출에 나서 인형을 구경하고 생필품 쇼핑을 하는 등 여유롭고 평온하게 일상을 즐기고 있었다. 또 바닥을 가득 채운 맥주 캔을 사진으로 남겨 눈길을 끌기도 했다.다"
+    "description": "다이나믹 듀오 최자와 아빠를 쏙 빼닮은 러블리한 딸의 행복한 근황이 공개됐다.최자는 아내는 18일 SNS에 \"셋이 하는 첫 파티. 초도 불 정도로 큰거보니 너무 뿌듯하고 행복\"이라는 글과 함께 몇 장의 사진을 게재했다.공개된 사진 속에는 최자와 아내, 그리고 두 사람을 쏙 빼닮은 사랑스러운 딸의 모습이 담겨 눈길을 사로잡는다. 세 사람은 한식 레스토랑을 방"
   },
   {
     "source_name": "조선비즈",
-    "title": "축제 뛰고도 수입 0원..김장훈, 치솟는 티켓값 일침 \"문화 소외지역 없어야\" ('전현무계획4')",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/17/MZSWGYJVGMYWEYRQHA4TEMTDHE/",
-    "published_at": "2026-10-16T23:40:00Z",
+    "title": "“존중이라고는 눈곱만큼도 없냐” 다저스 팬들 격분! 오타니 등장곡 틀고 샴페인 파티, 밀워키 비매너 논란 어쩌나",
+    "link": "https://biz.chosun.com/sports/baseball/2026/10/18/GA3WMNTBMIYWENLGGQ3DGNJVHE/",
+    "published_at": "2026-10-17T23:21:00Z",
     "category": "economy",
-    "description": "가수 김장훈이 학교 축제에서 출연료를 받지 않는 것은 물론, 학생들을 위해 장학금까지 기부하고 있다고 밝혀 눈길을 끌었다.지난 16일 방송된 MBN '전현무계획4'에서는 전현무와 곽튜브가 경주를 찾은 가운데, 가수 김장훈과 강균성이 먹친구로 합류해 다양한 이야기를 나눴다.이날 김장훈과 강균성은 특별한 듀엣 인연을 공개했다. 두 사람은 앞서 유튜브 콘텐츠에서"
+    "description": "‘절대 1강’ LA 다저스를 4승 무패로 무찌르고 월드시리즈에 진출한 밀워키 브루어스가 비매너 논란에 시달리고 있다. 밀워키 브루어스는 지난 16일(이하 한국시간) 미국 캘리포니아주 로스앤젤레스 유니클로필드 앳 다저스타디움에서 펼쳐진 2026 메이저리그 LA 다저스와의 내셔널리그 챔피언십시리즈(7전 4선승제) 4차전에서 6-4 역전승을 거두며 시리즈 4승"
   },
   {
     "source_name": "조선비즈",
-    "title": "김혜수, 50대 후반 안 믿겨…원조 글래머 여신 입증하는 수영복 자태",
-    "link": "https://biz.chosun.com/entertainment/tv/2026/10/17/GU4DGOJUHBRGIZDFMNSWIODBGI/",
-    "published_at": "2026-10-16T23:40:00Z",
+    "title": "세븐틴 정한X조슈아, 황홀 비주얼..‘12 o’clock’ MV 티저 공개",
+    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/18/GYYGINZWGUZTMZDDMEZDQMBYGE/",
+    "published_at": "2026-10-17T23:19:00Z",
     "category": "economy",
-    "description": "김혜수가 수영복 자태를 뽐냈다. 지난 16일 김혜수는 자신의 인스타그램 스토리에 해외 여행 중 촬영한 영상 및 사진 등을 업로드했다. 자고 일어난 듯 자연스러운 김혜수의 모습부터 길거리를 거니는 모습 등 일상이 담겼다. 특히 김혜수는 수영복을 입은 모습도 함께 공개했는데, 노란빛 수영복에 상큼한 매력을 발산하면서도 원조 글래머 여신 다운 자태를 과시해 감탄"
+    "description": "세븐틴 정한X조슈아가 새로운 감각의 세계로 향하는 본격적인 여정의 막을 올렸다.정한X조슈아는 지난 17일 오후 6시 하이브 레이블즈 유튜브 채널과 세븐틴 공식 SNS에 미니 1집 ‘DREAMSCAPE’ 타이틀곡 ‘12 o’clock’의 뮤직비디오 티저 영상을 오픈했다.영상 속 두 사람의 황홀한 비주얼과 세련된 아우라가 단연 시선을 사로잡는다. 서늘한 낮과"
   },
   {
     "source_name": "조선비즈",
-    "title": "京畿道ブチョン工場火災で消防隊員死亡 合同鑑識実施へ",
-    "link": "https://biz.chosun.com/jp/jp-society/2026/10/17/FNKYTTF2TJF2JOVOZWRRQKS7LM/",
-    "published_at": "2026-10-16T23:39:05Z",
+    "title": "생계 고충 토로하다 캐나다 어학연수 떠난 여배우, 과감해진 패션에 깜짝",
+    "link": "https://biz.chosun.com/entertainment/tv/2026/10/18/GZQWCMDEG5SDENTGMEYDQNTBHE/",
+    "published_at": "2026-10-17T23:18:00Z",
     "category": "economy",
-    "description": null
+    "description": "민도희가 캐나다에서 근황을 전했다. 지난 17일 민도희는 자신의 인스타그램에 검은색 하트 이모지와 함께 여러 장의 사진을 게재했다. 사진 속 민도희는 블랙 색상의 슬리브리스 톱과 데님 팬츠를 매치해 가녀린 몸매를 드러낸 모습이다. 특히 민도희는 긴 머리를 자연스럽게 늘어뜨리며 내추럴한 분위기를 완성해 눈길을 사로잡았다. 이를 본 네티즌들은 \"빨리 와\", \""
   },
   {
     "source_name": "조선비즈",
-    "title": "부천 공장 화재로 심정지 빠진 40대 소방관 끝내 숨져",
-    "link": "https://biz.chosun.com/topics/topics_social/2026/10/17/7JM4RK7ZQJC5ZOHTY4FTDOWQKA/",
-    "published_at": "2026-10-16T23:39:05Z",
+    "title": "'친모 학대' 죽으려던 서강준 살린 사람, 안은진 아빠였다..비극의 시초 ('너 말고 다른 연애')",
+    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/18/GBQTIZLGGBRGINZUGY4WINZRHA/",
+    "published_at": "2026-10-17T23:12:00Z",
     "category": "economy",
-    "description": null
+    "description": "서강준과 안은진의 29년 전 숨겨진 비극적 서사가 밝혀지며 안방극장에 짙은 먹먹함과 충격을 안겼다.지난 17일 오후 9시 20분 방송된 KBS 2TV 토일 미니시리즈 ‘너 말고 다른 연애’(연출 황승기·이가람, 극본 유수지, 제작 유니켐) 9회에서는 남궁호(서강준 분)와 이미도(안은진 분)가 서로 커플링을 빼고 ‘한 달간의 이별’을 시작, 각자의 ‘다른"
   },
   {
     "source_name": "조선비즈",
-    "title": "2026統営グランフォンド開幕 2000人超が96.9km走破へ",
-    "link": "https://biz.chosun.com/jp/jp-society/2026/10/17/OJQ444B2GJFTJM7EZPONXLZ72Q/",
-    "published_at": "2026-10-16T23:08:57Z",
-    "category": "economy",
-    "description": null
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "두 바퀴로 달리는 해안절경 97㎞…2026 통영 그란폰도 개막",
-    "link": "https://biz.chosun.com/topics/topics_social/2026/10/17/LTWJMICEQBCCLIDSNMKPXVOQJA/",
-    "published_at": "2026-10-16T23:08:57Z",
+    "title": "釜山北港のサメ「ブカンイ」健康異常なし 滞在1カ月",
+    "link": "https://biz.chosun.com/jp/jp-society/2026/10/18/KPWPMQ6Q3FBZFIDU6SCAA5SLUQ/",
+    "published_at": "2026-10-17T23:11:34Z",
     "category": "economy",
     "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "김영철, 괌 현지인도 인정한 '돌+아이'력..냅다 한국말에 '폭소'",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/17/GI4TENJUGZTGGYTGMI3DKYTDGM/",
-    "published_at": "2026-10-16T23:30:00Z",
-    "category": "economy",
-    "description": "방송인 김영철이 괌 현지인에게 '또라이'라는 말을 듣고도 최고의 칭찬이라며 유쾌하게 받아쳤다.지난 16일 김영철의 유튜브 채널에는 '왕복 30만원 대로 다녀올 수 있는 갓성비 미국 여행지, 지금 당장 가야하는 이유(리얼 솔직 후기)'라는 제목의 영상이 공개됐다.이날 김영철은 유튜브 100만 조회수 달성을 기념해 포상휴가로 괌을 찾았다. 무려 21년 만에 괌"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "[김지수의 인터스텔라] “계좌도 카드도 없던 13억 인도인의 신용을 설계하다” 韓스타트업의 인디아 서바이벌",
-    "link": "https://biz.chosun.com/topics/kjs_interstellar/2026/10/17/KAONVTYSAJHMXHKMO6A4G5NBEM/",
-    "published_at": "2026-10-16T21:00:00Z",
+    "title": "상어 ‘부캉이’ 벌써 한달…“건강상태 이상 무”",
+    "link": "https://biz.chosun.com/topics/topics_social/2026/10/18/CAC2VUYQYRAC5OP3GG5WMWYN4A/",
+    "published_at": "2026-10-17T23:11:34Z",
     "category": "economy",
     "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "손석구, 이서진 ‘군기’ 잡는다..김광규 대신 멱살잡이 “잘했죠?”(‘비서진’)[Oh!쎈 예고]",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/17/ME4TONZRGMYTINZYG44TKODFGA/",
-    "published_at": "2026-10-16T23:20:00Z",
+    "title": "\"김도영 신드롬이다\", \"엄청난 에너지를 준다\"...전율의 멀티포에 동료들 러브홀릭, 슈퍼스타 KIA 용광로 만드나",
+    "link": "https://biz.chosun.com/sports/baseball/2026/10/18/GY2TKOJQMJTGMMJRMI2TMODEHE/",
+    "published_at": "2026-10-17T23:10:00Z",
     "category": "economy",
-    "description": "배우 손석구가 벌써부터 '비서진'과의 케미를 자랑했다.지난 16일 방송된 SBS 예능 ‘무엇이든 해줄지니 - 비서진’(이하 ‘비서진’)에서는 배우 손석구가 다음 ‘my 스타’로 등장하는 모습이 예고됐다.이날 예고에서 손석구는 “서진이 형님을 많이 부려 먹어야 재밌을 것 같아서”라며 “그러던 찰나에 광규 형님한테 연락이 왔다”라고 털어놨다.촬영 전부터 이서진"
+    "description": "\"엄청난 에너지를 준다\". \"김도영 신드롬이다\".KIA 타이거즈 간판타자 김도영(23)이 동료들을 황홀경에 빠뜨리는 타격으로 준플레이오프 1차전 승리를 이끌었다. 지난 17일 광주-기아 챔피언스필드에서 열린 2026 신한 SOL KBO 포스트시즌 LG 트윈스와의 준플레이오프 1차전에서 3타수2안타4타점을 기록하며 5-1 승리를 이끌었다. 염경엽 감독이 잡겠"
   },
   {
     "source_name": "조선비즈",
-    "title": "'치킨집 매출 12억' 박명수 \"남녀 커플 치맥 먹더니..신문지 두고 먹튀\" 황당(사당귀)",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/17/HAYTOOBUGU2TCZRRMVSTKZLBMQ/",
-    "published_at": "2026-10-16T23:19:00Z",
+    "title": "'58세 새신랑' 김형진 \"부끄럽기 그지 없다\"..오늘(18일) 비연예인과 결혼 [Oh!쎈 이슈]",
+    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/18/GZRDKNLDMVSTSYJZMNQWEYLDGQ/",
+    "published_at": "2026-10-17T23:06:00Z",
     "category": "economy",
-    "description": "과거 여의도에서 잘나가는 치킨집을 운영했던 박명수가 손님에게 4만 5천 원을 먹튀 당한 사연을 폭로했다. KBS2 ‘사장님 귀는 당나귀 귀’에서 박명수가 치킨 사업 시절 겪은 황당한 ‘먹튀’ 손님 경험담이 공개된다.오는 18일(일) 오후 4시 40분 방송되는 ‘사당귀’에서는 박명수가 과거 치킨 사업을 하던 시절 겪었던 황당한 ‘먹튀’ 일화를 털어놔 이목을"
+    "description": "코미디언 김형진이 58세의 나이에 새신랑이 된다.김형진은 18일 대구 달서구 본동에 위치한 한 웨딩홀에서 비연예인 예비 신부와 결혼식을 올린다.결혼식은 양가 가족과 친척, 가까운 지인들을 초대해 진행될 예정이다. 김형진의 결혼 소식은 한국방송연기자노동조합 코미디언지부장이자 (사)대한민국방송코미디언협회장 김학래가 직접 밝히면서 알려졌다.결혼 소식이 알려진 뒤"
   },
   {
     "source_name": "조선비즈",
-    "title": "가장 투어스다운 순간들..'TO US'",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/17/GJSTOZRQGRRGGOJYGUZWMZRSHA/",
-    "published_at": "2026-10-16T23:19:00Z",
-    "category": "economy",
-    "description": "그룹 투어스(TWS)가 진솔한 매력으로 돌아온다.투어스는 지난 16이 공식 채널을 통해 내달 2일 오후 6시에 발매하는 싱글 2집 ‘투 어스(TO US)’의 개인 콘셉트 영상을 공개하고 컴백 열기를 끌어올렸다.이번에 공개된 콘셉트 영상에서 투어스 멤버들은 함께 춤추고 자유롭게 걸으며 각자의 개성을 표현했다. 편안하고 자연스러운 분위기로 별다른 연출 없이 자"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "'돌싱맘' 정가은, 여전한 8등신 송혜교 클래스…곧 50대 안 믿기는 요가복 자태",
-    "link": "https://biz.chosun.com/entertainment/tv/2026/10/17/G44TGYRUGVSGMN3DGVRWMMDDGA/",
-    "published_at": "2026-10-16T23:17:00Z",
-    "category": "economy",
-    "description": "정가은이 슬렌더 자태를 과시했다. 지난 16일 정가은은 자신의 인스타그램에 \"오랜만에 광고 촬영 무슨 광고일까요?\"라는 글과 함께 여러 장의 사진을 게재했다. 사진 속에는 요가 매트 위에 앉아 포즈를 취하고 있는 정가은의 모습이 담겼다. 특히 그는 블랙 색상의 톱과 카키 색상의 레깅스를 입고 늘씬한 몸매를 뽐내 눈길을 끌었다. 이를 본 네티즌들은 \"우와 멋"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "조준현, 썸녀와 ‘케미’ 자랑했는데..♥소이원 “표현 영혼 없다” (‘신랑수업2’)",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/17/GI4WGMJTMNRDKMDBGE3WCMLBGU/",
-    "published_at": "2026-10-16T23:10:00Z",
-    "category": "economy",
-    "description": "‘신랑수업2’ 조준현이 소이원과 방송 후 데이트를 즐겼다고 근황을 전했다. 지난 16일 방송된 채널A 예능 ‘신랑수업2’에서는 유도 선수 출신 조준현이 소이원 아나운서와 이색 데이트에 나서는 모습이 그려졌다.앞서 소개팅을 하고 조준현은 스포츠 아나운서 소이원에게 애프터 신청을 했던 바. 조준현은 “소개팅 하고 이원 씨 집 근처에서 소맥도 한잔하고 노래방도"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "방탄소년단 '아리랑' 떼창, 일본 TV서 울려 퍼진다",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/17/MIZTEYJRMQ4DCOBUGZTDMNBUGU/",
-    "published_at": "2026-10-16T23:03:00Z",
-    "category": "economy",
-    "description": "일본TV에서 ‘아리랑’이 울려 퍼진다. 빅히트 뮤직은 17일 “방탄소년단의 월드투어로 지난 4월 진행된 도쿄돔 공연이 오는 11월 일본 TV를 통해 방송된다”고 밝혔다.이어 “일본 TBS는 오는 11월 28일 오후 8시 ‘TBS 채널1 최신 드라마·음악·영화’를 통해 ‘방탄소년단 월드 투어 ‘아리랑’ 인 재팬(BTS WORLD TOUR ‘ARIRANG’ I"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "\"돈독 올랐냐\" 욕먹던 크러쉬, 비밀로 숨긴 '신곡 상대=아이유'였다..'투샷' 공개 [핫피플]",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/17/MM4GMNBWG5RGMYZWMJRDCYRRGQ/",
-    "published_at": "2026-10-16T23:00:00Z",
-    "category": "economy",
-    "description": "가수 크러쉬가 신곡 듀엣 상대를 숨겼다가 에픽하이에게 \"돈독 올랐냐\"는 농담 섞인 공격을 받았던 가운데, 베일에 싸여 있던 주인공이 아이유로 밝혀져 화제를 모으고 있다.지난 16일 크러쉬 측은 오는 21일 발매되는 신곡 '삐그덕'의 새 포스터를 공개했다. 이번 신곡에는 아이유가 피처링으로 참여하며 두 사람의 특별한 음악적 만남이 성사됐다.공개된 포스터부터"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "노희찬♥최미소, 배우 부부 된다..3일 연속 깜짝 결혼 발표[핫피플]",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/17/ME4WCOJUGE2WIOBRHBSGMMJQHE/",
-    "published_at": "2026-10-16T22:52:00Z",
-    "category": "economy",
-    "description": "또 열애설 없이 깜짝 결혼 발표로 배우 부부가 탄생했다. 주인공은 뮤지컬 배우 노희찬과 1살 연하의 최미소다. 하정우와 차정원, 이규한과 솔비에 이어 연예계에 3일 연속 깜짝 결혼 소식이 전해져 축하가 쏟아지고 있다.노희찬은 지난 16일 자신의 공식 팬카페를 통해 자필편지를 공개하며, “저에게 새로운 시작이 찾아왔습니다. 평생을 함께하고 싶은 소중한 사람이"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "사령탑은 게임메이커로 지목, '19홈런-21도루' KIA 히트상품 두근두근 첫 가을 \"일본과 결승전이라 생각합니다\"",
-    "link": "https://biz.chosun.com/sports/baseball/2026/10/17/GQ3TQNLBGU4DMYJQMIYDSMZXME/",
-    "published_at": "2026-10-16T22:42:00Z",
-    "category": "economy",
-    "description": "\"일본과 결승전이라고 생각하고 있다\".KIA 타이거즈 외야수 박재현(20)이 첫 포스트시즌을 맞아 설레임을 보였다. 2026 준플레이오프를 하루 앞둔 지난 16일 광주-기아 챔피언스필드에서 대비훈련을 펼치면서 다소 긴장감을 드러냈다. \"경기를 해봐야 어떤지 알 것 같다. 아시안게임 결승전이라고 생각하고 있다\"고 말했다. 고졸 2년만에 첫 가을무대이니 떨리는"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "'헨리♥와 결혼' 백진희, 캐나다 신혼 준비 중 몸매 관리?..군살 제로",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/17/MZRDKNZYG4YWEMRWGJSGIMLGMQ/",
-    "published_at": "2026-10-16T22:41:00Z",
-    "category": "economy",
-    "description": "배우 백진희가 내년 1월 결혼을 앞둔 가운데, 절친들과 부산 여행을 떠나 다이어트에 대한 솔직한 이야기를 나눴다.지난 16일 백진희의 유튜브 채널에는 '여자들끼리 부산여행이란^^ 세 여자의 꺄르륵 1박 2일 부산 우정 여행 털기'라는 제목의 영상이 공개됐다.이날 백진희는 친한 친구 두 명과 함께 1박 2일 부산 여행에 나섰다. 세 사람은 부산에 도착하자마자"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "중국언론의 황당한 주장 “손흥민, 대표팀 내부 소통에 문제 있다…주장 자격 없어”",
-    "link": "https://biz.chosun.com/sports/baseball/2026/10/17/GEYTEOBRMQ4DIMDDMIYWENJUME/",
-    "published_at": "2026-10-16T22:40:00Z",
-    "category": "economy",
-    "description": "중국 매체가 한국 축구대표팀 주장 손흥민(34, LAFC)의 리더십을 비판하며 주장으로서의 자격까지 문제 삼았다. 중국 소후 스포츠는 15일 게재한 칼럼에서 \"손흥민의 대표팀 내 역할을 분석하며 개인적으로 뛰어난 선수라는 사실은 변함이 없다. 그러나 손흥민이 팀을 이끄는 주장으로서의 역량은 별개다. 손흥민의 리더십에는 문제가 있다\"고 주장했다. 손흥민이"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "김지원, '시청률 퀸' 돌아왔다..'닥터X' 의료 고증 논란에도 최고 '16.9%'[Oh!쎈 이슈]",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/17/GFTGMMZTMUZTQY3FGMYDQNBQGA/",
-    "published_at": "2026-10-16T22:37:00Z",
-    "category": "economy",
-    "description": "배우 김지원이 돌아온 ‘시청률 퀸’의 존재감을 입증했다.김지원의 복귀작인 SBS 금토드라마 ‘닥터X : 하얀 마피아의 시대’(극본 편성근, 연출 이정림)가 일부 의사들의 반발에도 불구하고 시청률 상승세를 이어가고 있다. 첫 방송부터 3회 연속 상승을 기록하며 올 하반기 최고의 화제작이 됐다.17일 시청률 조사회사 닐슨코리아 집계에 따르면, 지난 16일 오후"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "“이서진? 결혼 절대 못해” ‘바타♥’ 지예은, ‘55세’ 미혼男의 훈수에 발끈 [핫피플]",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/17/GU2TOMRRGRRGCZTCHBSTMM3BGA/",
-    "published_at": "2026-10-16T22:31:00Z",
-    "category": "economy",
-    "description": "‘비서진’ 지예은이 잔소리하는 이서진에 극대노했다. 지난 16일 방송된 SBS 예능 ‘무엇이든 해줄지니 - 비서진’(이하 ‘비서진’)에서는 지예은이 결혼 잔소리를 하는 이서진, 김광규에 분노하는 모습이 그려졌다.이날 이서진은 결혼을 앞둔 지예은을 향해 “왜 이렇게 빨리 가냐. 천천히 가라”라고 만류했다. 심지어 “웨딩드레스 입었다, 벗었다 한다”라며 말실수"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "전진♥류이서, 임신→유산 공개한 이유..\"같은 아픔 겪는 분, 위로되길\"[핫피플]",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/17/GM2GKZBYMU4TAM3CG5STCYRVGY/",
-    "published_at": "2026-10-16T22:30:00Z",
-    "category": "economy",
-    "description": "그룹 신화 멤버 전진의 아내 류이서가 시험관 시술 끝에 임신에 성공했지만, 7주 차에 유산한 사실을 고백했다. 기쁜 임신 소식부터 가슴 아픈 이별까지 모든 과정을 공개한 이유도 직접 밝히며 많은 이들의 응원을 받고 있다.지난 16일 유튜브 채널 '내사랑 류이서'에는 '전진류이서 부부의 배아 이식 그 후'라는 제목의 영상이 공개됐다.이날 류이서는 배아 이식"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "トランプ氏現代自動車の米投資言及 ジョージア拡張に5億6000万ドル",
-    "link": "https://biz.chosun.com/jp/jp-international/2026/10/17/DEUMJCPDFNCV7NCKOACTY5BCUQ/",
-    "published_at": "2026-10-16T22:23:22Z",
+    "title": "ワイルス首席補佐官が出演手配 ザカライア報道官3日で解任",
+    "link": "https://biz.chosun.com/jp/jp-international/2026/10/18/KSWCAC2WBZBQZCVZEYM3DMLXWQ/",
+    "published_at": "2026-10-17T23:02:08Z",
     "category": "economy",
     "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "트럼프 “현대차, 美 조지아 공장에 7500억원 투자”… 중간선거 유세서 언급",
-    "link": "https://biz.chosun.com/international/international_general/2026/10/17/MG44U7GGURHURN4KY3TTXHXPUI/",
-    "published_at": "2026-10-16T22:23:22Z",
+    "title": "취임 사흘 만에 해임된 백악관 대변인… 논란의 인터뷰 누가 주선했나",
+    "link": "https://biz.chosun.com/international/international_general/2026/10/18/AKKFYPEE4JDIFLLXPES7VSUFEM/",
+    "published_at": "2026-10-17T23:02:08Z",
     "category": "economy",
     "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "\"사실은 실수로 번지 점프\" 구성환, 얼떨결에 버킷리스트 달성('나혼산')",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/17/GRRGEMDFMFRDSMZSGJRDGMZZGQ/",
-    "published_at": "2026-10-16T22:23:00Z",
-    "category": "economy",
-    "description": "배우 구성환이 버킷리스트였던 번지점프에 성공했다. 지난 16일 방송된 MBC ‘나 혼자 산다’(이하'나혼산')에는 구성환이 26살 연하의 친구와 하루를 보내는 모습이 그려져 눈길을 끌었다. 이날 구성환은 오토바이 면허 시험장에서 나란히 떨어졌던 2006년생 친구와 함께 라이딩을 즐겼다. 두 사람은 라이딩 중 번지점프대로 향해 놀라움을 자아냈다. 구성환은 “"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "배기성, ‘4개월만 이혼’ 이선정 만취 폭로..“흑역사 많아”(선정하기)",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/17/MZRDEMJTGU3TQYLGHAYWMNJSME/",
-    "published_at": "2026-10-16T22:20:00Z",
-    "category": "economy",
-    "description": "배우 이선정이 과거 배기성 덕분에 힘든 시절을 극복할 수 있었다고 고백했다. 지난 16일 유튜브 채널 ‘이선정의 선정하기’에는 ‘스승 배기성 X 제자 이선정. 귀호강 보컬 레슨부터 이선정 만취 폭로까지!’라는 제목의 영상이 게재됐다.이날 절친 배기성의 작업실을 찾은 이선정은 “오빠 장가가기 전에 나랑 술 많이 마시고 이랬다”라고 과거를 회상했다. 배기성은"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "'15년만 이혼' 개코, 눈가 촉촉..올해 악재였다→부친상까지('더 시즌즈')",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/17/GBQTOYLEGI2TEOLFMYZGKOJVMY/",
-    "published_at": "2026-10-16T22:15:00Z",
-    "category": "economy",
-    "description": "그룹 다이나믹듀오의 개코가 결혼 15년 만에 이혼 소식을 전한 가운데, 올해 부친상까지 겪었다고 고백해 안타까움을 자아냈다.지난 16일 방송된 KBS 2TV '더 시즌즈-성시경의 고막남친'에는 개코가 게스트로 출연해 음악 인생부터 세상을 떠난 아버지를 향한 그리움까지 솔직한 이야기를 전했다.이날 개코는 다이나믹듀오의 대표곡 '죽일 놈'을 홀로 열창하며 무"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "'얼마나 충격이었으면' 4연패 탈락 대참사→30분간 이례적 미팅→클럽하우스 굳게 닫혔다...오타니 “분하다”, 로버츠 “위로 익숙하지 않아”",
-    "link": "https://biz.chosun.com/sports/baseball/2026/10/17/GU4GMNJRMQYGKM3EMNRWMMRUGI/",
-    "published_at": "2026-10-16T22:14:00Z",
-    "category": "economy",
-    "description": "월드시리즈 3년 연속 우승에 도전한 메이저리그 LA 다저스는 내셔널리그 챔피언십시리즈에서 4패로 탈락했다. 다저스는 16일(이하 한국시간) 미국 로스앤젤레스 유니클로필드 앳 다저 스타디움에서 열린 내셔널리그 챔피언십시리즈 4차전 밀워키 브루어스와 경기에서 4-6으로 패배했다. 다저스는 1~4차전을 모두 패배하며 3년 연속 월드시리즈 우승은 좌절됐다. 반면"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "“좀 더 즐기는 것 같다”…‘언더독’ LG, 오히려 편하다. KIA전 7연패 부담 잊고 ‘150km’ 좌투수처럼 즐겨라",
-    "link": "https://biz.chosun.com/sports/baseball/2026/10/17/GJRWCZBYGI4TANBQGEYDSMZTMU/",
-    "published_at": "2026-10-16T22:11:00Z",
-    "category": "economy",
-    "description": "드디어 준플레이오프(5전3선승제) 시작이다.프로야구 LG 트윈스는 17일 광주 KIA챔피언스필드에서 KIA 타이거즈와 준플레이오프 1차전 맞대결을 한다. 정규시즌 4위 LG는 와일드카드 결정전 1차전에서 5위 두산을 4-1로 꺾고 준플레이오프에 진출했다.LG는 객관적인 전력에서 3위 KIA에 열세다. 야구 전문가들의 예상은 KIA의 승리가 많다. 투타 모"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "'14살 연하♥' 예비 아내 운명이었다..강균성 \"9년 만에 재회해 결혼\"('전현무계획4')",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/17/GM2DQMRVGQZDINZRMY3GGYJZMU/",
-    "published_at": "2026-10-16T22:10:00Z",
-    "category": "economy",
-    "description": "그룹 노을의 강균성이 14살 연하의 배우 유하진과 9년 만에 재회해 결혼까지 약속하게 된 특별한 러브스토리를 공개했다.지난 16일 방송된 MBN '전현무계획4'에서는 오는 30일 결혼을 앞둔 강균성이 출연해 예비신부와의 첫 만남부터 결혼을 결심하기까지의 과정을 털어놨다.이날 강균성은 올해 2월 중순부터 예비신부와 만남을 시작했다고 밝혀 모두를 놀라게 했다"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "'박성광♥' 이솔이, 암 극복 후 찾은 유방암 행사 \"겪어본 사람만이 공감할 수 있겠지만\"",
-    "link": "https://biz.chosun.com/entertainment/tv/2026/10/17/MMZDAZRRME3DKYLCGUYDENJRGU/",
-    "published_at": "2026-10-16T22:07:00Z",
-    "category": "economy",
-    "description": "이솔이가 유방암 관련 행사에 다녀온 근황을 전했다. 지난 15일 이솔이는 자신의 인스타그램 스토리에 핑크리본 한옥 하우스에 다녀온 모습을 공개했다. 해당 장소에서는 유방암 종식을 위한 캠페인이 전개되고 있다. 이솔이는 \"겪어본 사람만이 깊이 공감할 수 있겠지만, 내가 아는 모든 사람들은 겪지 않길 바라는 마음\"이라며 \"아침부터 겨울이 병원 다녀오느라 샵도"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "Incar Financial Serviceが手数料返還規定を見直す",
-    "link": "https://biz.chosun.com/jp/jp-finance/2026/10/17/56H5M3JB7NHGJGLDUDG3QDZ64M/",
-    "published_at": "2026-10-16T22:00:00Z",
+    "title": "ステーブルコイン市場拡大も韓国は法人口座停滞で出遅れ",
+    "link": "https://biz.chosun.com/jp/jp-finance/2026/10/18/2ZRBHV3LRJE5TJF55XNDZSBEEU/",
+    "published_at": "2026-10-17T23:00:00Z",
     "category": "economy",
     "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "‘건물주’ 김요한, 재력 과시..“결혼 준비? ♥오연희, 몸만 오면 돼” (‘신랑수업2’)",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/17/GY3DMMBUMZSDQNRTHE3DAYJTGA/",
-    "published_at": "2026-10-16T22:00:00Z",
+    "title": "고의4구로 걸러야 하나…\"대단한 선수, 인정한다\" 솔로-투런, 4타점 미쳤다, 김도영을 LG는 막을 수 있을까",
+    "link": "https://biz.chosun.com/sports/baseball/2026/10/18/HBSTGNLDGJRGGMTGMVRTQOBRGA/",
+    "published_at": "2026-10-17T23:00:00Z",
     "category": "economy",
-    "description": "‘신랑수업2’ 김요한이 오연희와 결혼에 대한 마음을 드러냈다. 지난 16일 방송된 채널A 예능 ‘신랑수업2’에서는 김요한이 오연희와 함께 단골 맞춤정장 업체를 찾은 모습이 그려졌다.이날 15년 지기 친구가 운영하는 맞춤 정장 업체를 찾은 김요한은 오연희에게 친구를 소개했다. 친구는 “제수씨”라고 인사하며 “어떠냐. 잘 챙겨주냐”라고 물었다. 오연희는 “너무"
+    "description": "\"결정적인 순간에 도영이한테 당했다\"결국 또 김도영 봉쇄에 실패했고, 승패의 결정적인 포인트였다. 염경엽 감독은 준플레이오프에 진출한 뒤 \"결정적인 순간 (김)도영이한테 당했다. 이번에도 도영이를 어떻게 잡느냐가 중요할 것 같다\"고 강조했다. 김도영은 지난 5일 정규시즌 잠실 LG전에서 3-4로 뒤진 9회 2아웃에서 고우석 상대로 역전 결승 스리런 홈런을"
   },
   {
     "source_name": "조선비즈",
-    "title": "“청년 설계사 신용불량 내몬다” 질타에… 인카금융, 수수료 환수 규정 개선",
-    "link": "https://biz.chosun.com/stock/finance/2026/10/14/VYWGNI3S65DNLMHDDOKKRHYRIY/",
-    "published_at": "2026-10-16T22:00:00Z",
-    "category": "economy",
-    "description": null
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "수척해진 얼굴? 거미, 다시 환하게 웃었다..♥조정석과 티키타카 케미[핫피플]",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/17/MFTDKMTBGZRTKYRZGE4TQYJXG4/",
-    "published_at": "2026-10-16T21:50:00Z",
-    "category": "economy",
-    "description": "가수 거미가 최근 달라진 외모로 건강을 걱정하는 반응이 나온 가운데, 남편 조정석의 유튜브 콘텐츠에서 환하게 웃는 근황을 전해 눈길을 끌었다.지난 16일 거미의 공식 인스타그램에는 조정석의 유튜브 채널 '채널 조정석'에서 선보이는 콘텐츠 '석과 음악사이' 출연 장면이 공개됐다.공개된 영상에서 조정석은 \"오늘 거미 씨가 와 있다\"며 아내의 깜짝 방문 소식을"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "‘데뷔 33년차’ 박명수, ‘원로 개그맨’ 소리에 충격..김규원 “솔직히 늙크크” (할명수)",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/17/GEZGGMDEGIZTKMLDMZRTCYLBME/",
-    "published_at": "2026-10-16T21:48:00Z",
-    "category": "economy",
-    "description": "박명수가 MZ 사이에서 '원로 개그맨'이라는 말에 충격을 받았다. 지난 16일 유튜브 채널 ‘할명수’에는 ‘임금님도 이런 밥상 받으면 눈물 흘리지 | 밥도둑 15종 리뷰 (w. 김규원)’라는 제목의 영상이 게재됐다.이날 ‘할명수’ 첫 출연인 김규원은 “박명수 선배님의 아들을 노리고 있는 코미디언 김규원이다”라고 자신을 소개했다.박명수는 “단독으로 잘 안 모"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "'샘김과 결혼' 이재, 금수저였다..외조부 신영균과 예술가 '로열패밀리'[핫피플]",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/17/MQYDSYLCGA2DOZJWGVSDQZJTME/",
-    "published_at": "2026-10-16T21:34:00Z",
-    "category": "economy",
-    "description": "가수 겸 프로듀서 이재가 11월 결혼을 앞두고 외조부인 원로배우 신영균의 백수연을 찾았다. 예비 남편인 샘김과 함께 외조부를 만나며 결혼 전 특별한 시간을 가진 것. 이재와 신영균이 함께 있는 모습에 이들의 집안 역시 관심의 대상이 됐다.이재와 샘김은 지난 15일 오후 서울 강동구에 위치한 스테이지28에서 열린 제16회 아름다운예술인상 시상식에 함께 참석했"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "ガソリン22週続落全国平均1856.6ウォン",
-    "link": "https://biz.chosun.com/jp/jp-industry/2026/10/17/CAMQ42Q3LVC55EPHOLOBHJW6MI/",
-    "published_at": "2026-10-16T21:14:44Z",
+    "title": "440조원대로 커진 스테이블코인 시장… 한국은 법인계좌 막혀 구경만",
+    "link": "https://biz.chosun.com/stock/finance/2026/10/18/HM4AO47WBJGIXAZYIMYBCBGU7A/",
+    "published_at": "2026-10-17T23:00:00Z",
     "category": "economy",
     "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "전국 휘발유 가격 22주 연속 하락… 리터 당 1856.6원",
-    "link": "https://biz.chosun.com/industry/company/2026/10/17/L5VRABU6J5B55J6TDQRSCYDUVE/",
-    "published_at": "2026-10-16T21:14:44Z",
+    "title": "319만 돌파 '암살자들', 19일 연속 韓영화 1위..5주차 장기 흥행 레이스",
+    "link": "https://biz.chosun.com/entertainment/movie/2026/10/18/MNRDEM3BMQZWIZBYG5SDONRVGE/",
+    "published_at": "2026-10-17T22:53:00Z",
+    "category": "economy",
+    "description": "영화 '암살자(들)'(감독 허진호)이 300만 관객을 돌파하며 19일 연속 한국영화 박스오피스 정상을 지켰다. 개봉 4주차 주말에도 한국영화 예매율 1위를 굳건히 수성, 식지 않는 흥행 저력을 과시하고 있다.18일 영화진흥위원회 영화관입장권 통합전산망(오전 7시 13분 기준)에 따르면, '암살자(들)'은 누적 관객수 3,192,758명을 기록했다. 이로써"
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "'닥터X' 김지원, 제대로 사고 쳤다..20% 눈앞→'김부장' 소지섭 긴장 [종합]",
+    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/18/MUYTMM3EG43TMM3CMEYTCNTBMM/",
+    "published_at": "2026-10-17T22:50:00Z",
+    "category": "economy",
+    "description": "‘닥터X : 하얀 마피아의 시대’가 마의 20%를 눈앞에 뒀다.SBS 새 금토드라마 ‘닥터X : 하얀 마피아의 시대’(이하 ‘닥터X’)가 최고 시청률 20.8%를 기록, 또 자체 최고 시청률을 경신했다.18일 시청률 조사회사 닐슨코리아에 따르면 지난 17일 방송된 '닥터X' 4화 시청률은 최고 20.8%, 전국 18.5%, 수도권 18.4%를 나타탰다.이는"
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "[사진]진기주 '사과 같은 내 얼굴'",
+    "link": "https://biz.chosun.com/entertainment/entertainment_photo/2026/10/18/MJRGEMJWG43TMY3EHBSTKN3CMU/",
+    "published_at": "2026-10-17T22:46:00Z",
+    "category": "economy",
+    "description": "배우 진기주가 18일 인천국제공항을 통해 패션매거진 화보 촬영을 위해 일본으로 출국했다.이날 진기주는 따뜻한 느낌의 반코트에 브라운 숄더백을 매치해 편안한 느낌의 공항패션을 완성했다.배우 진기주가 출국장으로 향하며 포즈를 취하고 있다. 2026.10.18 [OSEN=인천공항, 조은정 기자]"
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "[사진]진기주 '로맨틱 가을'",
+    "link": "https://biz.chosun.com/entertainment/entertainment_photo/2026/10/18/MNRDKMZVMM4TIOLDGM3GKMLDMU/",
+    "published_at": "2026-10-17T22:45:00Z",
+    "category": "economy",
+    "description": "배우 진기주가 18일 인천국제공항을 통해 패션매거진 화보 촬영을 위해 일본으로 출국했다.이날 진기주는 따뜻한 느낌의 반코트에 브라운 숄더백을 매치해 편안한 느낌의 공항패션을 완성했다.배우 진기주가 출국장으로 향하며 포즈를 취하고 있다. 2026.10.18 [OSEN=인천공항, 조은정 기자]"
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "[사진]진기주 '가을 감성'",
+    "link": "https://biz.chosun.com/entertainment/entertainment_photo/2026/10/18/MM2WCYJXMMZDCZRVMVQTMYJSMM/",
+    "published_at": "2026-10-17T22:45:00Z",
+    "category": "economy",
+    "description": "배우 진기주가 18일 인천국제공항을 통해 패션매거진 화보 촬영을 위해 일본으로 출국했다.이날 진기주는 따뜻한 느낌의 반코트에 브라운 숄더백을 매치해 편안한 느낌의 공항패션을 완성했다.배우 진기주가 출국장으로 향하며 포즈를 취하고 있다. 2026.10.18 [OSEN=인천공항, 조은정 기자]"
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "[사진]진기주 '미소로 완성한 공항패션'",
+    "link": "https://biz.chosun.com/entertainment/entertainment_photo/2026/10/18/GIZWCMLCG43DOMBUGNSDAYJRGY/",
+    "published_at": "2026-10-17T22:45:00Z",
+    "category": "economy",
+    "description": "배우 진기주가 18일 인천국제공항을 통해 패션매거진 화보 촬영을 위해 일본으로 출국했다.이날 진기주는 따뜻한 느낌의 반코트에 브라운 숄더백을 매치해 편안한 느낌의 공항패션을 완성했다.배우 진기주가 출국장으로 향하며 포즈를 취하고 있다. 2026.10.18 [OSEN=인천공항, 조은정 기자]"
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "[사진]진기주 '아침부터 러블리 포텐'",
+    "link": "https://biz.chosun.com/entertainment/entertainment_photo/2026/10/18/G4ZDENZVGE2TKMDDMI2DMMTGHE/",
+    "published_at": "2026-10-17T22:45:00Z",
+    "category": "economy",
+    "description": "배우 진기주가 18일 인천국제공항을 통해 패션매거진 화보 촬영을 위해 일본으로 출국했다.이날 진기주는 따뜻한 느낌의 반코트에 브라운 숄더백을 매치해 편안한 느낌의 공항패션을 완성했다.배우 진기주가 출국장으로 향하며 포즈를 취하고 있다. 2026.10.18 [OSEN=인천공항, 조은정 기자]"
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "[사진]진기주 '귀여움 폭발'",
+    "link": "https://biz.chosun.com/entertainment/entertainment_photo/2026/10/18/GEYWMZBVHE3TQZRSGVSTEMRZGU/",
+    "published_at": "2026-10-17T22:45:00Z",
+    "category": "economy",
+    "description": "배우 진기주가 18일 인천국제공항을 통해 패션매거진 화보 촬영을 위해 일본으로 출국했다.이날 진기주는 따뜻한 느낌의 반코트에 브라운 숄더백을 매치해 편안한 느낌의 공항패션을 완성했다.배우 진기주가 출국장으로 향하며 포즈를 취하고 있다. 2026.10.18 [OSEN=인천공항, 조은정 기자]"
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "톰 크루즈X케이티 홈즈 결혼생활 폭로 나왔다 \"괴물의 뱃속 같아\"",
+    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/18/MIYDGNZYMI3TGZRZME4TSMJRG4/",
+    "published_at": "2026-10-17T22:44:00Z",
+    "category": "economy",
+    "description": "제니 맥카시가 케이티 홈즈와 톰 크루즈의 과거 결혼생활 당시를 돌아보며 홈즈의 성격과 분위기가 결혼 후 완전히 달라졌다고 밝혀 파장을 일으키다.17일(현지시간) 데일리메일의 보도에 따르면, 배우 겸 모델 제니 맥카시(53)는 자신의 팟캐스트 프로그램에 지난 2007년 사이언톨로지를 탈퇴한 앤 갈라드 힐을 게스트로 초청해 이야기를 나누던 중, 과거 톰 크루즈"
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "[사진]진기주 '따뜻한 가을 도시여자'",
+    "link": "https://biz.chosun.com/entertainment/entertainment_photo/2026/10/18/ME2TOYLBHFSWCMRSMJSGCZTCGI/",
+    "published_at": "2026-10-17T22:44:00Z",
+    "category": "economy",
+    "description": "배우 진기주가 18일 인천국제공항을 통해 패션매거진 화보 촬영을 위해 일본으로 출국했다.이날 진기주는 따뜻한 느낌의 반코트에 브라운 숄더백을 매치해 편안한 느낌의 공항패션을 완성했다.배우 진기주가 출국장으로 향하며 포즈를 취하고 있다. 2026.10.18 [OSEN=인천공항, 조은정 기자]"
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "[사진]진기주 '러블리 깻잎머리'",
+    "link": "https://biz.chosun.com/entertainment/entertainment_photo/2026/10/18/GI3WMYZXGU4DIOLDMZTDQMLEMM/",
+    "published_at": "2026-10-17T22:44:00Z",
+    "category": "economy",
+    "description": "배우 진기주가 18일 인천국제공항을 통해 패션매거진 화보 촬영을 위해 일본으로 출국했다.이날 진기주는 따뜻한 느낌의 반코트에 브라운 숄더백을 매치해 편안한 느낌의 공항패션을 완성했다.배우 진기주가 출국장으로 향하며 포즈를 취하고 있다. 2026.10.18 [OSEN=인천공항, 조은정 기자]"
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "“폰세 능가! 여기서 야구하면 안 돼, 떠나라” 외쳤는데 韓 다년계약 잔류…베네수엘라 매체도 경악 “아빌라, 역사적 계약 성사”",
+    "link": "https://biz.chosun.com/sports/baseball/2026/10/18/GRSTCNZRMJRWCNTBHAZWENJQMM/",
+    "published_at": "2026-10-17T22:43:00Z",
+    "category": "economy",
+    "description": "KBO리그 9개 구단에 비상이 걸렸다. 한국에서 야구를 하면 안 된다고 그렇게 외쳤건만 SSG 랜더스와 재계약이 성사됐고, 심지어 다년계약이다. 페드로 아빌라의 고국인 베네수엘라에서도 이를 주목할 정도로 이번 계약의 임팩트가 강렬하다. 프로야구 SSG 랜더스 구단은 지난 16일 “외국인투수 페드로 아빌라와 재계약에 합의했다. 계약기간은 최대 2년이며, 세부"
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "'나혼산’ 조작설 이어 안전불감증 논란..구성환 번지점프에 ‘시끌’ [Oh!쎈 이슈]",
+    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/18/MQ3TCZJWGRSWMZRWGY2WENDCMU/",
+    "published_at": "2026-10-17T22:42:00Z",
+    "category": "economy",
+    "description": "‘나 혼자 산다’가 조작 논란으로 호되게 당한 가운데, 이번에는 구성환 편이 안전불감증으로 걱정을 안기고 있다.17일 한 누리꾼은 SNS를 통해 “‘나혼산’ 보다가 이게 맞나 싶은 생각이 든다. 번지점프대 위에서 일하시면서 안전화, 안전모는 그렇다쳐도 고소작업용 안전벨트도 착용하지 않고 번지점프줄을 밟고 있다가 놓는다”고 방송에 나온 장면을 언급했다.이어"
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "‘금메달 2관왕’ 오상욱, 발목·허리 디스크에도 경기에 올인 “수술도 미뤄”(전참시)",
+    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/18/GEYTSNJUMZSGEZJVHE3TMMJZGU/",
+    "published_at": "2026-10-17T22:38:00Z",
+    "category": "economy",
+    "description": "오상욱은 발목, 허리 부상에도 금메달을 획득해 모두의 박수를 받았다.17일 방송된 MBC ‘전지적 참견 시점’(이하 전참시)에는 펜싱 선수 오상욱, 위댐보이즈 바타, 인규가 출연했다.오상욱은 허리 디스크로 고생하고 있다며 “처음엔 양말 신다가 그러더라. 두 번째는 차에서 기침을 팍 했는데 터졌다”라고 설명했다. 오상욱은 허리 디스크 수술을 해야 할 정도지만"
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "'데뷔 3주년' 영파씨, 작사·작곡부터 연기까지…'크리에이터형 아티스트'의 거침없는 진화",
+    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/18/MNTGIMZVMZRDIYJYGM2WMZRUMQ/",
+    "published_at": "2026-10-17T22:35:00Z",
+    "category": "economy",
+    "description": "그룹 영파씨(YOUNG POSSE)가 데뷔 3주년을 맞아 단순한 아이돌을 넘어 '스스로 무대를 만드는' 크리에이터형 아티스트로 완전히 자리매김했다.지난 2023년 10월 18일 첫 번째 EP 'MACARONI CHEESE'로 가요계에 강렬한 출사표를 던진 영파씨(정선혜, 위연정, 지아나, 도은, 한지은)는 정통 힙합 기반의 신선한 음악과 유쾌하고 솔직한"
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "이현이, 톱모델인데..혼돈의 옷방 공개 “한혜진한테 등짝 맞을 듯”(워킹맘이현이)",
+    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/18/MM3TSNBSG5RGEMRWGJSDIN3EGM/",
+    "published_at": "2026-10-17T22:33:00Z",
+    "category": "economy",
+    "description": "모델 겸 방송인 이현이가 옷방을 정리했다.17일 채널 ‘워킹맘이현이’에는 ‘본격 가을맞이 동묘급 혼돈이었던 이현이 드레스룸 환골탈태 시킨 비결 대공개’라는 영상이 게재됐다.이현이는 “옷이 다시 포화상태가 됐다”라며 꽉 찬 옷방을 공개했다. 그동안 나눔도 하고 정리도 했지만 다시금 제자리걸음이 된 것.이현이는 “지금 9월이다. 계절이 바뀌고 있다. 가을 옷을"
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "ゼレンスキーがトランプの制裁猶予を批判 ロシアに利すると主張",
+    "link": "https://biz.chosun.com/jp/jp-international/2026/10/18/7U5CH76NN5FNPJFR2ANNYECTNI/",
+    "published_at": "2026-10-17T22:28:37Z",
     "category": "economy",
     "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "‘엘롯기 2팀이 만났다’ KIA vs LG, 10년 만에 성사된 역대급 PS 매치…정규시즌은 KIA 7연승, 가을야구는 어떨까",
-    "link": "https://biz.chosun.com/sports/baseball/2026/10/17/GI3TQYRRMYYGCMDBME2DKZRVGE/",
-    "published_at": "2026-10-16T21:10:00Z",
-    "category": "economy",
-    "description": "프로야구 KIA 타이거즈와 LG 트윈스가 10년 만에 가을야구에서 격돌한다. KIA와 LG는 17일 광주-기아 챔피언스 필드에서 열리는 ‘2026 신한 SOL KBO 준플레이오프’ 1차전에서 맞붙는다. 리그를 대표하는 인기구단의 맞대결인 만큼 팬들의 관심이 뜨거운 매치업이다. 두 팀은 올 시즌 내내 치열한 순위 경쟁을 벌였다. 결국 시즌 최종전에서 KIA가"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "トランプが虚偽経歴巡り報道官を4日で更迭",
-    "link": "https://biz.chosun.com/jp/jp-international/2026/10/17/AYPYCDS5TFB6DO62IV2FQXA7GI/",
-    "published_at": "2026-10-16T21:09:27Z",
+    "title": "젤렌스키, 트럼프 대러 제재 유예에 “푸틴만 돕는 결정” 비판",
+    "link": "https://biz.chosun.com/international/international_general/2026/10/18/KECIMXFBJVFJNNNEY5ZW6W2LBE/",
+    "published_at": "2026-10-17T22:28:37Z",
     "category": "economy",
     "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "취임 나흘 만에 경질된 백악관 대변인… 허위 경력 논란에 ‘최단명’ 불명예",
-    "link": "https://biz.chosun.com/international/international_general/2026/10/17/5YKKQJEULFDGFFDOOT7ZBOLVSU/",
-    "published_at": "2026-10-16T21:09:27Z",
+    "title": "“정신 상태 틀려먹어” 환희母, 합가 3일만에 위기..집안일 갈등 폭발 (‘살림남’)",
+    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/18/GEZDAMRSMJQWCMZXGUZDONRTGI/",
+    "published_at": "2026-10-17T22:24:00Z",
+    "category": "economy",
+    "description": "‘살림남’ 환희가 합가 4일 만에 어머니와 갈등을 빚었다.17일 방송된 KBS 2TV ‘살림남’에서는 환희 어머니가 합가 3일 만에 폭발하는 모습이 그려졌다.이날 어머니는 요리를 하다 에어컨을 튼 환희를 향해 “왜 틀었냐”고 버럭했다. 어머니는 추위를 타면서 수면바지를 입은 상태였고, 환희는 반팔을 입고 있었다. 복장부터 안 맞는 두 사람에 박서진은 “벌써"
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "フライドバイ機で副操縦士が襲撃 機長が急降下阻止",
+    "link": "https://biz.chosun.com/jp/jp-international/2026/10/18/6OI2HJAV2ZGVBGRKRXD6NWWIRY/",
+    "published_at": "2026-10-17T22:16:44Z",
     "category": "economy",
     "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "'45세' 조여정, 꽁꽁 가린 클래식룩에 반전 백리스 뒤태…미모는 여전히 상큼",
-    "link": "https://biz.chosun.com/entertainment/tv/2026/10/17/GY3WKYLDMM3TONDDMY2TGMZUMM/",
-    "published_at": "2026-10-16T21:06:00Z",
-    "category": "economy",
-    "description": "조여정이 반전 백리스 뒤태룩을 자랑했다. 지난 15일 조여정이 자신의 SNS에 \"런던국제영화제. 영화 '가능한 사랑' 뜨거운 반응 주신 영화제 관계자, 기자분들 덕에 좋은 에너지 얻고 왔습니다\"라는 글과 함께 사진 여러 장을 게재했다.공개된 사진 속 조여정은 영화 '가능한 사랑'으로 런던국제영화제에 참석한 모습이다. 블루 스트라이프 셔츠에 블랙 팬츠를 매치"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "レクサスESが8年ぶり刷新 EV初設定で車体拡大",
-    "link": "https://biz.chosun.com/jp/jp-industry/2026/10/17/MXOH7LH7XNHG3HAQOSEPJW7KIQ/",
-    "published_at": "2026-10-16T21:00:00Z",
+    "title": "도끼 맞고 버틴 두바이 여객기 기장… “이대론 죽을 순 없다 생각”",
+    "link": "https://biz.chosun.com/international/international_general/2026/10/18/ODIZ34SSYFBORCTPGB2IHMCEC4/",
+    "published_at": "2026-10-17T22:16:44Z",
     "category": "economy",
     "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "株急落で家計損失拡大 内需冷え込む懸念",
-    "link": "https://biz.chosun.com/jp/jp-finance/2026/10/17/ZAPHLI4YRNGJ3NGRB322WV6ORQ/",
-    "published_at": "2026-10-16T21:00:01Z",
+    "title": "‘직장암 투병’ 안치환, 옆에서 돌봐준 ♥첫사랑 아내에 “늘 고마워”",
+    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/18/GA4TCNBQGEZGMNRTMYYDANBVMY/",
+    "published_at": "2026-10-17T22:15:00Z",
+    "category": "economy",
+    "description": "안치환이 아내를 향한 고마운 마음을 전했다.17일 방송된 MBN ‘김주하의 데이앤나잇’(이하 데이앤나잇)에는 안치환이 출연했다.안치환은 “존경하는 시인 중에 김남주 시인이 있다. 생전에 저희와 함께 여러 가지 공연을 다녔다. 한 번은 ‘뭔가 할 일이 있는 사람은 자기 몸 관리를 잘해야 돼. 그렇지 않으면 네가 하는 일을 반대하는 사람들이 얼마나 좋아하겠냐고"
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "“애들, 에어컨도 안 틀어” 양치승, ‘전세 사기’로 힘든 가족에 ‘눈물’ [순간포착]",
+    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/18/G5TDGZBZMQ2GIMRYMVSGMYLDGY/",
+    "published_at": "2026-10-17T22:15:00Z",
+    "category": "realEstate",
+    "description": "‘살림남’ 양치승이 가족들 생각에 눈시울을 붉혔다. 17일 방송된 KBS 2TV ‘살림남’에서는 양치승이 ‘20억 전세 사기 피해’ 후 근황을 공개했다.BTS 진, 김우빈, 이수혁 등 유명한 연예인들의 헬스 트레이너로 알려진 양치승은 헬스장 폐업 후 4평 남짓 빵집을 차린 근황을 전했다.양치승은 전세 사기를 당해 피해 금액만 20억에 달했으며, 형사재판과"
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "‘예신’ 지예은, 결혼 진짜 잘하네..♥바타 “사랑이 뭔지 알게 해 준 사람”(전참시)",
+    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/18/MMYTQMLGGQZTQMRVGM2TAZJYGY/",
+    "published_at": "2026-10-17T22:13:00Z",
+    "category": "economy",
+    "description": "바타가 지예은과의 러브스토리를 공개했다.17일 방송된 MBC ‘전지적 참견 시점’(이하 전참시)에는 펜싱 선수 오상욱, 위댐보이즈 바타, 인규가 출연했다.바타는 능숙한 손놀림으로 요리를 하기 시작했다. 바타는 “최근에 요리를 배우기 시작했다. 예은이 요리해 주려고. 일대일 과외를 받는다”라고 말했다. 전을 만들던 바타는 “예은이한테 해주면 네다섯 장 그냥"
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "‘박상준♥’ 김하영, 시험관 대신 자연임신 원했는데..“하늘을 봐야 별을 따지” (‘동치미’)",
+    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/18/GQ4GMOJZG5TGENZZG42WIZJUGA/",
+    "published_at": "2026-10-17T22:12:00Z",
+    "category": "economy",
+    "description": "배우 김하영이 2세를 두고 남편과의 입장차이를 언급했다.17일 방송된 MBN ‘속풀이쇼 동치미’에는 배우 김하영이 출연해 고민을 털어놨다.이날 김하영은 “저는 48살이고, 남편은 50세다. 제가 2022년에 ‘복면가왕’ 때문에 레슨을 받으러 갔다가 인연이 됐다. 저도 SNS를 열심히 하는데, 보면 단란한 가족의 모습, 아이와 함께 단란한 모습을 보면 부럽다"
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "ソウル松坡区で駐車場火災8人負傷 消防が約1時間半で鎮火",
+    "link": "https://biz.chosun.com/jp/jp-society/2026/10/18/GX3DE45ZNZD3ROUCDNTLBWYVGM/",
+    "published_at": "2026-10-17T22:11:13Z",
     "category": "economy",
     "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "ギャラクシーZフォールド8機種変更で最大87万8100ウォン割引 アイフォーンデュオは伸び悩む",
-    "link": "https://biz.chosun.com/jp/jp-it/2026/10/17/WMGZLMVKFNBT3MFT7DUAYYJR4Q/",
-    "published_at": "2026-10-16T21:00:01Z",
+    "title": "송파구 다세대주택 주차장서 불…8명 다쳐",
+    "link": "https://biz.chosun.com/topics/topics_social/2026/10/18/5HH7SXADYVC2HMC7GBO4PRRFOY/",
+    "published_at": "2026-10-17T22:11:13Z",
+    "category": "realEstate",
+    "description": null
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "KOSPI反発へ 米ビッグテック決算と指標注視",
+    "link": "https://biz.chosun.com/jp/jp-finance/2026/10/18/OTQ3273T3BGGFLU2K2RSB6TJFI/",
+    "published_at": "2026-10-17T21:00:00Z",
     "category": "economy",
     "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "トンタン駅とソトンタン駅で住宅価格回復に格差",
-    "link": "https://biz.chosun.com/jp/jp-realestate/2026/10/17/DUPN4OAQXZDCZI34CDTM5BUVNI/",
-    "published_at": "2026-10-16T21:00:01Z",
-    "category": "economy",
-    "description": null
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "アラムコが攻撃下でも供給維持 即応と現地調達で復旧加速",
-    "link": "https://biz.chosun.com/jp/jp-international/2026/10/17/EU5PJ7USRFDZVCJXVWAJZFP4HU/",
-    "published_at": "2026-10-16T21:00:00Z",
-    "category": "economy",
-    "description": null
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "ラヴィス・リースリング伊アルプスで独自の香味示す",
-    "link": "https://biz.chosun.com/jp/jp-retail/2026/10/17/BJZLRKHEQVBDPHRA4HKHL3FS2Y/",
-    "published_at": "2026-10-16T21:00:00Z",
-    "category": "economy",
-    "description": null
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "光州軍空港移転前倒し 大邱は財源難で停滞",
-    "link": "https://biz.chosun.com/jp/jp-society/2026/10/17/EQSPPHWFK5H7DP7CN7FPDMOWUI/",
-    "published_at": "2026-10-16T21:00:00Z",
-    "category": "economy",
-    "description": null
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "ナロド産サワラ秋に旬迎え刺身で脚光",
-    "link": "https://biz.chosun.com/jp/jp-society/2026/10/17/WJU6PWMRDZGRLKUY3BRF4KMJOI/",
-    "published_at": "2026-10-16T21:00:00Z",
-    "category": "economy",
-    "description": null
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "ヘリオシティ住民食堂が再開 9000ウォン維持",
-    "link": "https://biz.chosun.com/jp/jp-realestate/2026/10/17/N42Q6WYAZFE3PLE2HJZ4A75FEE/",
-    "published_at": "2026-10-16T21:00:01Z",
-    "category": "economy",
-    "description": null
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "新韓カードのThe More来年終了 損失数千億ウォン",
-    "link": "https://biz.chosun.com/jp/jp-finance/2026/10/17/3LEQNYFF7VDZHAT7YB45BDXSAA/",
-    "published_at": "2026-10-16T21:00:00Z",
-    "category": "economy",
-    "description": null
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "韓国バーガーキング売却でSI誘致加速 企業価値最大1兆ウォン視",
-    "link": "https://biz.chosun.com/jp/jp-finance/2026/10/17/FQ2P7UZWVZFANMTEQEPHGWQB3M/",
-    "published_at": "2026-10-16T21:00:00Z",
-    "category": "economy",
-    "description": null
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "月標準時の整備始動 CGPMが定義採択",
-    "link": "https://biz.chosun.com/jp/jp-science/2026/10/17/WBHUSFM25JCZ7G7ML3TRRN46KY/",
-    "published_at": "2026-10-16T21:00:01Z",
-    "category": "economy",
-    "description": null
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "[르포] “갤럭시Z 폴드8, 기기변경 시 138만원 할인”… 아이폰 듀오 사전예약 시작일에 통신 대리점 가보니",
-    "link": "https://biz.chosun.com/it-science/ict/2026/10/17/XO6Z3BNWYVDEVLNJEJ7764XE5U/",
-    "published_at": "2026-10-16T21:00:01Z",
-    "category": "economy",
-    "description": null
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "[비즈톡톡] 점심 9000원 그대로… 헬리오시티 뷔페, 3개월 만에 돌아왔다",
-    "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/10/17/A4X27YY6G5CE7BHXNPNONNXHHQ/",
-    "published_at": "2026-10-16T21:00:01Z",
-    "category": "economy",
-    "description": null
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "“주식에 물려서 쓸 돈 없어”…급락장에 내수 ‘찬바람’ 우려",
-    "link": "https://biz.chosun.com/stock/stock_general/2026/10/17/YLBKYBAQERHF5ELQUBBZGFAVBA/",
-    "published_at": "2026-10-16T21:00:01Z",
+    "title": "[주간증시전망] 폭락 딛고 반등 나선 코스피… 美 빅테크, 실적 발표",
+    "link": "https://biz.chosun.com/stock/stock_general/2026/10/18/POGNW3NP2RFQDARKRD5G5LKVOI/",
+    "published_at": "2026-10-17T21:00:00Z",
     "category": "stockMarket",
     "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "같은 ‘동탄’인데… 동탄역 84㎡는 22억, 서동탄역은 6억대",
-    "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/10/17/GJ2G2SPXK5FCDBMDOIPYSXSTQI/",
-    "published_at": "2026-10-16T21:00:01Z",
+    "title": "벌금형 받은 한지민 악플러, 알고 보니 최정훈 스토킹 가해자…충격",
+    "link": "https://biz.chosun.com/entertainment/tv/2026/10/18/HA4WGN3BMZRGGMTFMZSTOMZYGI/",
+    "published_at": "2026-10-17T22:07:00Z",
+    "category": "economy",
+    "description": "한지민을 협박하고 모욕한 혐의로 벌금형을 선고받은 악플러가 앞서 그의 연인 최정훈을 스토킹한 혐의로도 처벌받은 사실이 알려져 충격을 더했다. 지난 17일 뉴스1은 한지민에 대한 협박 및 모욕 혐의로 벌금 600만 원을 선고받은 A씨가 과거 최정훈을 스토킹한 혐의로도 처벌받았다고 단독 보도했다.A씨는 2024년 8월 한지민과 최정훈의 열애 사실이 알려진 이후"
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "ウォン高進行でウォン・円下落 円買い増し損拡大懸念",
+    "link": "https://biz.chosun.com/jp/jp-finance/2026/10/18/OMK7WC5JEJEUTP5DHCOJOPR5OU/",
+    "published_at": "2026-10-17T22:00:00Z",
     "category": "economy",
     "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "달 탐사 경쟁에 ‘달의 시간’ 정한다… 국제 기준 마련 첫발",
-    "link": "https://biz.chosun.com/science-chosun/science/2026/10/17/IHLO5QWDWRCELDCUY4Z6ORL5QM/",
-    "published_at": "2026-10-16T21:00:01Z",
+    "title": "“엔화 떨어질 때 샀는데 또 떨어져”… 당분간 약세 전망",
+    "link": "https://biz.chosun.com/stock/finance/2026/10/18/P76Z3VBO7BDBVBTAA5EXPYAMBM/",
+    "published_at": "2026-10-17T22:00:00Z",
     "category": "economy",
     "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "[오늘의 와인] 같은 악보, 다른 선율… 이탈리아 알프스에서 재해석된 ‘라비스 리슬링’",
-    "link": "https://biz.chosun.com/distribution/food/2026/10/17/QAPXHPQUKZDGLLGE25VLQXR23E/",
-    "published_at": "2026-10-16T21:00:00Z",
+    "title": "더 시에나 리조트서 전국시도지사협의회 간담회…전국체전 개막 맞아",
+    "link": "https://biz.chosun.com/industry/business_info/2026/10/18/TOXTUXITWBCCHGYA3QYXE7CE6M/",
+    "published_at": "2026-10-17T22:00:00Z",
     "category": "economy",
     "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "[정책 인사이트] 美·英·濠 청년 고용·주거·혼인 ‘평생 조사’… 토막 통계만 있는 韓",
-    "link": "https://biz.chosun.com/policy/policy_sub/2026/10/17/PEBHGL5UFZBLDEMASMS3MZC2DY/",
-    "published_at": "2026-10-16T21:00:00Z",
+    "title": "\"한국 무려 66년간 아시안컵 무관이잖아!\" AFC도 주목한 한국축구…월클 손흥민, 아시안컵 우승할 마지막 기회 잡을까",
+    "link": "https://biz.chosun.com/sports/baseball/2026/10/18/G5STQN3GGA4WKMZZMRSGMNLCGE/",
+    "published_at": "2026-10-17T21:55:00Z",
+    "category": "economy",
+    "description": "한국축구가 아시아의 호랑이라고? 무려 66년간 우승이 없잖아. 한국대표팀 주장 손흥민(34, LAFC)이 2027 아시아축구연맹(AFC) 아시안컵에서 한국의 오랜 우승 갈증을 풀어낼 수 있을까. AFC도 세계적인 공격수 손흥민을 주목하며, 그가 한국의 아시아 정상 탈환을 이끌 수 있을지 관심을 보였다.AFC는 15일 손흥민을 2027 아시안컵에서 주목해야"
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "[사진]롤드컵 출전 위해 미국 향하는 T1",
+    "link": "https://biz.chosun.com/entertainment/entertainment_photo/2026/10/18/MI4TGMRWMVQWMNJUGUZGGNJVGA/",
+    "published_at": "2026-10-17T21:51:00Z",
+    "category": "economy",
+    "description": "T1선수단(페이커, 도란, 오너, 페이즈, 케리아)이 18일 인천국제공항을 통해 2026 리그 오브 레전드(LoL) 월드 챔피언십(월즈·롤드컵) 출전을 위해 미국으로 출국했다.올해 2026 리그 오브 레전드(LoL) 월드 챔피언십에는 젠지(Gen.G), 한화생명e스포츠, T1, 디플러스 기아(DK) 등 국내 4개 팀이 출전한다.T1선수단이 포즈를 취하고 있"
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "[사진]롤드컵 4연패 노리는 T1",
+    "link": "https://biz.chosun.com/entertainment/entertainment_photo/2026/10/18/GYZGINDCG5QTGYJUGA4DGZTCME/",
+    "published_at": "2026-10-17T21:51:00Z",
+    "category": "economy",
+    "description": "T1선수단(페이커, 도란, 오너, 페이즈, 케리아)이 18일 인천국제공항을 통해 2026 리그 오브 레전드(LoL) 월드 챔피언십(월즈·롤드컵) 출전을 위해 미국으로 출국했다.올해 2026 리그 오브 레전드(LoL) 월드 챔피언십에는 젠지(Gen.G), 한화생명e스포츠, T1, 디플러스 기아(DK) 등 국내 4개 팀이 출전한다.T1 선수단이 출국장으로 향하"
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "[사진]T1 페이커 '롤드컵 우승하고 올게요'",
+    "link": "https://biz.chosun.com/entertainment/entertainment_photo/2026/10/18/GBSWCOBUMMYGENDBMIYDGNLGGI/",
+    "published_at": "2026-10-17T21:51:00Z",
+    "category": "economy",
+    "description": "T1선수단(페이커, 도란, 오너, 페이즈, 케리아)이 18일 인천국제공항을 통해 2026 리그 오브 레전드(LoL) 월드 챔피언십(월즈·롤드컵) 출전을 위해 미국으로 출국했다.올해 2026 리그 오브 레전드(LoL) 월드 챔피언십에는 젠지(Gen.G), 한화생명e스포츠, T1, 디플러스 기아(DK) 등 국내 4개 팀이 출전한다.T1 페이커가 포즈를 취하고"
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "韓国水力原子力巡りインターン訴訟敗訴",
+    "link": "https://biz.chosun.com/jp/jp-society/2026/10/18/OXCGXDCAB5FZJGXM3LDAPKGXHM/",
+    "published_at": "2026-10-17T21:26:02Z",
     "category": "economy",
     "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "[주간 특산물] 나로도 해역의 폭주족, ‘고흥 삼치’",
-    "link": "https://biz.chosun.com/topics/topics_social/2026/10/17/IP5LKK6BTZF7HELS24ESP744F4/",
-    "published_at": "2026-10-16T21:00:00Z",
+    "title": "“성과급 차별”…한수원 채용형 인턴 출신 직원 2000여명 패소",
+    "link": "https://biz.chosun.com/topics/topics_social/2026/10/18/I74QDWZLKVCALCCNEYIGXDYSPU/",
+    "published_at": "2026-10-17T21:26:02Z",
     "category": "economy",
     "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "[시승기] 전기차 도전장 낸 렉서스 ES… 차체 키우고 울컥거림 최소화",
-    "link": "https://biz.chosun.com/industry/car/2026/10/17/UDROUBV3FZHPHPAO4MIHTB524U/",
-    "published_at": "2026-10-16T21:00:00Z",
+    "title": "\"초구부터 그럴 줄 몰랐다\" KIA 포수도 놀란 염갈량의 버스터앤드런, 실패의 댓가는 KIA전 8연패였다",
+    "link": "https://biz.chosun.com/sports/baseball/2026/10/18/GJSDIZTCMQ3DANTGMU3TCMBSG4/",
+    "published_at": "2026-10-17T21:15:00Z",
+    "category": "economy",
+    "description": "\"초구부터 그럴 줄 몰랐다.\".KIA 타이거즈는 17일 광주-기아 챔피언스필드에서 열린 2026 신한 SOL 포스트시즌 LG 트윈스와의 준플레이오포 1차전을 5-1로 승리했다. 역대 5전3선승제 준플레이오프 1차전 승리팀은 70.6% 확률로 플레이오프에 진출했다. KIA는 정규리그 LG전 7연승을 포함해 이날까지 8연승을 달렸다. 경기는 홈런으로 승부가 났"
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "'문원♥' 신지, 남편 내조 덕분? 갈수록 상큼해지네 \"어쩌다 보니 수지랑 투샷\"",
+    "link": "https://biz.chosun.com/entertainment/tv/2026/10/18/GVSTCZJTGU3TEZJRMZRGIMJXMU/",
+    "published_at": "2026-10-17T21:06:00Z",
+    "category": "economy",
+    "description": "신지가 상큼한 미모를 자랑했다. 17일 신지는 자신의 인스타그램에 \"어쩌다 보니 수지랑 투샷\"이라며 \"오늘은 수원, 구미에서 만나요\"라며 행사장 이동 전 헤어, 메이크업 등을 마친 모습을 공개했다. 사진 속 신지는 네이비 컬러의 재킷에 레이스 디테일이 돋보이는 블루 톱과 화이트 미니스커트를 매치해 세련되면서도 사랑스러운 스타일링을 완성했다. 특히 앞머리를"
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "中国の低価格鶏肉と乳製品が輸出拡大 補助金追い風に世界市場を席巻",
+    "link": "https://biz.chosun.com/jp/jp-international/2026/10/18/J466HHXSIJESHAJX7NFJNPIGX4/",
+    "published_at": "2026-10-17T21:00:00Z",
     "category": "economy",
     "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "햄버거 포화인데... ‘기대 몸값 1조’ 버거킹, 예비입찰 전 SI 유치 총력전",
-    "link": "https://biz.chosun.com/stock/market_trend/2026/10/17/KSUZSBZ34VBOFLYSAZEZIROTSM/",
-    "published_at": "2026-10-16T21:00:00Z",
+    "title": "マクラーレン アトゥーラ・スパイダー700馬力で加速力示す",
+    "link": "https://biz.chosun.com/jp/jp-industry/2026/10/18/K6NX66JHFBAAXESTKDSHWCNRJA/",
+    "published_at": "2026-10-17T21:00:00Z",
     "category": "economy",
     "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "메모리 호황에도 더딘 투자 확산… ‘고물가·고금리’ 굳어지나",
-    "link": "https://biz.chosun.com/it-science/ict/2026/10/17/OXMCBNNVKNC6JGVEJCHLWXT5HA/",
-    "published_at": "2026-10-16T21:00:00Z",
-    "category": "economy",
-    "description": "인공지능(AI) 투자 붐에 따른 메모리 반도체(이하 메모리) 가격 폭등은 한국의 2026년 1~9월 수출액(8145억달러)을 전년 동기 대비 56.8% 급증하게 했다. 9월 수출액은 사상 처음 1200억달러(약 161조3400억원)를 넘어섰다. 그러나 대만의 1~8월 수출액(5743억4000만달러)도 44% 증가했다. 2026년 2분기 한국의 국내총생산(G"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "[Why] 사우디 아람코가 잇단 공격에도 석유 공급을 이어가는 비결",
-    "link": "https://biz.chosun.com/international/international_general/2026/10/17/OWBUSEWNORCUVNKW4AA4A7WPEM/",
-    "published_at": "2026-10-16T21:00:00Z",
+    "title": "IMボックス 建物空室を倉庫転用し収益配分 300店展開で来年3,000億ウォン基金組成へ",
+    "link": "https://biz.chosun.com/jp/jp-realestate/2026/10/18/AOD7V2TLWNAH3NJ3TN5DYQGBFQ/",
+    "published_at": "2026-10-17T21:00:00Z",
     "category": "economy",
     "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "수천억원 손실 낸 신한카드 ‘더모아’, 드디어 내년 만료",
-    "link": "https://biz.chosun.com/about-investing/2026/10/17/ZXHLOZGBDNFENIG3BMUQYCMUCU/",
-    "published_at": "2026-10-16T21:00:00Z",
+    "title": "KOSPIが5600台後退 自社株買い終了で反騰力乏しい",
+    "link": "https://biz.chosun.com/jp/jp-finance/2026/10/18/QYLNIBE26RH7FOVEQYRSR37D3I/",
+    "published_at": "2026-10-17T21:00:00Z",
     "category": "economy",
     "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "‘김혜성도 안심 못해’ 다저스 왕조에 불어닥친 세대교체 칼바람…장현석은 40인 로스터 생존 경쟁",
-    "link": "https://biz.chosun.com/sports/baseball/2026/10/17/GBSGKMZXGBRWCZLEHFTDKM3CMU/",
-    "published_at": "2026-10-16T21:00:00Z",
-    "category": "economy",
-    "description": "월드시리즈 3연패의 꿈이 무너졌다. LA 다저스는 이제 새로운 출발선에 섰다. 주축 선수들의 노쇠화와 FA 이탈 가능성, 메이저리그 노사 갈등까지 겹치면서 어느 때보다 쉽지 않은 겨울을 맞게 됐다.한국인 선수들의 상황도 엇갈린다. 김혜성은 기존 계약을 바탕으로 내년 시즌을 준비하지만, 유망주 장현석은 40인 로스터 진입이라는 중요한 관문을 앞두고 있다.다저"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "[동네톡톡] “우린 첫삽도 못 떴는데”… 광주 군공항 이전 속도전에 뿔난 대구",
-    "link": "https://biz.chosun.com/topics/topics_social/2026/10/17/PDZFMAAP2NB57FIVIIUGZ2KN2E/",
-    "published_at": "2026-10-16T21:00:00Z",
+    "title": "生物保安法下でも中国バイオが台頭 ビッグファーマが肥満薬技術を確保",
+    "link": "https://biz.chosun.com/jp/jp-science/2026/10/18/4WI7RDAA4NGCDHGMNVMXZ2NIXU/",
+    "published_at": "2026-10-17T21:00:01Z",
     "category": "economy",
     "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "'9년 연속 가을야구 실패' 마무리캠프 시작인데, 수장들이 결정 안됐다...롯데 감독-단장, 언제 발표할까",
-    "link": "https://biz.chosun.com/sports/baseball/2026/10/17/GBQTIZDGGY4DOOBVMRRTAOBSMU/",
-    "published_at": "2026-10-16T20:39:00Z",
-    "category": "economy",
-    "description": "프로야구 롯데 자이언츠는 짧은 휴식만 취하고 다시 2027시즌을 준비한다. 다양한 방식으로 선수단 경쟁력 강화와 육성에 힘을 주고 있다. 그런데 이들을 지휘하게 될 현장의 수장이 누가 될지 결정되지 않았다.롯데의 2026년은 일찌감치 끝났다. 가을야구가 시작됐지만, 롯데는 9년 연속 가을야구 초대장을 받지 못한 채 또 다시 구경꾼이 됐다. 2027시즌의 준"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "\"원형탈모 오기 전 이별\" 장도연, '난폭운전' 매니저 참다 참다..",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/17/GI4DCYRQGEZDIYRZMJTDSZLEGE/",
-    "published_at": "2026-10-16T20:31:00Z",
-    "category": "economy",
-    "description": "방송인 장도연이 과거 매니저와의 일화를 전했다. 지난 15일 유튜브 채널 '가비 걸'에는 '그외 배배 꼬인 사연 다수 | 퀸즈나잇 [Queen’s Night] EP11'라는 제목의 영상이 게재됐다.이날 장도연은 \"예전에 어떤 매니저와 호흡을 맞췄다. 그 매니저님이 운전을 빨리해야 될 때는 교통 법규 안에서 빨리 하고 그랬다\"고 회상했다.그는 \"그런데 가끔"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "‘나혼산’ 전현무 즉흥여행인데 대본 있었다..“조작방송 규탄” 또 민원 접수 [Oh!쎈 이슈]",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/17/MQ2GKZLGHE4DEMBUHFRDOM3FGY/",
-    "published_at": "2026-10-16T20:29:00Z",
-    "category": "economy",
-    "description": "‘나 혼자 산다’ 전현무 카자흐스탄 여행을 두고 조작 의혹이 계속되는 가운데, 또 다시 방심위 민원이 접수됐다.16일 MBC ‘나 혼자 산다’ 알마티 여행 편과 관련해 방송미디어통신심의위원회(이하 ‘방미심위’)에 민원을 접수했던 민원인은 이날 보도와 관련해 3차 의견서를 제출했다.앞서 해당 민원인은 9월 3일과 6일 ‘나 혼자 산다’ 전현무의 알마티 즉흥"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "\"우울증으로 야구 그만둔다\" 일본 혼혈 유망주의 충격 고백, 압박감 얼마나 심했으면…27세에 은퇴 비운",
-    "link": "https://biz.chosun.com/sports/world-baseball/2026/10/17/GJQTCNLBMYZWEMLFGY3DEYTCGY/",
-    "published_at": "2026-10-16T20:28:00Z",
-    "category": "economy",
-    "description": "일본프로야구의 1라운드 출신 유망주가 우울증 사실을 고백하며 은퇴를 알렸다. 주니치 드래건스에서 방출된 외야수 브라이트 켄타(27)는 지난 15일 자신의 SNS를 통해 현역 은퇴를 알리며 우울증을 앓고 있다고 털어놓았다. 1999년생으로 아직 만 27세. 한창 선수로 뛰어야 할 때이지만 정신적으로 무너지며 더 이상 야구를 할 수 없는 상태에 이르렀다. 지난"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "‘이정후 쓸 바엔 값싼 유망주가 낫다?’ SF 전문 매체의 냉혹한 평가…급기야 트레이드 주장까지",
-    "link": "https://biz.chosun.com/sports/baseball/2026/10/17/MI3GGMJVGQ4WIZLDHA3DIYZYMQ/",
-    "published_at": "2026-10-16T20:00:00Z",
-    "category": "economy",
-    "description": "이정후(샌프란시스코 자이언츠)를 바라보는 현지 여론이 심상치 않다. 메이저리그 진출 당시 기대했던 타격 능력은 분명 보여줬지만, 기복이 심한 경기력에 비해 몸값이 지나치게 높다는 지적이 나왔다. 급기야 트레이드를 통해 새로운 돌파구를 찾아야 한다는 주장까지 제기됐다.샌프란시스코 소식을 전문적으로 다루는 'SF 자이언츠 라운드테이블'은 17일(이하 한국시간)"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "‘미쳤다’ 59승1패, 승률 98.33%…안세영, '9점 연속 득점' 인도 유망주 2-0 꺾고 4강 진출→덴마크 오픈 2연패 '파란불'",
-    "link": "https://biz.chosun.com/sports/sports_general/2026/10/17/MFRWCNBQMRRWIMZRHE3GIMLFHA/",
-    "published_at": "2026-10-16T19:42:00Z",
-    "category": "economy",
-    "description": "‘세계 최강’ 안세영(세계랭킹 1위)의 덴마크오픈 2연패 전망이 밝다. 안세영은 인도의 10대 유망주를 꺾고 4강에 진출했다. 안세영은 17일(한국시간) 덴마크 오덴세의 SJF 방크 아레나에서 열린 2026 세계배드민턴연맹(BWF) 월드투어 덴마크오픈(슈퍼 750) 여자단식 8강전에서 인도의 탄비 샤르마(세계랭킹 24위) 상대로 게임 스코어 2-0(21-"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "通報2度の女性遺体発見 交際相手殺害か",
-    "link": "https://biz.chosun.com/jp/jp-society/2026/10/16/26AHKJINJVFRFOKYJ4CDJFL6NQ/",
-    "published_at": "2026-10-16T13:15:40Z",
+    "title": "アサン園芸農協が太極旗包装導入 韓国梨輸出拡大目指す",
+    "link": "https://biz.chosun.com/jp/jp-society/2026/10/18/4RSV4GPW5RDVBGYSC3WJLGBOTM/",
+    "published_at": "2026-10-17T21:00:00Z",
     "category": "economy",
     "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "50대 여성, 스토킹으로 신고한 남성 차량서 숨진 채 발견",
-    "link": "https://biz.chosun.com/stock/stock_general/2026/10/16/FDWCQ6AHBBHCDEFOQZNVGUKEFU/",
-    "published_at": "2026-10-16T13:15:40Z",
+    "title": "ソウル市年内3万戸着工目標解体遅れも着工進める",
+    "link": "https://biz.chosun.com/jp/jp-realestate/2026/10/18/WWE3B5PDYNDBZLAWY42ET45DAY/",
+    "published_at": "2026-10-17T21:00:00Z",
     "category": "economy",
     "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "조희대, 중수청에도 고발…‘대법관 격려금·업무추진비 의혹’",
-    "link": "https://biz.chosun.com/topics/law_firm/2026/10/17/DJOKOBVQC5BMTAHV7TFEJKDT5A/",
-    "published_at": "2026-10-16T16:58:47Z",
+    "title": "韓国マンション顔認証巡り賛否対立拡大",
+    "link": "https://biz.chosun.com/jp/jp-society/2026/10/18/XLB6DERFJND3LIVAZ2526PTIQM/",
+    "published_at": "2026-10-17T21:00:00Z",
     "category": "economy",
     "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "[속보] 접전 끝에 안세영에 무너졌다…인도 10대 유망주 상대로 안세영 21-15, 1게임 승리, 덴마크오픈 4강 보인다",
-    "link": "https://biz.chosun.com/sports/sports_general/2026/10/17/G5TDQNRTGFTDCZBZMFQWCZLBMI/",
-    "published_at": "2026-10-16T16:32:00Z",
-    "category": "economy",
-    "description": "‘세계 최강’ 안세영(세계랭킹 1위)이 덴마크오픈 2연패를 향해 순항 중이다. 안세영은 17일(한국시간) 덴마크 오덴세의 SJF 방크 아레나에서 열린 2026 세계배드민턴연맹(BWF) 월드투어 덴마크오픈(슈퍼 750) 여자단식 8강전에서 인도의 10대 유망주 탄비 샤르마(세계랭킹 24위) 상대로 1게임을 21-15로 따냈다. 1게임, 안세영이 2-0으로"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "'김구라 子' 그리, 여자친구와 결혼식 초읽기? \"축가 누가 할까\"",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/17/MIZDSMRRHFSGGYRUGNRTIOJSGQ/",
-    "published_at": "2026-10-16T16:30:00Z",
-    "category": "economy",
-    "description": "김구라의 아들 그리가 여자친구와 축가를 논의했다. 16일 유튜브 채널 '김그리'에는 '수술했습니다... 여자친구의 병문안'이라는 제목의 영상이 게재됐다. 이날 그리는 병원에서의 모습으로 놀라움을 자아냈다.그는 \"악재가 있다. 전방 십자인대가 파열돼서 봉합수술 하러 간다\"며 \"연극에 들어가게 됐는데 남자 배우들끼리 친해지자고 해서 친목 도모로 풋살을 했다."
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "'핑클 컴백' 이효리, 꾸밈없는 민낯 공개..더 사랑스러워",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/17/MI4DQNZTGY2TANTEGNSWEOLFMY/",
-    "published_at": "2026-10-16T16:17:00Z",
-    "category": "economy",
-    "description": "가수 이효리가 핑클 컴백에 대한 기대감이 높아지는 가운데, 꾸밈없는 일상을 공개하며 특유의 유쾌한 매력을 뽐냈다.이효리는 16일 자신의 SNS를 통해 차량 안에서 촬영한 셀카를 공개했다.공개된 사진 속 이효리는 검은색 선글라스를 착용한 채 카메라를 바라보며 미소 짓고 있다. 자연스럽게 풀어 내린 긴 머리에 청록색 상의와 검은색 가죽 재킷을 매치해 편안하면서"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "‘미쳤다’ 완봉, 또 완봉, 또또 완봉…3위의 반란, 日 CS 3경기 연속 완봉 신기록, 1위 한신 역대 최초 굴욕",
-    "link": "https://biz.chosun.com/sports/world-baseball/2026/10/17/MU4WGNZQGBRWMZRVHE3TEOLBMQ/",
-    "published_at": "2026-10-16T16:10:00Z",
-    "category": "economy",
-    "description": "일본프로야구 요코하마 DeNA 베이스타즈가 센트럴리그 클라이맥스시리즈(CS) 파이널스테이지에서 3경기 연속 완봉승을 기록했다. 요코하마는 16일 일본 효고현 고시엔구장에서 열린 한신 타이거즈와 CS 파이널스테이지 3차전에서 4-0으로 승리했다. 이날 한신 선발투수 사이키 히로토는 올 시즌 25경기에 등판해 10승 5패 평균자책점 2.51, 탈삼진 175개"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "ゼレンスキー トランプの対ロ軽油再開を批判 EUに700億ユーロ支援要請",
-    "link": "https://biz.chosun.com/jp/jp-international/2026/10/17/YV6XSOEWGJB3XIIFCZM2UNZ53M/",
-    "published_at": "2026-10-16T16:07:53Z",
+    "title": "PEF運用社協議会が協会へ移行決議 金融委に設立申請へ",
+    "link": "https://biz.chosun.com/jp/jp-finance/2026/10/18/YICRJLRSZBD4NFE3QNGXS4VTSI/",
+    "published_at": "2026-10-17T21:00:00Z",
     "category": "economy",
     "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "젤렌스키, 트럼프 겨냥해 “러시와 ‘경유딜’ 부적절”",
-    "link": "https://biz.chosun.com/international/international_general/2026/10/17/S5SC77AYOZGG5GZFMXTSX7C3IQ/",
-    "published_at": "2026-10-16T16:07:53Z",
+    "title": "ルーク・リーがポハンにバイオ版バーゼル構築を提唱",
+    "link": "https://biz.chosun.com/jp/jp-science/2026/10/18/FLJCVCEANBDYJJBADAPCQXFCRY/",
+    "published_at": "2026-10-17T21:00:00Z",
     "category": "economy",
     "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "[속보] ‘이럴 수가’ 안세영 만날 수 있었는데…日 배드민턴 아이돌, 부상으로 기권 ‘충격’, 덴마크오픈 8강 탈락",
-    "link": "https://biz.chosun.com/sports/sports_general/2026/10/17/GFRGMOBVGQ4WEYRUHE2GEZJTGU/",
-    "published_at": "2026-10-16T16:02:00Z",
+    "title": "海軍が艦名規則見直し進める 駆逐艦は偉人名護衛艦は地名",
+    "link": "https://biz.chosun.com/jp/jp-industry/2026/10/18/E4O2O4QYABHUPGEVNXKCYUQPCQ/",
+    "published_at": "2026-10-17T21:00:00Z",
     "category": "economy",
-    "description": "일본 배드민턴 아이돌 미야자키 도모카(세계랭킹 7위)가 안세영(세계랭킹 1위)과 맞대결 성사 직전에 부상으로 기권, 탈락했다. 미야자키는 17일(이하 한국시간) 새벽 덴마크 오덴세의 SJF 방크 아레나에서 열린 2026 세계배드민턴연맹(BWF) 월드투어 덴마크오픈(슈퍼 750) 여자단식 8강전에서 일본 동료 오쿠하라 노조미(세계랭킹 11위) 상대로 게임 스"
+    "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "‘우정은 뜨겁게, 승부는 치열하게’ 울산웨일즈-롱비치 코스트, 특별한 교류전의 하루",
-    "link": "https://biz.chosun.com/sports/baseball/2026/10/17/MFSTAOJXMM2TGMBUGRRDKOBTHA/",
-    "published_at": "2026-10-16T16:00:00Z",
+    "title": "ポーラパルスが根拠追跡型意思決定AIを有料実証で拡販",
+    "link": "https://biz.chosun.com/jp/jp-industry/2026/10/18/C7DLIOK7WNDIDESXAAY57FNNQE/",
+    "published_at": "2026-10-17T21:00:01Z",
     "category": "economy",
-    "description": "야구로 맺어진 인연이 국경을 넘어 특별한 우정으로 이어졌다.울산웨일즈와 미국 롱비치 코스트가 그라운드에서 맞붙기에 앞서 서로의 선물을 교환하며 우의를 다졌다. 경기는 치열한 접전 끝에 6-6 무승부로 마무리됐다.울산웨일즈는 지난 16일 울산 문수야구장에서 열린 롱비치 코스트와의 폴리그(Fall League) 경기에 앞서 양 팀 감독이 참석한 가운데 선물 교"
+    "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "‘±1초’가 사라진다",
-    "link": "https://biz.chosun.com/science-chosun/science/2026/10/17/GA3GGZDDMQYWKZRSGBSWMNJTME/",
-    "published_at": "2026-10-16T15:55:00Z",
+    "title": "基本資本規制導入前に7社基準未達 資本増強迫る",
+    "link": "https://biz.chosun.com/jp/jp-finance/2026/10/18/3UGCXADWQBBJTOYZC6U7DCVQEU/",
+    "published_at": "2026-10-17T21:00:00Z",
     "category": "economy",
-    "description": "인류 사회가 반세기 동안 지켜 온 ‘시간의 규칙’을 바꾼다. 지구 자전 속도에 맞춰 세계 표준시에 1초를 더하거나 빼는 ‘윤초(閏秒)’를 없애는 것이다. 이 1초가 전 세계 컴퓨터와 통신망을 먹통으로 만들 수도 있다.국제도량형총회(CGPM)는 15일(현지 시각) 프랑스 베르사유에서 열린 제28차 회의에서 1972년부터 유지해 온 윤초 제도 폐지를 결의했다."
+    "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "크러쉬, 웨딩드레스 상대?♥조이 아닌 아이유..신곡 포스터에 '깜짝'",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/17/GQZDCN3FGJQTSYRYMY3GKYRQGA/",
-    "published_at": "2026-10-16T15:53:00Z",
+    "title": "ゲーム開発少人数化が進展 AIで効率高まる",
+    "link": "https://biz.chosun.com/jp/jp-it/2026/10/18/W6MVHX4EBJDLJIWMAIMJI2G2EA/",
+    "published_at": "2026-10-17T21:00:00Z",
     "category": "economy",
-    "description": "가수 크러쉬가 신곡 발매를 앞두고 아이유와 함께한 특별한 포스터를 공개해 눈길을 끌었다.16일 크러쉬 측은 SNS를 통해 신곡 '삐그덕'의 포스터를 공개하며 오는 21일 발매 소식을 알렸다.공개된 포스터에는 크러쉬와 피처링에 참여한 아이유가 나란히 등장했다. 특히 아이유는 순백의 웨딩드레스를 연상시키는 의상을 입고 있어 시선을 사로잡았다.아이유는 어깨가 드"
+    "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "\"가운 주머니에 손 넣었다 트라우마\" 김지민, 20년 전 기억 꺼내 ('심사숙소')",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/17/GI2DKZLEGM3DQZJTGYZDONLEMQ/",
-    "published_at": "2026-10-16T15:49:00Z",
+    "title": "생물보안법도 못 막는 ‘中 바이오 굴기’…빅파마, 비만약도 中서 찾는다",
+    "link": "https://biz.chosun.com/science-chosun/bio/2026/10/18/37ICHYY7BNCXJBBHEQUHRGJXEM/",
+    "published_at": "2026-10-17T21:00:01Z",
     "category": "economy",
-    "description": "코미디언 김지민이 과거 모텔을 찾았다가 불쾌한 경험을 했다고 밝혔다. 지난 15일 유튜브 채널 '채널S'에는 '(사전모임) 여행 갈 때 숙소 모두 중요하잖아? 최악의 숙소썰 I 심사숙소 Ep.0'라는 제목의 영상이 게재됐다.이날 김지민은 \"20년 전 지방 공연 당시 묵었던 모텔에서 가운을 입고 주머니에 손을 넣었는데, OO이 나왔다\"고 회상했다. 이에 정이"
+    "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "\"돈으로 우승 살 수 없다니까, 모든 면에서 완벽하게 졌어\" 다저스 변명조차 못하다니…후회도, 허탈함도 없었다",
-    "link": "https://biz.chosun.com/sports/baseball/2026/10/17/GE2TKOBYMYZDIZDGMUZGIYLCGI/",
-    "published_at": "2026-10-16T15:47:00Z",
+    "title": "[스타트UP] 기업 데이터로 답 찾는다…의사결정 AI 만드는 폴라펄스",
+    "link": "https://biz.chosun.com/industry/business-venture/2026/10/18/O345FAFXRRCF3HFDNJE3SIVSZ4/",
+    "published_at": "2026-10-17T21:00:01Z",
     "category": "economy",
-    "description": "변명의 여지가 없는 완벽한 패배였다. 3년 연속 월드시리즈 우승을 노린 LA 다저스가 밀워키 브루어스에 4전 전패를 당하며 뼈도 못 추리고 끝났다. 팀 연봉 총액 면에서 다저스가 두 배 넘게 비싸지만 야구는 돈으로 이기는 스포츠가 아니었다. 내셔널리그 챔피언십시리즈(NLCS)가 시작되기 전 ‘ESPN’의 전문가들은 압도적으로 밀워키의 승리를 점쳤다. ESP"
+    "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "'중국, 너네가 뭔데 우리 주장 평가해?'…中매체 “손흥민은 박지성에 비해 부족한 주장, 소통에 문제 있다” 황당한 평가",
-    "link": "https://biz.chosun.com/sports/baseball/2026/10/17/HA4WMMRYG42GMYJZGY3TEOLBMY/",
-    "published_at": "2026-10-16T15:45:00Z",
+    "title": "브라질 닭보다 무거운데 값은 싼 ‘차이나 치킨’… 세계 식탁 파고드는 ‘中 저가 단백질’",
+    "link": "https://biz.chosun.com/international/international_economy/2026/10/18/UGETDG4RHFE4DBZYPG7ZRORNW4/",
+    "published_at": "2026-10-17T21:00:00Z",
     "category": "economy",
-    "description": "중국 매체가 한국 축구대표팀 주장 손흥민(34, LAFC)의 리더십을 정면으로 비판했다. 중국 매체 소후 스포츠는 15일 최근 칼럼을 통해 손흥민의 대표팀 내 리더십을 분석하며 \"개인으로서는 뛰어난 선수지만 주장으로서도 같은 평가를 받을 수 있는지는 의문\"이라고 지적했다.이 매체는 손흥민의 성실함과 자기관리, 팀을 위한 헌신을 인정하면서도 주장에게 필요한"
+    "description": null
   },
   {
     "source_name": "조선비즈",
-    "title": "“단일종목 레버리지 신중해야” 보고서 무시하고 출시",
-    "link": "https://biz.chosun.com/stock/stock_general/2026/10/17/MQ3WKNBSMQ2DQNDFMI2DAOJWGE/",
-    "published_at": "2026-10-16T15:44:00Z",
-    "category": "economy",
-    "description": "삼성전자·SK하이닉스 주가 하루 등락률의 두 배에 베팅하는 단일종목 레버리지 상품이 출시되기 7개월 전, 금융감독원의 연구용역 보고서에는 ‘국내 도입에 신중해야 한다’는 경고가 담긴 것으로 확인됐다. 투자자 손실 우려와 주식시장 변동성 확대, 미국 등 다른 나라의 규제 강화 추세 등이 이유였다. 그러나 단일종목 레버리지 상품은 올 1월 도입 논의가 본격 시"
-  },
-  {
-    "source_name": "조선비즈",
-    "title": "[주식 매매 상위 종목 및 환율] 2026년 10월 16일자",
-    "link": "https://biz.chosun.com/stock/stock_general/2026/10/17/ME3DAMZTHA3GENBXMI3DSMLDGA/",
-    "published_at": "2026-10-16T15:44:00Z",
+    "title": "코스피 두 달 반 만에 다시 5600선…7월 같은 급반등은 어렵다",
+    "link": "https://biz.chosun.com/stock/stock_general/2026/10/18/D3TB4EDNF5G6XBXQCQWVBDMICI/",
+    "published_at": "2026-10-17T21:00:00Z",
     "category": "stockMarket",
+    "description": null
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "[법조 인사이드] “AI가 투자하면 손실 없다”더니 사기… 투자금 돌려받을 수 있을까",
+    "link": "https://biz.chosun.com/topics/law_firm/2026/10/18/34CDGQQJ65ALVODL6NBN3756FA/",
+    "published_at": "2026-10-17T21:00:00Z",
+    "category": "economy",
+    "description": null
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "친목 모임서 사단법인으로… PEF협의회, 이달 말 협회 전환 결의",
+    "link": "https://biz.chosun.com/stock/market_trend/2026/10/18/LOZMYQ2XONDBTDVS6O6FEZQBKQ/",
+    "published_at": "2026-10-17T21:00:00Z",
+    "category": "economy",
+    "description": null
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "게임업계에 부는 개발 조직 ‘슬림화’ 바람",
+    "link": "https://biz.chosun.com/it-science/ict/2026/10/18/LRELQPRB6BA2DFT3QPCLVNZ254/",
+    "published_at": "2026-10-17T21:00:00Z",
+    "category": "economy",
+    "description": null
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "[당신의 생각은] “외부인 막아야” vs “얼굴 정보 못 맡겨”… 아파트 안면인식 갈등",
+    "link": "https://biz.chosun.com/topics/topics_social/2026/10/18/AVS73LUPFVHNFD5B56RSZT6T5M/",
+    "published_at": "2026-10-17T21:00:00Z",
+    "category": "realEstate",
+    "description": null
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "서울 연내 착공 물량 절반이 철거 중… 3만가구 목표 시험대",
+    "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/10/18/FZD42C4335FJ3NO77U6M3HLMOM/",
+    "published_at": "2026-10-17T21:00:00Z",
+    "category": "economy",
+    "description": null
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "6번째 국산 이지스함에 왜 김종서 장군 이름이?… 함종별 다른 작명법",
+    "link": "https://biz.chosun.com/industry/company/2026/10/18/CHXDGOYU2NA23PZKZYPLAOIYI4/",
+    "published_at": "2026-10-17T21:00:00Z",
+    "category": "economy",
+    "description": null
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "보험사 기본자본 규제 코앞인데… 롯데·하나 등 기준 미달",
+    "link": "https://biz.chosun.com/stock/finance/2026/10/18/O5E4B6K5LNETPDVXQ4Q5HB7T4Y/",
+    "published_at": "2026-10-17T21:00:00Z",
+    "category": "economy",
+    "description": null
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "[시승기] 한계를 가늠할 수 없는 700마력의 힘… 맥라렌 ‘아투라 스파이더’",
+    "link": "https://biz.chosun.com/industry/car/2026/10/18/BW7IT3HUOZCTNLCHPLBZ6J2XLY/",
+    "published_at": "2026-10-17T21:00:00Z",
+    "category": "economy",
+    "description": null
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "[경제 포커스] ‘거액 탈세 의혹’ 빅 3… 선박왕만 4000억 내고 구리왕·완구왕은 한 푼도 안 냈다",
+    "link": "https://biz.chosun.com/policy/policy_sub/2026/10/18/5EXFXJ6WP5HXFIH2ICJXKHTMRA/",
+    "published_at": "2026-10-17T21:00:00Z",
+    "category": "economy",
+    "description": null
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "[인터뷰] 남성훈 아이엠박스 대표 “빈 상가를 개인 창고로… 건물주와 수입 나눈다”",
+    "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/10/18/EV2SLVT7X5C7ZBYDLPYFQRWOKM/",
+    "published_at": "2026-10-17T21:00:00Z",
+    "category": "economy",
+    "description": null
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "[농촌활력] ‘K-배’ 수출 전초기지 아산원예농협… 태극기 새긴 ‘표준 포장재’ 도입",
+    "link": "https://biz.chosun.com/topics/topics_social/2026/10/18/R6TKMDV4LBFXRD66QDOKGXMKH4/",
+    "published_at": "2026-10-17T21:00:00Z",
+    "category": "economy",
+    "description": null
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "[인터뷰] 포항에 둥지 튼 바이오 석학 루크 리 “글로벌 인재 끌어당길 ‘바젤형 연구도시’ 만들어야”",
+    "link": "https://biz.chosun.com/science-chosun/science/2026/10/18/XPDNSZRPDBBEJHLFBHWB52HUNE/",
+    "published_at": "2026-10-17T21:00:00Z",
+    "category": "economy",
+    "description": null
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "노윤서, 막 찍어도 살아남는 ‘비주얼’..역시 이대 여신",
+    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/18/GJTGIMZXMJSGKZDCGI2DQYTBGA/",
+    "published_at": "2026-10-17T20:40:00Z",
+    "category": "economy",
+    "description": "배우 노윤서가 화보 같은 일상을 전했다.18일 노윤서는 자신의 계정에 “내내 젤리만 먹었떤”이라는 글과 함께 여러 장의 사진을 게재했다.사진 속 노윤서는 여행 중인 근황과 함께 거리에서 양손 가득 젤리를 들고 포즈를 취하고 있는 모습이 담겼다. 후드에 모자를 쓰거나 나시에 셔츠를 걸치는 등 다양한 스타일을 선보인 그는 다채로운 매력을 뽐내기도 했다.무엇보다"
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "\"로버츠보다 극한 직업 없다, 1년 전 다저스 축하 모습 보고…\" 밀워키 승자의 품격, MVP는 왜 자극받았나",
+    "link": "https://biz.chosun.com/sports/baseball/2026/10/18/GAYDGZDGHEZWIZTGGI2DENBZMI/",
+    "published_at": "2026-10-17T20:31:00Z",
+    "category": "economy",
+    "description": "우승 아니면 실패. LA 다저스 데이브 로버츠 감독이 매년 짊어지는 그 부담을 상대 감독도 헤아렸다. 다저스를 4전 전패로 무너뜨리며 월드시리즈 3연패를 저지한 밀워키 브루어스 팻 머피 감독이 진심 어린 존중을 표했다. 밀워키는 지난 16일(이하 한국시간) 내셔널리그 챔피언십시리즈(NLCS) 4차전에서 6-4로 역전승, 시리즈 전적 4전 전승으로 44년 만"
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "‘이런 악연이 또 있을까?’ 힘들게 결승 오른 야마구치, 상대가 43연승+승률 98.4% 또 안세영이다",
+    "link": "https://biz.chosun.com/sports/sports_general/2026/10/18/MVSDAMBXGE3WKYRRHEYGCYJQGQ/",
+    "published_at": "2026-10-17T19:45:00Z",
+    "category": "economy",
+    "description": "결승전에 올랐는데 기쁘지가 않다. 상대가 ‘세계 1위’ 안세영(24, 삼성생명)이기 때문이다. 세계랭킹 1위 안세영은 17일(한국시간) 덴마크 오덴세의 SJF 방크 아레나에서 열린 2026 세계배드민턴연맹(BWF) 월드투어 덴마크 오픈(슈퍼 750) 여자단식 4강전에서 세계 11위 오쿠하라 노조미를 게임스코어 2-0(21-16, 21-8)으로 누르고 결승에"
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "‘지난해 타율 .528 원맨쇼’ NC 고준휘, 두 번째 폴리그는 다르다…“부족한 부분 채우는 게 우선”",
+    "link": "https://biz.chosun.com/sports/baseball/2026/10/18/GZTGEMRVMZSWGYTCME3TGN3FMU/",
+    "published_at": "2026-10-17T19:00:00Z",
+    "category": "economy",
+    "description": "지난해 폴리그에서 타율 5할2푼8리의 맹타를 휘두르며 강렬한 인상을 남겼던 프로야구 NC 다이노스 외야수 고준휘. 두 번째 가을 무대에 나선 그의 시선은 당장의 성적보다 한 단계 성장하는 데 맞춰져 있다.고준휘는 지난 17일 기장볼파크에서 열린 고양 히어로즈와의 경기에 2번 좌익수로 선발 출장해 6타수 1안타 3타점을 기록했다. NC는 장단 18안타를 몰아"
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "‘1000명 넘게 몰렸다’ 울산-롯데 라이벌전, 가을에도 뜨거웠다…울산웨일즈 또 이겼다",
+    "link": "https://biz.chosun.com/sports/baseball/2026/10/18/GI2GGYJTMRRTINRUGI3TQOJZMU/",
+    "published_at": "2026-10-17T18:00:00Z",
+    "category": "economy",
+    "description": "정규시즌이 끝났어도 울산과 부산의 야구 열기는 식지 않았다. 울산웨일즈와 롯데 자이언츠의 맞대결에 1000명이 넘는 관중이 몰리며 가을 야구장을 뜨겁게 달궜다. 승부에서는 울산웨일즈가 웃었다.울산웨일즈는 지난 17일 울산 문수야구장에서 열린 2026 울산-KBO FALL LEAGUE 롯데 자이언츠와의 경기에서 2-1로 승리했다. 선발 조제영의 무실점 호투에"
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "“진짜 컨디션 안 좋았다” 4아웃 무실점 세이브 마무리 충격 고백, 첫 PS 세이브 아닌 팀 승리만 생각했다",
+    "link": "https://biz.chosun.com/sports/baseball/2026/10/18/MI2TCMJRMY3GKN3DGAZTQNDGGA/",
+    "published_at": "2026-10-17T17:10:00Z",
+    "category": "economy",
+    "description": "프로야구 KIA 타이거즈 전상현(30)이 데뷔 첫 포스트시즌 세이브를 달성했다. 전상현은 17일 광주-기아 챔피언스 필드에서 열린 ‘2026 신한 SOL KBO 준플레이오프’ 1차전 LG 트윈스와의 경기에 구원 등판해 1⅓이닝 2피안타 무실점 세이브를 기록했다. 데뷔 첫 포스트시즌 세이브다. KIA가 3-1로 앞선 8회초 2사 1루에서 마운드에 오른 전상현"
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "‘이수만 걸그룹’ A2O LITE 도입무 안무, 제이블랙이 짰다..“더 어렵게 해달라고”",
+    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/18/GM4DKODGHA3DAMTFG42DONRTMI/",
+    "published_at": "2026-10-17T16:55:00Z",
+    "category": "economy",
+    "description": "안무가 겸 댄서 제이블랙이 ‘이수만 걸그룹’ A2O LITE의 도입부 안무를 제작하며 비하인드 스토리를 밝혔다.16일 유튜브 채널 ‘스튜디오와글와글’에는 제이블랙과 마리가 A2O LITE의 ‘NEON’ 인트로 안무를 두고 이야기를 나누는 모습이 공개됐다.제이블랙은 A2O LITE의 ‘NEON’ 도입부 안무를 제작했다. 도입부 안무에서는 멤버 아이찡과 시리가"
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "エジプト大統領サウジ防衛支援表明 同盟強化へ",
+    "link": "https://biz.chosun.com/jp/jp-international/2026/10/18/HL7YAYKVU5C6PFLG43HSVLACYE/",
+    "published_at": "2026-10-17T16:26:02Z",
+    "category": "economy",
+    "description": null
+  },
+  {
+    "source_name": "조선비즈",
+    "title": "이집트 대통령 “사우디 요청시 군사 지원… 방어 방어 위한 조치”",
+    "link": "https://biz.chosun.com/international/international_general/2026/10/18/VHSDHHFLRVEUZA5MXTPIV25KRE/",
+    "published_at": "2026-10-17T16:26:02Z",
+    "category": "economy",
     "description": null
   }
 ]
