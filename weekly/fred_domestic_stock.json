@@ -2738,5 +2738,10 @@
     "series": "domestic_stock",
     "date": "2026-08-01",
     "value": 330.6228
+  },
+  {
+    "series": "domestic_stock",
+    "date": "2026-09-01",
+    "value": 341.5358
   }
 ]
