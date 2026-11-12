@@ -64,5 +64,11 @@
     "item_code": "0101000",
     "time_period": "202609",
     "value": 3.0
+  },
+  {
+    "stat_code": "722Y001",
+    "item_code": "0101000",
+    "time_period": "202610",
+    "value": 3.0
   }
 ]
