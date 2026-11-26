@@ -1,5 +1,86 @@
 [
   {
+    "house_manage_no": "2026000598",
+    "notice_no": "2026000598",
+    "house_name": "고창 데시앙 2블록(공공분양)",
+    "region_name": "전북",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-11-20"
+  },
+  {
+    "house_manage_no": "2026000597",
+    "notice_no": "2026000597",
+    "house_name": "고창 데시앙 3블록(공공분양)",
+    "region_name": "전북",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-11-20"
+  },
+  {
+    "house_manage_no": "2026000596",
+    "notice_no": "2026000596",
+    "house_name": "고창 데시앙 2블록(민영)",
+    "region_name": "전북",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-11-20"
+  },
+  {
+    "house_manage_no": "2026000591",
+    "notice_no": "2026000591",
+    "house_name": "소사 휴먼빌",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-11-20"
+  },
+  {
+    "house_manage_no": "2026000590",
+    "notice_no": "2026000590",
+    "house_name": "두산위브 시그니처 광양",
+    "region_name": "전남",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-11-20"
+  },
+  {
+    "house_manage_no": "2026000510",
+    "notice_no": "2026000510",
+    "house_name": "연산역 수자인 센트리오",
+    "region_name": "부산",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-11-20"
+  },
+  {
+    "house_manage_no": "2026000585",
+    "notice_no": "2026000585",
+    "house_name": "고양 한신더휴 퍼스트원",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-11-19"
+  },
+  {
+    "house_manage_no": "2026000575",
+    "notice_no": "2026000575",
+    "house_name": "왕숙 한신더휴 센텀(남양주 왕숙 A-17BL) 공공분양주택",
+    "region_name": "경기",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-11-19"
+  },
+  {
+    "house_manage_no": "2026000521",
+    "notice_no": "2026000521",
+    "house_name": "더샵 천안라크원",
+    "region_name": "충남",
+    "house_type": "APT",
+    "supply_type": "분양주택",
+    "notice_date": "2026-11-19"
+  },
+  {
     "house_manage_no": "2026000559",
     "notice_no": "2026000559",
     "house_name": "두산위브 트레지움 익산",
@@ -817,86 +898,5 @@
     "house_type": "APT",
     "supply_type": "분양주택",
     "notice_date": "2026-08-27"
-  },
-  {
-    "house_manage_no": "2026000409",
-    "notice_no": "2026000409",
-    "house_name": "의정부우정 A2블록 공공분양주택(본청약)",
-    "region_name": "경기",
-    "house_type": "APT",
-    "supply_type": "분양주택",
-    "notice_date": "2026-08-26"
-  },
-  {
-    "house_manage_no": "2026000404",
-    "notice_no": "2026000404",
-    "house_name": "검암역 푸르지오 프라베뉴 (B-1BL) 공공분양주택",
-    "region_name": "인천",
-    "house_type": "APT",
-    "supply_type": "분양주택",
-    "notice_date": "2026-08-21"
-  },
-  {
-    "house_manage_no": "2026000388",
-    "notice_no": "2026000388",
-    "house_name": "시티오씨엘 9단지 오션파크뷰",
-    "region_name": "인천",
-    "house_type": "APT",
-    "supply_type": "분양주택",
-    "notice_date": "2026-08-21"
-  },
-  {
-    "house_manage_no": "2026000383",
-    "notice_no": "2026000383",
-    "house_name": "포레나힐스테이트 진주",
-    "region_name": "경남",
-    "house_type": "APT",
-    "supply_type": "분양주택",
-    "notice_date": "2026-08-14"
-  },
-  {
-    "house_manage_no": "2026000372",
-    "notice_no": "2026000372",
-    "house_name": "쌍용 더 플래티넘 서대문",
-    "region_name": "서울",
-    "house_type": "APT",
-    "supply_type": "분양주택",
-    "notice_date": "2026-08-14"
-  },
-  {
-    "house_manage_no": "2026000368",
-    "notice_no": "2026000368",
-    "house_name": "아르티엠 라 테라스",
-    "region_name": "전북",
-    "house_type": "APT",
-    "supply_type": "분양주택",
-    "notice_date": "2026-08-14"
-  },
-  {
-    "house_manage_no": "2026000354",
-    "notice_no": "2026000354",
-    "house_name": "상동역 롯데캐슬 시그니처",
-    "region_name": "경기",
-    "house_type": "APT",
-    "supply_type": "분양주택",
-    "notice_date": "2026-08-14"
-  },
-  {
-    "house_manage_no": "2026000342",
-    "notice_no": "2026000342",
-    "house_name": "제일풍경채 첨단3지구(A6BL)",
-    "region_name": "광주",
-    "house_type": "APT",
-    "supply_type": "분양주택",
-    "notice_date": "2026-08-14"
-  },
-  {
-    "house_manage_no": "2026000377",
-    "notice_no": "2026000377",
-    "house_name": "의왕역 한신더휴",
-    "region_name": "경기",
-    "house_type": "APT",
-    "supply_type": "분양주택",
-    "notice_date": "2026-08-13"
   }
 ]
